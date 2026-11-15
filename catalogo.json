@@ -22,6 +22,7 @@
       "price": 346600,
       "category": "Aceites y lubricantes",
       "image": ""
+      "available": false
     },
     {
       "id": "2",
@@ -30,6 +31,7 @@
       "price": 373300,
       "category": "Aceites y lubricantes",
       "image": ""
+      "available": false
     },
     {
       "id": "3",
@@ -38,6 +40,7 @@
       "price": 28900,
       "category": "Aceites y lubricantes",
       "image": ""
+      "available": false
     },
     {
       "id": "4",
@@ -62,6 +65,7 @@
       "price": 24500,
       "category": "Aceites y lubricantes",
       "image": ""
+      "available": false
     },
     {
       "id": "7",
