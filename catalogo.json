@@ -21,7 +21,9 @@
       "reference": "",
       "price": 346600,
       "category": "Aceites y lubricantes",
-      "image": ""    
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "2",
@@ -29,7 +31,9 @@
       "reference": "",
       "price": 373300,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "3",
@@ -37,7 +41,9 @@
       "reference": "",
       "price": 28900,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "4",
@@ -45,7 +51,9 @@
       "reference": "",
       "price": 5800,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "5",
@@ -53,7 +61,9 @@
       "reference": "601325",
       "price": 33500,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "6",
@@ -62,7 +72,8 @@
       "price": 24500,
       "category": "Aceites y lubricantes",
       "image": "",
-      "available": false
+      "available": false,
+      "stock": 0
     },
     {
       "id": "7",
@@ -70,7 +81,9 @@
       "reference": "CA685",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "8",
@@ -78,7 +91,9 @@
       "reference": "",
       "price": 92200,
       "category": "Amortiguación y suspensión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "9",
@@ -86,7 +101,9 @@
       "reference": "2160",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 22,
+      "available": true
     },
     {
       "id": "10",
@@ -94,7 +111,9 @@
       "reference": "2057",
       "price": 2600,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 29,
+      "available": true
     },
     {
       "id": "11",
@@ -102,7 +121,9 @@
       "reference": "8984",
       "price": 1900,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 18,
+      "available": true
     },
     {
       "id": "12",
@@ -110,7 +131,9 @@
       "reference": "2061",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 48,
+      "available": true
     },
     {
       "id": "13",
@@ -118,7 +141,9 @@
       "reference": "2062",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 33,
+      "available": true
     },
     {
       "id": "14",
@@ -126,7 +151,9 @@
       "reference": "2064",
       "price": 2700,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 26,
+      "available": true
     },
     {
       "id": "15",
@@ -134,7 +161,9 @@
       "reference": "2594",
       "price": 3800,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "16",
@@ -142,7 +171,9 @@
       "reference": "4007",
       "price": 4300,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "17",
@@ -150,7 +181,9 @@
       "reference": "REP017",
       "price": 2400,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 33,
+      "available": true
     },
     {
       "id": "18",
@@ -158,7 +191,9 @@
       "reference": "Rep019",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 110,
+      "available": true
     },
     {
       "id": "19",
@@ -166,7 +201,9 @@
       "reference": "Rep020",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 23,
+      "available": true
     },
     {
       "id": "20",
@@ -174,7 +211,9 @@
       "reference": "Rep021",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 27,
+      "available": true
     },
     {
       "id": "21",
@@ -182,7 +221,9 @@
       "reference": "Rep022",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 21,
+      "available": true
     },
     {
       "id": "22",
@@ -190,7 +231,9 @@
       "reference": "Rep029",
       "price": 5300,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "23",
@@ -198,7 +241,9 @@
       "reference": "REP023",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "24",
@@ -206,7 +251,9 @@
       "reference": "Rep024",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "25",
@@ -214,7 +261,9 @@
       "reference": "Rep025",
       "price": 3000,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "26",
@@ -222,7 +271,9 @@
       "reference": "Rep705",
       "price": 5600,
       "category": "Balineras y rodamientos",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "27",
@@ -230,7 +281,9 @@
       "reference": "7005",
       "price": 10900,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 16,
+      "available": true
     },
     {
       "id": "28",
@@ -238,7 +291,9 @@
       "reference": "8027",
       "price": 13600,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "29",
@@ -246,7 +301,9 @@
       "reference": "REP1011",
       "price": 9600,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 45,
+      "available": true
     },
     {
       "id": "30",
@@ -254,7 +311,9 @@
       "reference": "REP033",
       "price": 10900,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 23,
+      "available": true
     },
     {
       "id": "31",
@@ -262,7 +321,9 @@
       "reference": "Rep032",
       "price": 10900,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 13,
+      "available": true
     },
     {
       "id": "32",
@@ -270,7 +331,9 @@
       "reference": "Rep031",
       "price": 10800,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 22,
+      "available": true
     },
     {
       "id": "33",
@@ -278,7 +341,9 @@
       "reference": "1978",
       "price": 23700,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "34",
@@ -286,7 +351,9 @@
       "reference": "Rep035",
       "price": 11300,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "35",
@@ -294,7 +361,9 @@
       "reference": "Rep056",
       "price": 35400,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "36",
@@ -302,7 +371,9 @@
       "reference": "Rep057",
       "price": 50400,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "37",
@@ -310,7 +381,9 @@
       "reference": "Rep053",
       "price": 62900,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "38",
@@ -318,7 +391,9 @@
       "reference": "Rep058",
       "price": 64400,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "39",
@@ -326,7 +401,9 @@
       "reference": "Rep060",
       "price": 46100,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "40",
@@ -334,7 +411,9 @@
       "reference": "Rep061",
       "price": 63300,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "41",
@@ -342,7 +421,9 @@
       "reference": "Rep062",
       "price": 69500,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "42",
@@ -350,7 +431,9 @@
       "reference": "8490",
       "price": 25800,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "43",
@@ -358,7 +441,9 @@
       "reference": "PTR296",
       "price": 979,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 60,
+      "available": true
     },
     {
       "id": "44",
@@ -366,7 +451,9 @@
       "reference": "Rep256",
       "price": 12800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 16,
+      "available": true
     },
     {
       "id": "45",
@@ -374,7 +461,9 @@
       "reference": "4113",
       "price": 1700,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "46",
@@ -382,7 +471,9 @@
       "reference": "9070",
       "price": 1700,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "47",
@@ -390,7 +481,9 @@
       "reference": "4115",
       "price": 2800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "48",
@@ -398,7 +491,9 @@
       "reference": "2474",
       "price": 2500,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "49",
@@ -406,7 +501,9 @@
       "reference": "9155",
       "price": 2600,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "50",
@@ -414,7 +511,9 @@
       "reference": "Rep972",
       "price": 10800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "51",
@@ -422,7 +521,9 @@
       "reference": "",
       "price": 4900,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "52",
@@ -430,7 +531,9 @@
       "reference": "PTR295",
       "price": 686,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 160,
+      "available": true
     },
     {
       "id": "53",
@@ -438,7 +541,9 @@
       "reference": "PTR002",
       "price": 2000,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 42,
+      "available": true
     },
     {
       "id": "54",
@@ -446,7 +551,9 @@
       "reference": "8244",
       "price": 2700,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "55",
@@ -454,7 +561,9 @@
       "reference": "PTR003",
       "price": 929,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 88,
+      "available": true
     },
     {
       "id": "56",
@@ -462,7 +571,9 @@
       "reference": "",
       "price": 3000,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "57",
@@ -470,7 +581,9 @@
       "reference": "Rep955",
       "price": 13200,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "58",
@@ -478,7 +591,9 @@
       "reference": "",
       "price": 4000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "59",
@@ -486,7 +601,9 @@
       "reference": "PTR787",
       "price": 3900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "60",
@@ -494,7 +611,9 @@
       "reference": "PTR847-O",
       "price": 6500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "61",
@@ -502,7 +621,9 @@
       "reference": "PTR958-G",
       "price": 2400,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "62",
@@ -510,7 +631,9 @@
       "reference": "PTR790",
       "price": 3500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "63",
@@ -518,7 +641,9 @@
       "reference": "PTR791",
       "price": 7750,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "64",
@@ -526,7 +651,9 @@
       "reference": "",
       "price": 4000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "65",
@@ -534,7 +661,9 @@
       "reference": "2336",
       "price": 8900,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "66",
@@ -542,7 +671,9 @@
       "reference": "Rep112",
       "price": 3600,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 80,
+      "available": true
     },
     {
       "id": "67",
@@ -550,7 +681,9 @@
       "reference": "Rep115",
       "price": 2800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 36,
+      "available": true
     },
     {
       "id": "68",
@@ -558,7 +691,9 @@
       "reference": "Rep111",
       "price": 2500,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 88,
+      "available": true
     },
     {
       "id": "69",
@@ -566,7 +701,9 @@
       "reference": "Rep973",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 30,
+      "available": true
     },
     {
       "id": "70",
@@ -574,7 +711,9 @@
       "reference": "REP113",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "71",
@@ -582,7 +721,9 @@
       "reference": "2252",
       "price": 17900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "72",
@@ -590,7 +731,9 @@
       "reference": "",
       "price": 22200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "73",
@@ -598,7 +741,9 @@
       "reference": "Rep160",
       "price": 23200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "74",
@@ -606,7 +751,9 @@
       "reference": "Rep161",
       "price": 18300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "75",
@@ -614,7 +761,9 @@
       "reference": "Rep162",
       "price": 35500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "76",
@@ -622,7 +771,9 @@
       "reference": "3494",
       "price": 25000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "77",
@@ -630,7 +781,9 @@
       "reference": "PTR162",
       "price": 8600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "78",
@@ -638,7 +791,9 @@
       "reference": "",
       "price": 13500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "79",
@@ -646,7 +801,9 @@
       "reference": "",
       "price": 8200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "80",
@@ -654,7 +811,9 @@
       "reference": "",
       "price": 42900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "81",
@@ -662,7 +821,9 @@
       "reference": "",
       "price": 42900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "82",
@@ -670,7 +831,9 @@
       "reference": "CA20",
       "price": 17000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "83",
@@ -678,7 +841,9 @@
       "reference": "",
       "price": 27900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "84",
@@ -686,7 +851,9 @@
       "reference": "Rep164",
       "price": 60300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "85",
@@ -694,7 +861,9 @@
       "reference": "PTR170",
       "price": 55800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "86",
@@ -702,7 +871,9 @@
       "reference": "Rep332",
       "price": 89200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "87",
@@ -710,7 +881,9 @@
       "reference": "PTR969-G",
       "price": 61300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "88",
@@ -718,7 +891,9 @@
       "reference": "",
       "price": 2000,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "89",
@@ -726,7 +901,9 @@
       "reference": "7422",
       "price": 1800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 19,
+      "available": true
     },
     {
       "id": "90",
@@ -734,7 +911,9 @@
       "reference": "7687",
       "price": 5200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "91",
@@ -742,7 +921,9 @@
       "reference": "",
       "price": 5400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "92",
@@ -750,7 +931,9 @@
       "reference": "",
       "price": 5000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "93",
@@ -758,7 +941,9 @@
       "reference": "8346",
       "price": 4000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "94",
@@ -766,7 +951,9 @@
       "reference": "",
       "price": 3600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 13,
+      "available": true
     },
     {
       "id": "95",
@@ -774,7 +961,9 @@
       "reference": "4654",
       "price": 4800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 22,
+      "available": true
     },
     {
       "id": "96",
@@ -782,7 +971,9 @@
       "reference": "8386",
       "price": 5600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "97",
@@ -790,7 +981,9 @@
       "reference": "8345",
       "price": 3300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "98",
@@ -798,7 +991,9 @@
       "reference": "8599",
       "price": 4000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 18,
+      "available": true
     },
     {
       "id": "99",
@@ -806,7 +1001,9 @@
       "reference": "8347",
       "price": 4300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "100",
@@ -814,7 +1011,9 @@
       "reference": "4655",
       "price": 4600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "101",
@@ -822,7 +1021,9 @@
       "reference": "",
       "price": 79900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "102",
@@ -830,7 +1031,9 @@
       "reference": "",
       "price": 360,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "103",
@@ -838,7 +1041,9 @@
       "reference": "",
       "price": 13000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 110,
+      "available": true
     },
     {
       "id": "104",
@@ -846,7 +1051,9 @@
       "reference": "",
       "price": 57900,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "105",
@@ -854,7 +1061,9 @@
       "reference": "4033",
       "price": 31300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "106",
@@ -862,7 +1071,9 @@
       "reference": "",
       "price": 3600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "107",
@@ -870,7 +1081,9 @@
       "reference": "",
       "price": 17400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "108",
@@ -878,7 +1091,9 @@
       "reference": "8652",
       "price": 8300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "109",
@@ -886,7 +1101,9 @@
       "reference": "DNL104",
       "price": 9700,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "110",
@@ -894,7 +1111,9 @@
       "reference": "DNL105",
       "price": 9700,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "111",
@@ -902,7 +1121,9 @@
       "reference": "PTR616",
       "price": 5600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "112",
@@ -910,7 +1131,9 @@
       "reference": "PTR615",
       "price": 5600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "113",
@@ -918,7 +1141,9 @@
       "reference": "PTR618",
       "price": 5600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "114",
@@ -926,7 +1151,9 @@
       "reference": "PTR614",
       "price": 5300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "115",
@@ -934,7 +1161,9 @@
       "reference": "",
       "price": 6900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "116",
@@ -942,7 +1171,9 @@
       "reference": "",
       "price": 5800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "117",
@@ -950,7 +1181,9 @@
       "reference": "",
       "price": 5200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "118",
@@ -958,7 +1191,9 @@
       "reference": "",
       "price": 720,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "119",
@@ -966,7 +1201,9 @@
       "reference": "CA1224",
       "price": 80000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "120",
@@ -974,7 +1211,9 @@
       "reference": "7219",
       "price": 10900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "121",
@@ -982,7 +1221,9 @@
       "reference": "3535",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "122",
@@ -990,7 +1231,9 @@
       "reference": "",
       "price": 9200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "123",
@@ -998,7 +1241,9 @@
       "reference": "2764",
       "price": 11300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "124",
@@ -1006,7 +1251,9 @@
       "reference": "",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "125",
@@ -1014,7 +1261,9 @@
       "reference": "2080",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "126",
@@ -1022,7 +1271,9 @@
       "reference": "Rep929",
       "price": 12800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "127",
@@ -1030,7 +1281,9 @@
       "reference": "PTR964-G",
       "price": 11800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "128",
@@ -1038,7 +1291,9 @@
       "reference": "PTR021",
       "price": 2800,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 11,
+      "available": true
     },
     {
       "id": "129",
@@ -1046,7 +1301,9 @@
       "reference": "",
       "price": 3600,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 13,
+      "available": true
     },
     {
       "id": "130",
@@ -1054,7 +1311,9 @@
       "reference": "PTR023",
       "price": 3200,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 19,
+      "available": true
     },
     {
       "id": "131",
@@ -1062,7 +1321,9 @@
       "reference": "PTR022",
       "price": 4300,
       "category": "Aceites y lubricantes",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "132",
@@ -1070,7 +1331,9 @@
       "reference": "Rep280",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "133",
@@ -1078,7 +1341,9 @@
       "reference": "PTR183",
       "price": 3000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 54,
+      "available": true
     },
     {
       "id": "134",
@@ -1086,7 +1351,9 @@
       "reference": "",
       "price": 180,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "135",
@@ -1094,7 +1361,9 @@
       "reference": "",
       "price": 180,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 95,
+      "available": true
     },
     {
       "id": "136",
@@ -1102,7 +1371,9 @@
       "reference": "Rep902",
       "price": 7900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 95,
+      "available": true
     },
     {
       "id": "137",
@@ -1110,7 +1381,9 @@
       "reference": "",
       "price": 14300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "138",
@@ -1118,7 +1391,9 @@
       "reference": "",
       "price": 13800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "139",
@@ -1126,7 +1401,9 @@
       "reference": "",
       "price": 13800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "140",
@@ -1134,7 +1411,9 @@
       "reference": "",
       "price": 13800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 80,
+      "available": true
     },
     {
       "id": "141",
@@ -1142,7 +1421,9 @@
       "reference": "",
       "price": 15650,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 82,
+      "available": true
     },
     {
       "id": "142",
@@ -1150,7 +1431,9 @@
       "reference": "",
       "price": 71500,
       "category": "Herramientas y equipos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "143",
@@ -1158,7 +1441,9 @@
       "reference": "",
       "price": 174400,
       "category": "Herramientas y equipos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "144",
@@ -1166,7 +1451,9 @@
       "reference": "CA522",
       "price": 757400,
       "category": "Herramientas y equipos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "145",
@@ -1174,7 +1461,9 @@
       "reference": "",
       "price": 700,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 196,
+      "available": true
     },
     {
       "id": "146",
@@ -1182,7 +1471,9 @@
       "reference": "",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 107,
+      "available": true
     },
     {
       "id": "147",
@@ -1190,7 +1481,9 @@
       "reference": "",
       "price": 5300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "148",
@@ -1198,7 +1491,9 @@
       "reference": "",
       "price": 3400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "149",
@@ -1206,7 +1501,9 @@
       "reference": "",
       "price": 8000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "150",
@@ -1214,7 +1511,9 @@
       "reference": "CA470",
       "price": 4900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "151",
@@ -1222,7 +1521,9 @@
       "reference": "",
       "price": 4200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "152",
@@ -1230,7 +1531,9 @@
       "reference": "GYA304",
       "price": 10900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "153",
@@ -1238,7 +1541,9 @@
       "reference": "",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "154",
@@ -1246,7 +1551,9 @@
       "reference": "",
       "price": 6400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "155",
@@ -1254,7 +1561,9 @@
       "reference": "",
       "price": 10500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "156",
@@ -1262,7 +1571,9 @@
       "reference": "",
       "price": 8000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "157",
@@ -1270,7 +1581,9 @@
       "reference": "",
       "price": 5900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "158",
@@ -1278,7 +1591,9 @@
       "reference": "CA1071",
       "price": 15000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "159",
@@ -1286,7 +1601,9 @@
       "reference": "",
       "price": 5900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "160",
@@ -1294,7 +1611,9 @@
       "reference": "",
       "price": 8500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "161",
@@ -1302,7 +1621,9 @@
       "reference": "",
       "price": 1050,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 58,
+      "available": true
     },
     {
       "id": "162",
@@ -1310,7 +1631,9 @@
       "reference": "",
       "price": 6800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "163",
@@ -1318,7 +1641,9 @@
       "reference": "PTR009",
       "price": 4100,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "164",
@@ -1326,7 +1651,9 @@
       "reference": "",
       "price": 7500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "165",
@@ -1334,7 +1661,9 @@
       "reference": "2271",
       "price": 900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 198,
+      "available": true
     },
     {
       "id": "166",
@@ -1342,7 +1671,9 @@
       "reference": "",
       "price": 6900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "167",
@@ -1350,7 +1681,9 @@
       "reference": "",
       "price": 6800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "168",
@@ -1358,7 +1691,9 @@
       "reference": "CA631",
       "price": 4900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "169",
@@ -1366,7 +1701,9 @@
       "reference": "CA468",
       "price": 5000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "170",
@@ -1374,7 +1711,9 @@
       "reference": "",
       "price": 7700,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 11,
+      "available": true
     },
     {
       "id": "171",
@@ -1382,7 +1721,9 @@
       "reference": "",
       "price": 8500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "172",
@@ -1390,7 +1731,9 @@
       "reference": "",
       "price": 7900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 11,
+      "available": true
     },
     {
       "id": "173",
@@ -1398,7 +1741,9 @@
       "reference": "GYF301",
       "price": 6800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "174",
@@ -1406,7 +1751,9 @@
       "reference": "",
       "price": 186,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 500,
+      "available": true
     },
     {
       "id": "175",
@@ -1414,7 +1761,9 @@
       "reference": "",
       "price": 5500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "176",
@@ -1422,7 +1771,9 @@
       "reference": "CA7",
       "price": 24300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "177",
@@ -1430,7 +1781,9 @@
       "reference": "",
       "price": 35800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "178",
@@ -1438,7 +1791,9 @@
       "reference": "",
       "price": 42900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "179",
@@ -1446,7 +1801,9 @@
       "reference": "PTR327",
       "price": 49300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "180",
@@ -1454,7 +1811,9 @@
       "reference": "PTR314",
       "price": 46100,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "181",
@@ -1462,7 +1821,9 @@
       "reference": "PTR313",
       "price": 45100,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "182",
@@ -1470,7 +1831,9 @@
       "reference": "PTR312",
       "price": 56500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "183",
@@ -1478,7 +1841,9 @@
       "reference": "PTR316",
       "price": 44600,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "184",
@@ -1486,7 +1851,9 @@
       "reference": "1184",
       "price": 72100,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "185",
@@ -1494,7 +1861,9 @@
       "reference": "",
       "price": 96100,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "186",
@@ -1502,7 +1871,9 @@
       "reference": "1439",
       "price": 114000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "187",
@@ -1510,7 +1881,9 @@
       "reference": "8051",
       "price": 100100,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "188",
@@ -1518,7 +1891,9 @@
       "reference": "",
       "price": 80400,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "189",
@@ -1526,7 +1901,9 @@
       "reference": "",
       "price": 81300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "190",
@@ -1534,7 +1911,9 @@
       "reference": "",
       "price": 82750,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "191",
@@ -1542,7 +1921,9 @@
       "reference": "",
       "price": 115200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "192",
@@ -1550,7 +1931,9 @@
       "reference": "",
       "price": 56600,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "193",
@@ -1558,7 +1941,9 @@
       "reference": "2881",
       "price": 30000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "194",
@@ -1566,7 +1951,9 @@
       "reference": "PTR933-G",
       "price": 4600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "195",
@@ -1574,7 +1961,9 @@
       "reference": "PTR902-G",
       "price": 4600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "196",
@@ -1582,7 +1971,9 @@
       "reference": "",
       "price": 2500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "197",
@@ -1590,7 +1981,9 @@
       "reference": "2513",
       "price": 1900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "198",
@@ -1598,7 +1991,9 @@
       "reference": "3057",
       "price": 2700,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "199",
@@ -1606,7 +2001,9 @@
       "reference": "",
       "price": 2500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 16,
+      "available": true
     },
     {
       "id": "200",
@@ -1614,7 +2011,9 @@
       "reference": "",
       "price": 4200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "201",
@@ -1622,7 +2021,9 @@
       "reference": "GEO047",
       "price": 110600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "202",
@@ -1630,7 +2031,9 @@
       "reference": "GEO211",
       "price": 112800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "203",
@@ -1638,7 +2041,9 @@
       "reference": "GEO048",
       "price": 107200,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "204",
@@ -1646,7 +2051,9 @@
       "reference": "GEO078",
       "price": 120600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "205",
@@ -1654,7 +2061,9 @@
       "reference": "GEO050",
       "price": 99400,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "206",
@@ -1662,7 +2071,9 @@
       "reference": "GEO222",
       "price": 97600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "207",
@@ -1670,7 +2081,9 @@
       "reference": "GEO016",
       "price": 121700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "208",
@@ -1678,7 +2091,9 @@
       "reference": "GEO039",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "209",
@@ -1686,7 +2101,9 @@
       "reference": "GEO012",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "210",
@@ -1694,7 +2111,9 @@
       "reference": "GEO018",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "211",
@@ -1702,7 +2121,9 @@
       "reference": "GEO013",
       "price": 121700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "212",
@@ -1710,7 +2131,9 @@
       "reference": "GEO011",
       "price": 98300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "213",
@@ -1718,7 +2141,9 @@
       "reference": "",
       "price": 107200,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "214",
@@ -1726,7 +2151,9 @@
       "reference": "GEO051",
       "price": 107200,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "215",
@@ -1734,7 +2161,9 @@
       "reference": "GEO014",
       "price": 127400,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "216",
@@ -1742,7 +2171,9 @@
       "reference": "GEO046",
       "price": 140600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "217",
@@ -1750,7 +2181,9 @@
       "reference": "GEO215",
       "price": 140600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "218",
@@ -1758,7 +2191,9 @@
       "reference": "GEO094",
       "price": 54100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "219",
@@ -1766,7 +2201,9 @@
       "reference": "GEO099",
       "price": 62600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "220",
@@ -1774,7 +2211,9 @@
       "reference": "GEO301",
       "price": 76000,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "221",
@@ -1782,7 +2221,9 @@
       "reference": "GEO080",
       "price": 86000,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "222",
@@ -1790,7 +2231,9 @@
       "reference": "GEO005",
       "price": 64500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "223",
@@ -1798,7 +2241,9 @@
       "reference": "GEO476",
       "price": 79300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "224",
@@ -1806,7 +2251,9 @@
       "reference": "GEO025",
       "price": 76100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "225",
@@ -1814,7 +2261,9 @@
       "reference": "GEO037",
       "price": 78300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "226",
@@ -1822,7 +2271,9 @@
       "reference": "GEO036",
       "price": 76400,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "227",
@@ -1830,7 +2281,9 @@
       "reference": "GEO027",
       "price": 84900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "228",
@@ -1838,7 +2291,9 @@
       "reference": "GEO038",
       "price": 78600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "229",
@@ -1846,7 +2301,9 @@
       "reference": "GEO033",
       "price": 84900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "230",
@@ -1854,7 +2311,9 @@
       "reference": "GEO029",
       "price": 87200,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "231",
@@ -1862,7 +2321,9 @@
       "reference": "GEO089",
       "price": 83900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "232",
@@ -1870,7 +2331,9 @@
       "reference": "GEO020",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "233",
@@ -1878,7 +2341,9 @@
       "reference": "GEO073",
       "price": 105000,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "234",
@@ -1886,7 +2351,9 @@
       "reference": "GEO015",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "235",
@@ -1894,7 +2361,9 @@
       "reference": "GEO044",
       "price": 93900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "236",
@@ -1902,7 +2371,9 @@
       "reference": "GEO081",
       "price": 98300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "237",
@@ -1910,7 +2381,9 @@
       "reference": "GEO304",
       "price": 99100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "238",
@@ -1918,7 +2391,9 @@
       "reference": "GEO079",
       "price": 86800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "239",
@@ -1926,7 +2401,9 @@
       "reference": "GEO043",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "240",
@@ -1934,7 +2411,9 @@
       "reference": "GEO040",
       "price": 101700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "241",
@@ -1942,7 +2421,9 @@
       "reference": "GEO010",
       "price": 90500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "242",
@@ -1950,7 +2431,9 @@
       "reference": "CA52",
       "price": 11600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "243",
@@ -1958,7 +2441,9 @@
       "reference": "CA53",
       "price": 11600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "244",
@@ -1966,7 +2451,9 @@
       "reference": "2224",
       "price": 1550,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 75,
+      "available": true
     },
     {
       "id": "245",
@@ -1974,7 +2461,9 @@
       "reference": "MC301",
       "price": 6400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "246",
@@ -1982,7 +2471,9 @@
       "reference": "",
       "price": 5900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "247",
@@ -1990,7 +2481,9 @@
       "reference": "MC104",
       "price": 6400,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "248",
@@ -1998,7 +2491,9 @@
       "reference": "",
       "price": 4900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "249",
@@ -2006,7 +2501,9 @@
       "reference": "",
       "price": 4900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "250",
@@ -2014,7 +2511,9 @@
       "reference": "",
       "price": 5000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "251",
@@ -2022,7 +2521,9 @@
       "reference": "",
       "price": 6300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "252",
@@ -2030,7 +2531,9 @@
       "reference": "",
       "price": 4600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 19,
+      "available": true
     },
     {
       "id": "253",
@@ -2038,7 +2541,9 @@
       "reference": "",
       "price": 4800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "254",
@@ -2046,7 +2551,9 @@
       "reference": "5327",
       "price": 5100,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "255",
@@ -2054,7 +2561,9 @@
       "reference": "DIR2742",
       "price": 22900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "256",
@@ -2062,7 +2571,9 @@
       "reference": "7384",
       "price": 686,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 70,
+      "available": true
     },
     {
       "id": "257",
@@ -2070,7 +2581,9 @@
       "reference": "2556",
       "price": 686,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 313,
+      "available": true
     },
     {
       "id": "258",
@@ -2078,7 +2591,9 @@
       "reference": "",
       "price": 80000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "259",
@@ -2086,7 +2601,9 @@
       "reference": "NE14",
       "price": 9300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "260",
@@ -2094,7 +2611,9 @@
       "reference": "NE54",
       "price": 11800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "261",
@@ -2102,7 +2621,9 @@
       "reference": "",
       "price": 9300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "262",
@@ -2110,7 +2631,9 @@
       "reference": "NE55",
       "price": 11400,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "263",
@@ -2118,7 +2641,9 @@
       "reference": "NE52",
       "price": 11800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "264",
@@ -2126,7 +2651,9 @@
       "reference": "NE21",
       "price": 12600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "265",
@@ -2134,7 +2661,9 @@
       "reference": "CA382",
       "price": 9500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 86,
+      "available": true
     },
     {
       "id": "266",
@@ -2142,7 +2671,9 @@
       "reference": "CA66",
       "price": 8600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 300,
+      "available": true
     },
     {
       "id": "267",
@@ -2150,7 +2681,9 @@
       "reference": "CA71",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 285,
+      "available": true
     },
     {
       "id": "268",
@@ -2158,7 +2691,9 @@
       "reference": "CA79",
       "price": 12300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 95,
+      "available": true
     },
     {
       "id": "269",
@@ -2166,7 +2701,9 @@
       "reference": "CA1455",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "270",
@@ -2174,7 +2711,9 @@
       "reference": "CA902",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "271",
@@ -2182,7 +2721,9 @@
       "reference": "CA1029",
       "price": 11800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "272",
@@ -2190,7 +2731,9 @@
       "reference": "CA1321",
       "price": 46500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "273",
@@ -2198,7 +2741,9 @@
       "reference": "CA1254",
       "price": 47900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "274",
@@ -2206,7 +2751,9 @@
       "reference": "CA1309",
       "price": 25000,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "275",
@@ -2214,7 +2761,9 @@
       "reference": "CA1294",
       "price": 26500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "276",
@@ -2222,7 +2771,9 @@
       "reference": "CA846",
       "price": 33600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "277",
@@ -2230,7 +2781,9 @@
       "reference": "CA1310",
       "price": 35100,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "278",
@@ -2238,7 +2791,9 @@
       "reference": "NEU3944",
       "price": 20700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "279",
@@ -2246,7 +2801,9 @@
       "reference": "NEU3938",
       "price": 18500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "280",
@@ -2254,7 +2811,9 @@
       "reference": "MKT13100",
       "price": 26600,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "281",
@@ -2262,7 +2821,9 @@
       "reference": "Rep439",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 109,
+      "available": true
     },
     {
       "id": "282",
@@ -2270,7 +2831,9 @@
       "reference": "Rep778",
       "price": 9700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 25,
+      "available": true
     },
     {
       "id": "283",
@@ -2278,7 +2841,9 @@
       "reference": "Rep435",
       "price": 9700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "284",
@@ -2286,7 +2851,9 @@
       "reference": "Rep440",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 191,
+      "available": true
     },
     {
       "id": "285",
@@ -2294,7 +2861,9 @@
       "reference": "Rep441",
       "price": 8900,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "286",
@@ -2302,7 +2871,9 @@
       "reference": "REP437",
       "price": 10300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 21,
+      "available": true
     },
     {
       "id": "287",
@@ -2310,7 +2881,9 @@
       "reference": "Rep438",
       "price": 10500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 58,
+      "available": true
     },
     {
       "id": "288",
@@ -2318,7 +2891,9 @@
       "reference": "Rep306",
       "price": 11500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "289",
@@ -2326,7 +2901,9 @@
       "reference": "Rep303",
       "price": 10700,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "290",
@@ -2334,7 +2911,9 @@
       "reference": "REP288",
       "price": 11800,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 16,
+      "available": true
     },
     {
       "id": "291",
@@ -2342,7 +2921,9 @@
       "reference": "Rep436",
       "price": 11500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "292",
@@ -2350,7 +2931,9 @@
       "reference": "REP434",
       "price": 11500,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 125,
+      "available": true
     },
     {
       "id": "293",
@@ -2358,7 +2941,9 @@
       "reference": "REP500",
       "price": 12400,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 19,
+      "available": true
     },
     {
       "id": "294",
@@ -2366,7 +2951,9 @@
       "reference": "",
       "price": 9300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "295",
@@ -2374,7 +2961,9 @@
       "reference": "CA912",
       "price": 9300,
       "category": "Llantas y neumáticos",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "296",
@@ -2382,7 +2971,9 @@
       "reference": "CA208",
       "price": 350,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 107,
+      "available": true
     },
     {
       "id": "297",
@@ -2390,7 +2981,9 @@
       "reference": "CA538",
       "price": 50000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "298",
@@ -2398,7 +2991,9 @@
       "reference": "CA969",
       "price": 2800,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 184,
+      "available": true
     },
     {
       "id": "299",
@@ -2406,7 +3001,9 @@
       "reference": "CA970",
       "price": 4200,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 157,
+      "available": true
     },
     {
       "id": "300",
@@ -2414,7 +3011,9 @@
       "reference": "CA895",
       "price": 4800,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 101,
+      "available": true
     },
     {
       "id": "301",
@@ -2422,7 +3021,9 @@
       "reference": "",
       "price": 14000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "302",
@@ -2430,7 +3031,9 @@
       "reference": "CA971",
       "price": 15600,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 26,
+      "available": true
     },
     {
       "id": "303",
@@ -2438,7 +3041,9 @@
       "reference": "",
       "price": 17900,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "304",
@@ -2446,7 +3051,9 @@
       "reference": "",
       "price": 25000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 11,
+      "available": true
     },
     {
       "id": "305",
@@ -2454,7 +3061,9 @@
       "reference": "HE275",
       "price": 27200,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "306",
@@ -2462,7 +3071,9 @@
       "reference": "CA1215",
       "price": 4300,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "307",
@@ -2470,7 +3081,9 @@
       "reference": "",
       "price": 6000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "308",
@@ -2478,7 +3091,9 @@
       "reference": "",
       "price": 300,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 48,
+      "available": true
     },
     {
       "id": "309",
@@ -2486,7 +3101,9 @@
       "reference": "HE242",
       "price": 400,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 1248,
+      "available": true
     },
     {
       "id": "310",
@@ -2494,7 +3111,9 @@
       "reference": "",
       "price": 500,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 927,
+      "available": true
     },
     {
       "id": "311",
@@ -2502,7 +3121,9 @@
       "reference": "",
       "price": 600,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 122,
+      "available": true
     },
     {
       "id": "312",
@@ -2510,7 +3131,9 @@
       "reference": "",
       "price": 1100,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 111,
+      "available": true
     },
     {
       "id": "313",
@@ -2518,7 +3141,9 @@
       "reference": "HE241",
       "price": 1600,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "314",
@@ -2526,7 +3151,9 @@
       "reference": "",
       "price": 403,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "315",
@@ -2534,7 +3161,9 @@
       "reference": "",
       "price": 4124,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "316",
@@ -2542,7 +3171,9 @@
       "reference": "",
       "price": 5900,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "317",
@@ -2550,7 +3181,9 @@
       "reference": "",
       "price": 6750,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "318",
@@ -2558,7 +3191,9 @@
       "reference": "",
       "price": 11000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "319",
@@ -2566,7 +3201,9 @@
       "reference": "",
       "price": 16000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "320",
@@ -2574,7 +3211,9 @@
       "reference": "",
       "price": 21500,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "321",
@@ -2582,7 +3221,9 @@
       "reference": "",
       "price": 28400,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "322",
@@ -2590,7 +3231,9 @@
       "reference": "",
       "price": 793,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "323",
@@ -2598,7 +3241,9 @@
       "reference": "",
       "price": 900,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "324",
@@ -2606,7 +3251,9 @@
       "reference": "",
       "price": 800,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "325",
@@ -2614,7 +3261,9 @@
       "reference": "",
       "price": 1400,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "326",
@@ -2622,7 +3271,9 @@
       "reference": "P049",
       "price": 9500,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 11,
+      "available": true
     },
     {
       "id": "327",
@@ -2630,7 +3281,9 @@
       "reference": "P019",
       "price": 5100,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "328",
@@ -2638,7 +3291,9 @@
       "reference": "P025",
       "price": 5800,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "329",
@@ -2646,7 +3301,9 @@
       "reference": "5238",
       "price": 5800,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "330",
@@ -2654,7 +3311,9 @@
       "reference": "",
       "price": 4900,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "331",
@@ -2662,7 +3321,9 @@
       "reference": "PTR104",
       "price": 7000,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "332",
@@ -2670,7 +3331,9 @@
       "reference": "PTR105",
       "price": 4400,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "333",
@@ -2678,7 +3341,9 @@
       "reference": "PTR108",
       "price": 4300,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 17,
+      "available": true
     },
     {
       "id": "334",
@@ -2686,7 +3351,9 @@
       "reference": "",
       "price": 54300,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "335",
@@ -2694,7 +3361,9 @@
       "reference": "",
       "price": 45000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "336",
@@ -2702,7 +3371,9 @@
       "reference": "",
       "price": 12000,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 18,
+      "available": true
     },
     {
       "id": "337",
@@ -2710,7 +3381,9 @@
       "reference": "",
       "price": 1200,
       "category": "Insumos para vulcanizadoras",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "338",
@@ -2718,7 +3391,9 @@
       "reference": "CA514",
       "price": 10300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "339",
@@ -2726,7 +3401,9 @@
       "reference": "",
       "price": 12200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "340",
@@ -2734,7 +3411,9 @@
       "reference": "",
       "price": 5900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "341",
@@ -2742,7 +3421,9 @@
       "reference": "",
       "price": 6800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "342",
@@ -2750,7 +3431,9 @@
       "reference": "HE130",
       "price": 165000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "343",
@@ -2758,7 +3441,9 @@
       "reference": "CA1113",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "344",
@@ -2766,7 +3451,9 @@
       "reference": "CA1114",
       "price": 1800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "345",
@@ -2774,7 +3461,9 @@
       "reference": "",
       "price": 2600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "346",
@@ -2782,7 +3471,9 @@
       "reference": "",
       "price": 4300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "347",
@@ -2790,7 +3481,9 @@
       "reference": "PTR088",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "348",
@@ -2798,7 +3491,9 @@
       "reference": "410534",
       "price": 13200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "349",
@@ -2806,7 +3501,9 @@
       "reference": "410535",
       "price": 13600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "350",
@@ -2814,7 +3511,9 @@
       "reference": "PTR090",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 15,
+      "available": true
     },
     {
       "id": "351",
@@ -2822,7 +3521,9 @@
       "reference": "410536",
       "price": 13300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "352",
@@ -2830,7 +3531,9 @@
       "reference": "REP320",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "353",
@@ -2838,7 +3541,9 @@
       "reference": "REP324",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 14,
+      "available": true
     },
     {
       "id": "354",
@@ -2846,7 +3551,9 @@
       "reference": "PTR086",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "355",
@@ -2854,7 +3561,9 @@
       "reference": "PTR087",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "356",
@@ -2862,7 +3571,9 @@
       "reference": "PTR089",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "357",
@@ -2870,7 +3581,9 @@
       "reference": "PTR091",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "358",
@@ -2878,7 +3591,9 @@
       "reference": "",
       "price": 18600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "359",
@@ -2886,7 +3601,9 @@
       "reference": "3182",
       "price": 9900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "360",
@@ -2894,7 +3611,9 @@
       "reference": "21116",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "361",
@@ -2902,7 +3621,9 @@
       "reference": "2258",
       "price": 9200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "362",
@@ -2910,7 +3631,9 @@
       "reference": "2102",
       "price": 8600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "363",
@@ -2918,7 +3641,9 @@
       "reference": "",
       "price": 3800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 18,
+      "available": true
     },
     {
       "id": "364",
@@ -2926,7 +3651,9 @@
       "reference": "RT101",
       "price": 3900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "365",
@@ -2934,7 +3661,9 @@
       "reference": "CA273",
       "price": 11200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "366",
@@ -2942,7 +3671,9 @@
       "reference": "",
       "price": 20000,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "367",
@@ -2950,7 +3681,9 @@
       "reference": "PTR052",
       "price": 20900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "368",
@@ -2958,7 +3691,9 @@
       "reference": "PTR051",
       "price": 21200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "369",
@@ -2966,7 +3701,9 @@
       "reference": "PTR810",
       "price": 15000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "370",
@@ -2974,7 +3711,9 @@
       "reference": "PTR053",
       "price": 22300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "371",
@@ -2982,7 +3721,9 @@
       "reference": "PTR057",
       "price": 18300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "372",
@@ -2990,7 +3731,9 @@
       "reference": "PTR071",
       "price": 22900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 7,
+      "available": true
     },
     {
       "id": "373",
@@ -2998,7 +3741,9 @@
       "reference": "PTR058",
       "price": 20000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "374",
@@ -3006,7 +3751,9 @@
       "reference": "PTR056",
       "price": 17200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "375",
@@ -3014,7 +3761,9 @@
       "reference": "",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "376",
@@ -3022,7 +3771,9 @@
       "reference": "",
       "price": 2000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "377",
@@ -3030,7 +3781,9 @@
       "reference": "7830",
       "price": 30500,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "378",
@@ -3038,7 +3791,9 @@
       "reference": "483210",
       "price": 25800,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "379",
@@ -3046,7 +3801,9 @@
       "reference": "4835",
       "price": 12400,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "380",
@@ -3054,7 +3811,9 @@
       "reference": "485412",
       "price": 26500,
       "category": "Baterías y electricidad",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "381",
@@ -3062,7 +3821,9 @@
       "reference": "",
       "price": 2100,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 121,
+      "available": true
     },
     {
       "id": "382",
@@ -3070,7 +3831,9 @@
       "reference": "",
       "price": 1671,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 12,
+      "available": true
     },
     {
       "id": "383",
@@ -3078,7 +3841,9 @@
       "reference": "PAR2501",
       "price": 1900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 24,
+      "available": true
     },
     {
       "id": "384",
@@ -3086,7 +3851,9 @@
       "reference": "",
       "price": 86,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "385",
@@ -3094,7 +3861,9 @@
       "reference": "TN02",
       "price": 100,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 200,
+      "available": true
     },
     {
       "id": "386",
@@ -3102,7 +3871,9 @@
       "reference": "TP01",
       "price": 150,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 76,
+      "available": true
     },
     {
       "id": "387",
@@ -3110,7 +3881,9 @@
       "reference": "CA892",
       "price": 1300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 23,
+      "available": true
     },
     {
       "id": "388",
@@ -3118,7 +3891,9 @@
       "reference": "",
       "price": 2600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 21,
+      "available": true
     },
     {
       "id": "389",
@@ -3126,7 +3901,9 @@
       "reference": "CA893",
       "price": 2000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "390",
@@ -3134,7 +3911,9 @@
       "reference": "PTR073",
       "price": 1900,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 23,
+      "available": true
     },
     {
       "id": "391",
@@ -3142,7 +3921,9 @@
       "reference": "Rep536",
       "price": 2300,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 29,
+      "available": true
     },
     {
       "id": "392",
@@ -3150,7 +3931,9 @@
       "reference": "PTR076",
       "price": 7200,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "393",
@@ -3158,7 +3941,9 @@
       "reference": "",
       "price": 2800,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 29,
+      "available": true
     },
     {
       "id": "394",
@@ -3166,7 +3951,9 @@
       "reference": "",
       "price": 8000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "395",
@@ -3174,7 +3961,9 @@
       "reference": "PTR963-G",
       "price": 2800,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 27,
+      "available": true
     },
     {
       "id": "396",
@@ -3182,7 +3971,9 @@
       "reference": "",
       "price": 4500,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "397",
@@ -3190,7 +3981,9 @@
       "reference": "",
       "price": 3000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 6,
+      "available": true
     },
     {
       "id": "398",
@@ -3198,7 +3991,9 @@
       "reference": "",
       "price": 7000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "399",
@@ -3206,7 +4001,9 @@
       "reference": "",
       "price": 2900,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 9,
+      "available": true
     },
     {
       "id": "400",
@@ -3214,7 +4011,9 @@
       "reference": "2052",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "401",
@@ -3222,7 +4021,9 @@
       "reference": "2056",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "402",
@@ -3230,7 +4031,9 @@
       "reference": "2055",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "403",
@@ -3238,7 +4041,9 @@
       "reference": "2053",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "404",
@@ -3246,7 +4051,9 @@
       "reference": "2050",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 2,
+      "available": true
     },
     {
       "id": "405",
@@ -3254,7 +4061,9 @@
       "reference": "2051",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "406",
@@ -3262,7 +4071,9 @@
       "reference": "",
       "price": 16500,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "407",
@@ -3270,7 +4081,9 @@
       "reference": "CA523",
       "price": 135800,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 1,
+      "available": true
     },
     {
       "id": "408",
@@ -3278,7 +4091,9 @@
       "reference": "",
       "price": 3600,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 18,
+      "available": true
     },
     {
       "id": "409",
@@ -3286,7 +4101,9 @@
       "reference": "PTR1123-G",
       "price": 2300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "410",
@@ -3294,7 +4111,9 @@
       "reference": "CA903",
       "price": 4300,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 40,
+      "available": true
     },
     {
       "id": "411",
@@ -3302,7 +4121,9 @@
       "reference": "2234",
       "price": 572,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 68,
+      "available": true
     },
     {
       "id": "412",
@@ -3310,7 +4131,9 @@
       "reference": "2235",
       "price": 572,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 54,
+      "available": true
     },
     {
       "id": "413",
@@ -3318,7 +4141,9 @@
       "reference": "7390",
       "price": 1600,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "414",
@@ -3326,7 +4151,9 @@
       "reference": "2514",
       "price": 800,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 56,
+      "available": true
     },
     {
       "id": "415",
@@ -3334,7 +4161,9 @@
       "reference": "7245",
       "price": 3000,
       "category": "Cadenas y transmisión",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "416",
@@ -3342,7 +4171,9 @@
       "reference": "",
       "price": 2500,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 78,
+      "available": true
     },
     {
       "id": "417",
@@ -3350,7 +4181,9 @@
       "reference": "CA232",
       "price": 2500,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 142,
+      "available": true
     },
     {
       "id": "418",
@@ -3358,7 +4191,9 @@
       "reference": "",
       "price": 5000,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 55,
+      "available": true
     },
     {
       "id": "419",
@@ -3366,7 +4201,9 @@
       "reference": "CA1055",
       "price": 5300,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 30,
+      "available": true
     },
     {
       "id": "420",
@@ -3374,7 +4211,9 @@
       "reference": "PVR50",
       "price": 4000,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "421",
@@ -3382,7 +4221,9 @@
       "reference": "",
       "price": 1800,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 16,
+      "available": true
     },
     {
       "id": "422",
@@ -3390,7 +4231,9 @@
       "reference": "",
       "price": 9300,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 10,
+      "available": true
     },
     {
       "id": "423",
@@ -3398,7 +4241,9 @@
       "reference": "",
       "price": 600,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 507,
+      "available": true
     },
     {
       "id": "424",
@@ -3406,7 +4251,9 @@
       "reference": "",
       "price": 9300,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "425",
@@ -3414,7 +4261,9 @@
       "reference": "",
       "price": 10000,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 4,
+      "available": true
     },
     {
       "id": "426",
@@ -3422,7 +4271,9 @@
       "reference": "TR411",
       "price": 2900,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 20,
+      "available": true
     },
     {
       "id": "427",
@@ -3430,7 +4281,9 @@
       "reference": "",
       "price": 750,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 102,
+      "available": true
     },
     {
       "id": "428",
@@ -3438,7 +4291,9 @@
       "reference": "",
       "price": 1000,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 22,
+      "available": true
     },
     {
       "id": "429",
@@ -3446,7 +4301,9 @@
       "reference": "",
       "price": 5600,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 63,
+      "available": true
     },
     {
       "id": "430",
@@ -3454,7 +4311,9 @@
       "reference": "CA812",
       "price": 7900,
       "category": "Válvulas y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 47,
+      "available": true
     },
     {
       "id": "431",
@@ -3462,7 +4321,9 @@
       "reference": "",
       "price": 2500,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     },
     {
       "id": "432",
@@ -3470,7 +4331,9 @@
       "reference": "1573",
       "price": 3600,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 5,
+      "available": true
     },
     {
       "id": "433",
@@ -3478,7 +4341,9 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 13,
+      "available": true
     },
     {
       "id": "434",
@@ -3486,7 +4351,9 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "435",
@@ -3494,7 +4361,9 @@
       "reference": "",
       "price": 2200,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 3,
+      "available": true
     },
     {
       "id": "436",
@@ -3502,7 +4371,9 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": ""
+      "image": "",
+      "stock": 8,
+      "available": true
     },
     {
       "id": "437",
@@ -3510,7 +4381,9 @@
       "reference": "HE54",
       "price": 393000,
       "category": "Repuestos y accesorios",
-      "image": ""
+      "image": "",
+      "stock": 0,
+      "available": false
     }
   ]
 }
