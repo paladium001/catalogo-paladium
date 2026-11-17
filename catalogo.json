@@ -282,7 +282,7 @@
       "reference": "7005",
       "price": 10900,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA C70-BEST-AX4-VIVA R EVOLUTION.png",
       "stock": 16,
       "available": true
     },
@@ -292,7 +292,7 @@
       "reference": "8027",
       "price": 13600,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA DT125 - BWS100-TBR125-XTZ125 MV.png",
       "stock": 10,
       "available": true
     },
@@ -302,7 +302,7 @@
       "reference": "REP1011",
       "price": 9600,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA ECO DELANTERA - AGILITY CBF150-SPLENDOR.png",
       "stock": 45,
       "available": true
     },
@@ -312,7 +312,7 @@
       "reference": "REP033",
       "price": 10900,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA FRENO AX-100-115-BOXER CT-DISCOVER100.png",
       "stock": 23,
       "available": true
     },
@@ -322,7 +322,7 @@
       "reference": "Rep032",
       "price": 10900,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA FRENO - C90-AKT110-ECODELUXE TRASERA.png",
       "stock": 13,
       "available": true
     },
@@ -332,7 +332,7 @@
       "reference": "Rep031",
       "price": 10800,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA FRENO FZ16-LIBERO100-YBR125-XTZ125-CRYPTON115.png",
       "stock": 22,
       "available": true
     },
@@ -342,7 +342,7 @@
       "reference": "1978",
       "price": 23700,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA OSAKA AKT125 - NKD.png",
       "stock": 2,
       "available": true
     },
@@ -352,7 +352,7 @@
       "reference": "Rep035",
       "price": 11300,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/BANDA PULSAR 135-180-DISCOVERY125-180.png",
       "stock": 6,
       "available": true
     },
