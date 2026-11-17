@@ -3512,7 +3512,7 @@
       "reference": "PTR090",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIO 9X172 NORTH PANTHER.png",
       "stock": 15,
       "available": true
     },
@@ -3532,7 +3532,7 @@
       "reference": "REP320",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 8X164 KCC.png",
       "stock": 12,
       "available": true
     },
@@ -3542,7 +3542,7 @@
       "reference": "REP324",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 8X172 KCC.png",
       "stock": 14,
       "available": true
     },
@@ -3552,7 +3552,7 @@
       "reference": "PTR086",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 9X157 NORTH PANTHR.png",
       "stock": 10,
       "available": true
     },
@@ -3562,7 +3562,7 @@
       "reference": "PTR087",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 9X160 NORTH PANTHR.png",
       "stock": 10,
       "available": true
     },
@@ -3572,7 +3572,7 @@
       "reference": "PTR089",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 9X168 NORTH PANTHER.png",
       "stock": 10,
       "available": true
     },
@@ -3582,7 +3582,7 @@
       "reference": "PTR091",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/RADIOS 9X180 NORTH PAANTHER.png",
       "stock": 10,
       "available": true
     },
