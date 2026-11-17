@@ -98,11 +98,11 @@
     },
     {
       "id": "9",
-      "name": "BALINERA 6301 2RS EVOL",
+      "name": "BALINERA EVOL 6301",
       "reference": "2160",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 22,
       "available": true
     },
