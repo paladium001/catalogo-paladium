@@ -3680,7 +3680,7 @@
       "reference": "PTR052",
       "price": 20900,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PINON ACERADO AKT 110 36-14 NORTH.webp",
       "stock": 0,
       "available": false
     },
@@ -3690,7 +3690,7 @@
       "reference": "PTR051",
       "price": 21200,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PINON ACERADO AKT NKD 38-15 NORTH PANTHR.webp",
       "stock": 9,
       "available": true
     },
@@ -3700,7 +3700,7 @@
       "reference": "PTR810",
       "price": 15000,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO BEST 125 35-14 NORTH.webp",
       "stock": 8,
       "available": true
     },
@@ -3710,7 +3710,7 @@
       "reference": "PTR053",
       "price": 22300,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO BOXER CT 42-14 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
     },
@@ -3720,7 +3720,7 @@
       "reference": "PTR057",
       "price": 18300,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO CB 110 42-14 NORTH.webp",
       "stock": 6,
       "available": true
     },
@@ -3730,7 +3730,7 @@
       "reference": "PTR071",
       "price": 22900,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO CRYPTON 115 41-15 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
     },
@@ -3740,7 +3740,7 @@
       "reference": "PTR058",
       "price": 20000,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO ECO DELUX 42-14.webp",
       "stock": 9,
       "available": true
     },
@@ -3750,7 +3750,7 @@
       "reference": "PTR056",
       "price": 17200,
       "category": "Cadenas y transmisión",
-      "image": "",
+      "image": "./imagenes/repuestos/SET PIÑON ACERADO FZ 16 40-14 NORTH PANTHER.webp",
       "stock": 4,
       "available": true
     },
