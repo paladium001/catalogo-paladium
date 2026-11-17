@@ -112,7 +112,7 @@
       "reference": "2057",
       "price": 2600,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 29,
       "available": true
     },
@@ -122,7 +122,7 @@
       "reference": "8984",
       "price": 1900,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 18,
       "available": true
     },
@@ -132,7 +132,7 @@
       "reference": "2061",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 48,
       "available": true
     },
@@ -142,7 +142,7 @@
       "reference": "2062",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 33,
       "available": true
     },
@@ -152,7 +152,7 @@
       "reference": "2064",
       "price": 2700,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 26,
       "available": true
     },
@@ -162,7 +162,7 @@
       "reference": "2594",
       "price": 3800,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA EVOL.png",
       "stock": 17,
       "available": true
     },
