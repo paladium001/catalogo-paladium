@@ -2730,7 +2730,7 @@
       "reference": "CA1321",
       "price": 46500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_750-16_TR13.png",
       "stock": 15,
       "available": true
     },
@@ -2740,7 +2740,7 @@
       "reference": "CA1254",
       "price": 47900,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_750-16_TR177A.png",
       "stock": 1,
       "available": true
     },
@@ -2750,7 +2750,7 @@
       "reference": "CA1309",
       "price": 25000,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_FR-13_TR13.png",
       "stock": 14,
       "available": true
     },
@@ -2760,7 +2760,7 @@
       "reference": "CA1294",
       "price": 26500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_FR-14_TR13.png",
       "stock": 0,
       "available": false
     },
@@ -2770,7 +2770,7 @@
       "reference": "CA846",
       "price": 33600,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_KR-15.png",
       "stock": 9,
       "available": true
     },
@@ -2780,7 +2780,7 @@
       "reference": "CA1310",
       "price": 35100,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/HINDUSTAN_KR-16.png",
       "stock": 1,
       "available": true
     },
