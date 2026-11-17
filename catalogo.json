@@ -2861,8 +2861,8 @@
       "price": 8900,
       "category": "Neumáticos",
       "image": "./imagenes/neumáticos/NEUMATICO PANTHER 275-300-18.webp",
-      "stock": 12,
-      "available": true
+      "stock": 0,
+      "available": false
     },
     {
       "id": "286",
