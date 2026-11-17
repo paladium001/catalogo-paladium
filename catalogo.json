@@ -4,15 +4,14 @@
   "categories": [
     "Aceites y lubricantes",
     "Repuestos y accesorios",
-    "Amortiguación y suspensión",
     "Balineras y rodamientos",
     "Frenos",
     "Baterías y electricidad",
     "Cadenas y transmisión",
     "Insumos para vulcanizadoras",
-    "Herramientas y equipos",
-    "Llantas y neumáticos",
-    "Válvulas y accesorios"
+    "Válvulas y accesorios",
+    "Llantas",
+    "Neumáticos"
   ],
   "products": [
     {
@@ -2020,7 +2019,7 @@
       "name": "LLANTA PANTHER 100/80-17 TL PISTERA",
       "reference": "GEO047",
       "price": 110600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2030,7 +2029,7 @@
       "name": "LLANTA PANTHER 100/80-17 TL TIPO MICHELLIN",
       "reference": "GEO211",
       "price": 112800,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2040,7 +2039,7 @@
       "name": "LLANTA PANTHER 100/90-17 TL TIPO MRF",
       "reference": "GEO048",
       "price": 107200,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO048.webp",
       "stock": 0,
       "available": false
@@ -2050,7 +2049,7 @@
       "name": "LLANTA PANTHER 100/90-18 TL TIPO MRF",
       "reference": "GEO078",
       "price": 120600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO078.webp",
       "stock": 0,
       "available": false
@@ -2060,7 +2059,7 @@
       "name": "LLANTA PANTHER 110/70-13 TL PISTERA",
       "reference": "GEO050",
       "price": 99400,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO050.webp",
       "stock": 2,
       "available": true
@@ -2070,7 +2069,7 @@
       "name": "LLANTA PANTHER 110/70-17 TL TIPO MICHELLIN",
       "reference": "GEO222",
       "price": 97600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO222.webp",
       "stock": 2,
       "available": true
@@ -2080,7 +2079,7 @@
       "name": "LLANTA PANTHER 110/80-17 TL TIPO MRF",
       "reference": "GEO016",
       "price": 121700,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO016.webp",
       "stock": 2,
       "available": true
@@ -2090,7 +2089,7 @@
       "name": "LLANTA PANTHER 110/90-17 TL MULTIPROPOSITO",
       "reference": "GEO039",
       "price": 129500,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO039.webp",
       "stock": 1,
       "available": true
@@ -2100,7 +2099,7 @@
       "name": "LLANTA PANTHER 120/70-12 TL LAGARTO",
       "reference": "GEO012",
       "price": 96100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO012.webp",
       "stock": 0,
       "available": false
@@ -2110,7 +2109,7 @@
       "name": "LLANTA PANTHER 120/70-12 TL PISTERA",
       "reference": "GEO018",
       "price": 96100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO018.webp",
       "stock": 4,
       "available": true
@@ -2120,7 +2119,7 @@
       "name": "LLANTA PANTHER 120/80-17 TL TIPO MRF",
       "reference": "GEO013",
       "price": 121700,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO013.webp",
       "stock": 0,
       "available": false
@@ -2130,7 +2129,7 @@
       "name": "LLANTA PANTHER 130/70-12 TL LAGARTO",
       "reference": "GEO011",
       "price": 98300,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO011.webp",
       "stock": 0,
       "available": false
@@ -2140,7 +2139,7 @@
       "name": "LLANTA PANTHER 130/70-12 TL PISTERA",
       "reference": "",
       "price": 107200,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2150,7 +2149,7 @@
       "name": "LLANTA PANTHER 130/70-13 TL PISTERA",
       "reference": "GEO051",
       "price": 107200,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO051.webp",
       "stock": 0,
       "available": false
@@ -2160,7 +2159,7 @@
       "name": "LLANTA PANTHER 130/70-17 TL TIPO MRF",
       "reference": "GEO014",
       "price": 127400,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO014.webp",
       "stock": 2,
       "available": true
@@ -2170,7 +2169,7 @@
       "name": "LLANTA PANTHER 140/60-17 TL PISTERA",
       "reference": "GEO046",
       "price": 140600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2180,7 +2179,7 @@
       "name": "LLANTA PANTHER 140/60-17 TL TIPO MICHELLIN",
       "reference": "GEO215",
       "price": 140600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO215.webp",
       "stock": 0,
       "available": false
@@ -2190,7 +2189,7 @@
       "name": "LLANTA PANTHER 250-17 TL LAGARTO",
       "reference": "GEO094",
       "price": 54100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO094.webp",
       "stock": 0,
       "available": false
@@ -2200,7 +2199,7 @@
       "name": "LLANTA PANTHER 250-17 TL TIPO PIRELLI",
       "reference": "GEO099",
       "price": 62600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO099.webp",
       "stock": 0,
       "available": false
@@ -2210,7 +2209,7 @@
       "name": "LLANTA PANTHER 275/18 TL TIPO MRF",
       "reference": "GEO301",
       "price": 76000,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO301.webp",
       "stock": 1,
       "available": true
@@ -2220,7 +2219,7 @@
       "name": "LLANTA PANTHER 275/18 TL ZEBRA",
       "reference": "GEO080",
       "price": 86000,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2230,7 +2229,7 @@
       "name": "LLANTA PANTHER 275-17 TL LAGARTO",
       "reference": "GEO005",
       "price": 64500,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO005.webp",
       "stock": 0,
       "available": false
@@ -2240,7 +2239,7 @@
       "name": "LLANTA PANTHER 275-17 TL TIPO MICHELLIN",
       "reference": "GEO476",
       "price": 79300,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO476.webp",
       "stock": 0,
       "available": false
@@ -2250,7 +2249,7 @@
       "name": "LLANTA PANTHER 275-17 TL TIPO MRF",
       "reference": "GEO025",
       "price": 76100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO025.webp",
       "stock": 0,
       "available": false
@@ -2260,7 +2259,7 @@
       "name": "LLANTA PANTHER 275-18 TL LAGARTO",
       "reference": "GEO037",
       "price": 78300,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO037.webp",
       "stock": 0,
       "available": false
@@ -2270,7 +2269,7 @@
       "name": "LLANTA PANTHER 300-17 TL LAGARTO",
       "reference": "GEO036",
       "price": 76400,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO036.webp",
       "stock": 3,
       "available": true
@@ -2280,7 +2279,7 @@
       "name": "LLANTA PANTHER 300-17 TL TIPO CEAT",
       "reference": "GEO027",
       "price": 84900,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO027.webp",
       "stock": 1,
       "available": true
@@ -2290,7 +2289,7 @@
       "name": "LLANTA PANTHER 300-18 TL LAGARTO",
       "reference": "GEO038",
       "price": 78600,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO038.webp",
       "stock": 5,
       "available": true
@@ -2300,7 +2299,7 @@
       "name": "LLANTA PANTHER 300-18 TL MORITA",
       "reference": "GEO033",
       "price": 84900,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO033.webp",
       "stock": 0,
       "available": false
@@ -2310,7 +2309,7 @@
       "name": "LLANTA PANTHER 300-18 TL TIPO CEAT",
       "reference": "GEO029",
       "price": 87200,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO029.webp",
       "stock": 0,
       "available": false
@@ -2320,7 +2319,7 @@
       "name": "LLANTA PANTHER 400-8 TL TIPO ORIGINAL",
       "reference": "GEO089",
       "price": 83900,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "",
       "stock": 0,
       "available": false
@@ -2330,7 +2329,7 @@
       "name": "LLANTA PANTHER 410-18 TT TACO",
       "reference": "GEO020",
       "price": 129500,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO020.webp",
       "stock": 1,
       "available": true
@@ -2340,7 +2339,7 @@
       "name": "LLANTA PANTHER 80/90-21 TL TIPO PIRELLI MT60",
       "reference": "GEO073",
       "price": 105000,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO073.webp",
       "stock": 2,
       "available": true
@@ -2350,7 +2349,7 @@
       "name": "LLANTA PANTHER 90/90-17 TL TIPO MRF",
       "reference": "GEO015",
       "price": 96100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO015.webp",
       "stock": 5,
       "available": true
@@ -2360,7 +2359,7 @@
       "name": "LLANTA PANTHER 90/90-17 TL TIPO PIRELLI",
       "reference": "GEO044",
       "price": 93900,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO044.webp",
       "stock": 1,
       "available": true
@@ -2370,7 +2369,7 @@
       "name": "LLANTA PANTHER 90/90-18 TL LAGARTO",
       "reference": "GEO081",
       "price": 98300,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO081.webp",
       "stock": 0,
       "available": false
@@ -2380,7 +2379,7 @@
       "name": "LLANTA PANTHER 90/90-18 TL TIPO MICHELLIN",
       "reference": "GEO304",
       "price": 99100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO304.webp",
       "stock": 0,
       "available": false
@@ -2390,7 +2389,7 @@
       "name": "LLANTA PANTHER 90/90-18 TL TIPO MRF",
       "reference": "GEO079",
       "price": 86800,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO079.webp",
       "stock": 0,
       "available": false
@@ -2400,7 +2399,7 @@
       "name": "LLANTA PANTHER 90/90-18 TL TIPO PIRELLI",
       "reference": "GEO043",
       "price": 96100,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO043.webp",
       "stock": 0,
       "available": false
@@ -2410,7 +2409,7 @@
       "name": "LLANTA PANTHER 90/90-19 TT MULTIPROPOSITO",
       "reference": "GEO040",
       "price": 101700,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO040.webp",
       "stock": 3,
       "available": true
@@ -2420,7 +2419,7 @@
       "name": "LLANTA PANTHER 90-90-17 TL LAGARATO",
       "reference": "GEO010",
       "price": 90500,
-      "category": "Llantas y neumáticos",
+      "category": "Llantas",
       "image": "./imagenes/llantas/GEO010.webp",
       "stock": 0,
       "available": false
@@ -2600,7 +2599,7 @@
       "name": "NEUMATICO AXCEL 275/300-17",
       "reference": "NE14",
       "price": 9300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2610,7 +2609,7 @@
       "name": "NEUMATICO AXCEL 300/14",
       "reference": "NE54",
       "price": 11800,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2620,7 +2619,7 @@
       "name": "NEUMATICO AXCEL 300/18",
       "reference": "",
       "price": 9300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2630,7 +2629,7 @@
       "name": "NEUMATICO AXCEL 350/10",
       "reference": "NE55",
       "price": 11400,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2640,7 +2639,7 @@
       "name": "NEUMATICO AXCEL 400/8",
       "reference": "NE52",
       "price": 11800,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 4,
       "available": true
@@ -2650,7 +2649,7 @@
       "name": "NEUMATICO AXCEL 410/17",
       "reference": "NE21",
       "price": 12600,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2660,7 +2659,7 @@
       "name": "NEUMATICO CENTAURO 250/17",
       "reference": "CA382",
       "price": 9500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 86,
       "available": true
@@ -2670,7 +2669,7 @@
       "name": "NEUMATICO CENTAURO 300/17",
       "reference": "CA66",
       "price": 8600,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 300,
       "available": true
@@ -2680,7 +2679,7 @@
       "name": "NEUMATICO CENTAURO 300/18",
       "reference": "CA71",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 285,
       "available": true
@@ -2690,7 +2689,7 @@
       "name": "NEUMATICO CENTAURO 410/17",
       "reference": "CA79",
       "price": 12300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 95,
       "available": true
@@ -2700,7 +2699,7 @@
       "name": "NEUMATICO DMJ 300/17",
       "reference": "CA1455",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2710,7 +2709,7 @@
       "name": "NEUMATICO DMJ 300/18",
       "reference": "CA902",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2720,7 +2719,7 @@
       "name": "NEUMATICO DMJ 410/17",
       "reference": "CA1029",
       "price": 11800,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 2,
       "available": true
@@ -2730,7 +2729,7 @@
       "name": "NEUMATICO HINDUSTAN 750/16 TR13",
       "reference": "CA1321",
       "price": 46500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 15,
       "available": true
@@ -2740,7 +2739,7 @@
       "name": "NEUMATICO HINDUSTAN 750/16 TR177A",
       "reference": "CA1254",
       "price": 47900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 1,
       "available": true
@@ -2750,7 +2749,7 @@
       "name": "NEUMATICO HINDUSTAN FR-13 (TR13)",
       "reference": "CA1309",
       "price": 25000,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 14,
       "available": true
@@ -2760,7 +2759,7 @@
       "name": "NEUMATICO HINDUSTAN FR-14 TR13",
       "reference": "CA1294",
       "price": 26500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2770,7 +2769,7 @@
       "name": "NEUMATICO HINDUSTAN KR15 TR-13",
       "reference": "CA846",
       "price": 33600,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 9,
       "available": true
@@ -2780,7 +2779,7 @@
       "name": "NEUMATICO HINDUSTAN KR16 TR-13",
       "reference": "CA1310",
       "price": 35100,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 1,
       "available": true
@@ -2790,7 +2789,7 @@
       "name": "NEUMATICO KENDA 300/12",
       "reference": "NEU3944",
       "price": 20700,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2800,7 +2799,7 @@
       "name": "NEUMATICO KENDA 300/14",
       "reference": "NEU3938",
       "price": 18500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2810,7 +2809,7 @@
       "name": "NEUMATICO MAGIK FR-13",
       "reference": "MKT13100",
       "price": 26600,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2820,7 +2819,7 @@
       "name": "NEUMATICO PANTHER 250/17",
       "reference": "Rep439",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 109,
       "available": true
@@ -2830,7 +2829,7 @@
       "name": "NEUMATICO PANTHER 250-18",
       "reference": "Rep778",
       "price": 9700,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 25,
       "available": true
@@ -2840,7 +2839,7 @@
       "name": "NEUMATICO PANTHER 300-14",
       "reference": "Rep435",
       "price": 9700,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2850,7 +2849,7 @@
       "name": "NEUMATICO PANTHER 300-17",
       "reference": "Rep440",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 191,
       "available": true
@@ -2860,7 +2859,7 @@
       "name": "NEUMATICO PANTHER 300-18",
       "reference": "Rep441",
       "price": 8900,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 12,
       "available": true
@@ -2870,7 +2869,7 @@
       "name": "NEUMATICO PANTHER 300-19",
       "reference": "REP437",
       "price": 10300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 21,
       "available": true
@@ -2880,7 +2879,7 @@
       "name": "NEUMATICO PANTHER 300-21",
       "reference": "Rep438",
       "price": 10500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 58,
       "available": true
@@ -2890,7 +2889,7 @@
       "name": "NEUMATICO PANTHER 350-10",
       "reference": "Rep306",
       "price": 11500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2900,7 +2899,7 @@
       "name": "NEUMATICO PANTHER 350-16",
       "reference": "Rep303",
       "price": 10700,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2910,7 +2909,7 @@
       "name": "NEUMATICO PANTHER 400/8",
       "reference": "REP288",
       "price": 11800,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 16,
       "available": true
@@ -2920,7 +2919,7 @@
       "name": "NEUMATICO PANTHER 410-17",
       "reference": "Rep436",
       "price": 11500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2930,7 +2929,7 @@
       "name": "NEUMATICO PANTHER 410-18",
       "reference": "REP434",
       "price": 11500,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 125,
       "available": true
@@ -2940,7 +2939,7 @@
       "name": "NEUMATICO PANTHER 450-12",
       "reference": "REP500",
       "price": 12400,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 19,
       "available": true
@@ -2950,7 +2949,7 @@
       "name": "NEUMATICO TIREFIX 300/17",
       "reference": "",
       "price": 9300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2960,7 +2959,7 @@
       "name": "NEUMATICO TIREFIX 300/18",
       "reference": "CA912",
       "price": 9300,
-      "category": "Llantas y neumáticos",
+      "category": "Neumáticos",
       "image": "",
       "stock": 2,
       "available": true
