@@ -2041,7 +2041,7 @@
       "reference": "GEO048",
       "price": 107200,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO048.webp",
       "stock": 0,
       "available": false
     },
@@ -2051,7 +2051,7 @@
       "reference": "GEO078",
       "price": 120600,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO078.webp",
       "stock": 0,
       "available": false
     },
@@ -2061,7 +2061,7 @@
       "reference": "GEO050",
       "price": 99400,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO050.webp",
       "stock": 2,
       "available": true
     },
@@ -2071,7 +2071,7 @@
       "reference": "GEO222",
       "price": 97600,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO222.webp",
       "stock": 2,
       "available": true
     },
@@ -2081,7 +2081,7 @@
       "reference": "GEO016",
       "price": 121700,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO016.webp",
       "stock": 2,
       "available": true
     },
@@ -2091,7 +2091,7 @@
       "reference": "GEO039",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO039.webp",
       "stock": 1,
       "available": true
     },
@@ -2101,7 +2101,7 @@
       "reference": "GEO012",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO012.webp",
       "stock": 0,
       "available": false
     },
@@ -2111,7 +2111,7 @@
       "reference": "GEO018",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO018.webp",
       "stock": 4,
       "available": true
     },
@@ -2121,7 +2121,7 @@
       "reference": "GEO013",
       "price": 121700,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO013.webp",
       "stock": 0,
       "available": false
     },
@@ -2131,7 +2131,7 @@
       "reference": "GEO011",
       "price": 98300,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO011.webp",
       "stock": 0,
       "available": false
     },
@@ -2151,7 +2151,7 @@
       "reference": "GEO051",
       "price": 107200,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO051.webp",
       "stock": 0,
       "available": false
     },
@@ -2161,7 +2161,7 @@
       "reference": "GEO014",
       "price": 127400,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO014.webp",
       "stock": 2,
       "available": true
     },
@@ -2181,7 +2181,7 @@
       "reference": "GEO215",
       "price": 140600,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO215.webp",
       "stock": 0,
       "available": false
     },
@@ -2191,7 +2191,7 @@
       "reference": "GEO094",
       "price": 54100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO094.webp",
       "stock": 0,
       "available": false
     },
@@ -2201,7 +2201,7 @@
       "reference": "GEO099",
       "price": 62600,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO099.webp",
       "stock": 0,
       "available": false
     },
@@ -2211,7 +2211,7 @@
       "reference": "GEO301",
       "price": 76000,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO301.webp",
       "stock": 1,
       "available": true
     },
@@ -2231,7 +2231,7 @@
       "reference": "GEO005",
       "price": 64500,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO005.webp",
       "stock": 0,
       "available": false
     },
@@ -2241,7 +2241,7 @@
       "reference": "GEO476",
       "price": 79300,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO476.webp",
       "stock": 0,
       "available": false
     },
@@ -2251,7 +2251,7 @@
       "reference": "GEO025",
       "price": 76100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO025.webp",
       "stock": 0,
       "available": false
     },
@@ -2261,7 +2261,7 @@
       "reference": "GEO037",
       "price": 78300,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO037.webp",
       "stock": 0,
       "available": false
     },
@@ -2271,7 +2271,7 @@
       "reference": "GEO036",
       "price": 76400,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO036.webp",
       "stock": 3,
       "available": true
     },
@@ -2281,7 +2281,7 @@
       "reference": "GEO027",
       "price": 84900,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO027.webp",
       "stock": 1,
       "available": true
     },
@@ -2291,7 +2291,7 @@
       "reference": "GEO038",
       "price": 78600,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO038.webp",
       "stock": 5,
       "available": true
     },
@@ -2301,7 +2301,7 @@
       "reference": "GEO033",
       "price": 84900,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO033.webp",
       "stock": 0,
       "available": false
     },
@@ -2311,7 +2311,7 @@
       "reference": "GEO029",
       "price": 87200,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO029.webp",
       "stock": 0,
       "available": false
     },
@@ -2331,7 +2331,7 @@
       "reference": "GEO020",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO020.webp",
       "stock": 1,
       "available": true
     },
@@ -2341,7 +2341,7 @@
       "reference": "GEO073",
       "price": 105000,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO073.webp",
       "stock": 2,
       "available": true
     },
@@ -2351,7 +2351,7 @@
       "reference": "GEO015",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO015.webp",
       "stock": 5,
       "available": true
     },
@@ -2361,7 +2361,7 @@
       "reference": "GEO044",
       "price": 93900,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO044.webp",
       "stock": 1,
       "available": true
     },
@@ -2371,7 +2371,7 @@
       "reference": "GEO081",
       "price": 98300,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO081.webp",
       "stock": 0,
       "available": false
     },
@@ -2381,7 +2381,7 @@
       "reference": "GEO304",
       "price": 99100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO304.webp",
       "stock": 0,
       "available": false
     },
@@ -2391,7 +2391,7 @@
       "reference": "GEO079",
       "price": 86800,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO079.webp",
       "stock": 0,
       "available": false
     },
@@ -2401,7 +2401,7 @@
       "reference": "GEO043",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO043.webp",
       "stock": 0,
       "available": false
     },
@@ -2411,7 +2411,7 @@
       "reference": "GEO040",
       "price": 101700,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO040.webp",
       "stock": 3,
       "available": true
     },
@@ -2421,7 +2421,7 @@
       "reference": "GEO010",
       "price": 90500,
       "category": "Llantas y neumáticos",
-      "image": "",
+      "image": "./imagenes/llantas/GEO010.webp",
       "stock": 0,
       "available": false
     },
