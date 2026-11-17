@@ -2051,7 +2051,7 @@
       "reference": "GEO078",
       "price": 120600,
       "category": "Llantas y neumáticos",
-      "image": "./100-90-18 TL GEO078.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2061,7 +2061,7 @@
       "reference": "GEO050",
       "price": 99400,
       "category": "Llantas y neumáticos",
-      "image": "./110-70-13 TL GEO050.webp",
+      "image": "",
       "stock": 2,
       "available": true
     },
@@ -2071,7 +2071,7 @@
       "reference": "GEO222",
       "price": 97600,
       "category": "Llantas y neumáticos",
-      "image": "./110-70-17 TIPO MICHELIN GEO222.webp",
+      "image": "",
       "stock": 2,
       "available": true
     },
@@ -2081,7 +2081,7 @@
       "reference": "GEO016",
       "price": 121700,
       "category": "Llantas y neumáticos",
-      "image": "./110-80-17 TL GEO016.webp",
+      "image": "",
       "stock": 2,
       "available": true
     },
@@ -2091,7 +2091,7 @@
       "reference": "GEO039",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": "./110-90-17 MULTIPROPISITO GEO039.webp",
+      "image": "",
       "stock": 1,
       "available": true
     },
@@ -2101,7 +2101,7 @@
       "reference": "GEO012",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "./120-70-12 TL GEO012.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2131,7 +2131,7 @@
       "reference": "GEO011",
       "price": 98300,
       "category": "Llantas y neumáticos",
-      "image": "./130-70-12 TL GEO011.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2161,7 +2161,7 @@
       "reference": "GEO014",
       "price": 127400,
       "category": "Llantas y neumáticos",
-      "image": "./130-70-17 TL GEO014.webp",
+      "image": "",
       "stock": 2,
       "available": true
     },
@@ -2191,7 +2191,7 @@
       "reference": "GEO094",
       "price": 54100,
       "category": "Llantas y neumáticos",
-      "image": "./250-17 LAGARTO GEO094.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2201,7 +2201,7 @@
       "reference": "GEO099",
       "price": 62600,
       "category": "Llantas y neumáticos",
-      "image": "./250-17 TL GEO099.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2211,7 +2211,7 @@
       "reference": "GEO301",
       "price": 76000,
       "category": "Llantas y neumáticos",
-      "image": "./275-18 TL GEO301.webp",
+      "image": "",
       "stock": 1,
       "available": true
     },
@@ -2231,7 +2231,7 @@
       "reference": "GEO005",
       "price": 64500,
       "category": "Llantas y neumáticos",
-      "image": "./275-17 LAGARTO GEO005.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2271,7 +2271,7 @@
       "reference": "GEO036",
       "price": 76400,
       "category": "Llantas y neumáticos",
-      "image": "./300-17 TL GEO036.webp",
+      "image": "",
       "stock": 3,
       "available": true
     },
@@ -2291,7 +2291,7 @@
       "reference": "GEO038",
       "price": 78600,
       "category": "Llantas y neumáticos",
-      "image": "./300-187 TL GEO038.webp",
+      "image": "",
       "stock": 5,
       "available": true
     },
@@ -2331,7 +2331,7 @@
       "reference": "GEO020",
       "price": 129500,
       "category": "Llantas y neumáticos",
-      "image": "./410-18 TT TACO GEO020.webp",
+      "image": "",
       "stock": 1,
       "available": true
     },
@@ -2341,7 +2341,7 @@
       "reference": "GEO073",
       "price": 105000,
       "category": "Llantas y neumáticos",
-      "image": "./80-90-21 TL GEO073.webp",
+      "image": "",
       "stock": 2,
       "available": true
     },
@@ -2351,7 +2351,7 @@
       "reference": "GEO015",
       "price": 96100,
       "category": "Llantas y neumáticos",
-      "image": "./90-90-17 MRF GEO0015.webp",
+      "image": "",
       "stock": 5,
       "available": true
     },
@@ -2391,7 +2391,7 @@
       "reference": "GEO079",
       "price": 86800,
       "category": "Llantas y neumáticos",
-      "image": "./90-90-18 MRF GEO079.webp",
+      "image": "",
       "stock": 0,
       "available": false
     },
@@ -2411,7 +2411,7 @@
       "reference": "GEO040",
       "price": 101700,
       "category": "Llantas y neumáticos",
-      "image": "./90-90-19 TT MULTIPROPOSITO GEO040.webp",
+      "image": "",
       "stock": 3,
       "available": true
     },
