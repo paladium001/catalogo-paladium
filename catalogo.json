@@ -50,7 +50,7 @@
       "reference": "",
       "price": 5800,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/ACEITE BARRAS.webp",
       "stock": 17,
       "available": true
     },
@@ -60,7 +60,7 @@
       "reference": "601325",
       "price": 33500,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/ACEITE MOBIL 4T - 20W-50-O+++- UND.webp",
       "stock": 12,
       "available": true
     },
@@ -1290,7 +1290,7 @@
       "reference": "PTR021",
       "price": 2800,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE BOXER CT-BM 150-PULSAR.webp",
       "stock": 11,
       "available": true
     },
@@ -1300,7 +1300,7 @@
       "reference": "",
       "price": 3600,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE CRYPTON 115-YBR250-YZF-R-15-XTXZ 125-250.webp",
       "stock": 13,
       "available": true
     },
@@ -1310,7 +1310,7 @@
       "reference": "PTR023",
       "price": 3200,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE GN 125-VIVA-GS125-APACHE-GIXXER150-SF NORTH PANTHR.webp",
       "stock": 19,
       "available": true
     },
@@ -1320,7 +1320,7 @@
       "reference": "PTR022",
       "price": 4300,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE PULSAR NS 200 NORTH.webp",
       "stock": 15,
       "available": true
     },
@@ -1330,7 +1330,7 @@
       "reference": "Rep280",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/FILTRO DE GASOLINA KCC.webp",
       "stock": 15,
       "available": true
     },
@@ -2010,7 +2010,7 @@
       "reference": "",
       "price": 4200,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/LIQUIDO PARA FRENOS DOT 4 120CC.webp",
       "stock": 8,
       "available": true
     },
