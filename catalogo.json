@@ -2641,8 +2641,8 @@
       "price": 11800,
       "category": "Neumáticos",
       "image": "",
-      "stock": 4,
-      "available": true
+      "stock": 0,
+      "available": false
     },
     {
       "id": "264",
@@ -2721,8 +2721,8 @@
       "price": 11800,
       "category": "Neumáticos",
       "image": "",
-      "stock": 2,
-      "available": true
+      "stock": 0,
+      "available": false
     },
     {
       "id": "272",
@@ -2961,8 +2961,8 @@
       "price": 9300,
       "category": "Neumáticos",
       "image": "",
-      "stock": 2,
-      "available": true
+      "stock": 0,
+      "available": false
     },
     {
       "id": "296",
