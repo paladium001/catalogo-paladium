@@ -362,7 +362,7 @@
       "reference": "Rep056",
       "price": 35400,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N2.5-BS BOXER.png",
       "stock": 2,
       "available": true
     },
@@ -372,7 +372,7 @@
       "reference": "Rep057",
       "price": 50400,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N5-BS AKT 110-CRIPTON-PULSAR 135.png",
       "stock": 0,
       "available": false
     },
@@ -382,7 +382,7 @@
       "reference": "Rep053",
       "price": 62900,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N6,5L-B AKT 125 NKD-SL-SPORT-TT.png",
       "stock": 0,
       "available": false
     },
@@ -392,7 +392,7 @@
       "reference": "Rep058",
       "price": 64400,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YT7B-4BS BWS 4T.png",
       "stock": 3,
       "available": true
     },
@@ -402,7 +402,7 @@
       "reference": "Rep060",
       "price": 46100,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX4-BS ECO KMX.png",
       "stock": 0,
       "available": false
     },
@@ -412,7 +412,7 @@
       "reference": "Rep061",
       "price": 63300,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX7A-BS AGILITY.png",
       "stock": 0,
       "available": false
     },
@@ -422,7 +422,7 @@
       "reference": "Rep062",
       "price": 69500,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX9A-BS PULSAR 200NS DR 650.png",
       "stock": 1,
       "available": true
     },
@@ -662,7 +662,7 @@
       "reference": "2336",
       "price": 8900,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA NGK GUADAÑA BMR6A.png",
       "stock": 10,
       "available": true
     },
@@ -672,7 +672,7 @@
       "reference": "Rep112",
       "price": 3600,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
       "stock": 80,
       "available": true
     },
@@ -682,7 +682,7 @@
       "reference": "Rep115",
       "price": 2800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
       "stock": 36,
       "available": true
     },
@@ -692,7 +692,7 @@
       "reference": "Rep111",
       "price": 2500,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
       "stock": 88,
       "available": true
     },
@@ -702,7 +702,7 @@
       "reference": "Rep973",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
       "stock": 30,
       "available": true
     },
@@ -712,7 +712,7 @@
       "reference": "REP113",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
       "stock": 0,
       "available": false
     },
