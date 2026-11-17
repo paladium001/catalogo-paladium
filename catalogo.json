@@ -2670,7 +2670,7 @@
       "reference": "CA66",
       "price": 8600,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/Centauro_300-17.png",
       "stock": 300,
       "available": true
     },
@@ -2680,7 +2680,7 @@
       "reference": "CA71",
       "price": 8900,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/Centauro_300-18.png",
       "stock": 285,
       "available": true
     },
@@ -2690,7 +2690,7 @@
       "reference": "CA79",
       "price": 12300,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/Centauro_410-17.png",
       "stock": 95,
       "available": true
     },
