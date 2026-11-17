@@ -182,7 +182,7 @@
       "reference": "REP017",
       "price": 2400,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 33,
       "available": true
     },
@@ -192,7 +192,7 @@
       "reference": "Rep019",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 110,
       "available": true
     },
@@ -202,7 +202,7 @@
       "reference": "Rep020",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 23,
       "available": true
     },
@@ -212,7 +212,7 @@
       "reference": "Rep021",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 27,
       "available": true
     },
@@ -222,7 +222,7 @@
       "reference": "Rep022",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 21,
       "available": true
     },
@@ -232,7 +232,7 @@
       "reference": "Rep029",
       "price": 5300,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 9,
       "available": true
     },
@@ -242,7 +242,7 @@
       "reference": "REP023",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
     },
@@ -252,7 +252,7 @@
       "reference": "Rep024",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
     },
@@ -262,7 +262,7 @@
       "reference": "Rep025",
       "price": 3000,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 20,
       "available": true
     },
@@ -272,7 +272,7 @@
       "reference": "Rep705",
       "price": 5600,
       "category": "Balineras y rodamientos",
-      "image": "",
+      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
       "stock": 6,
       "available": true
     },
