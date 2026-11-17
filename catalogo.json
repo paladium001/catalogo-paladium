@@ -2660,7 +2660,7 @@
       "reference": "CA382",
       "price": 9500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/Centauro_250-17.png",
       "stock": 86,
       "available": true
     },
