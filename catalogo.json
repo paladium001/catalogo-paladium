@@ -7,11 +7,13 @@
     "Balineras y rodamientos",
     "Frenos",
     "Baterías y electricidad",
-    "Cadenas y transmisión",
     "Insumos para vulcanizadoras",
     "Válvulas y accesorios",
     "Llantas",
-    "Neumáticos"
+    "Neumáticos",
+    "Kit y set de arrastres",
+    "Bujes y cadenas",
+    "Tensores cadena"
   ],
   "products": [
     {
@@ -599,7 +601,7 @@
       "name": "BUJE PORTA SPROCKET AKT NKD NORTH PANTHR",
       "reference": "PTR787",
       "price": 3900,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 9,
       "available": true
@@ -609,7 +611,7 @@
       "name": "BUJE PORTA SPROCKET BOXER CT NORTH PANTHR",
       "reference": "PTR847-O",
       "price": 6500,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 7,
       "available": true
@@ -619,7 +621,7 @@
       "name": "BUJE PORTA SPROCKET CB110 NORTH PANTHR",
       "reference": "PTR958-G",
       "price": 2400,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 5,
       "available": true
@@ -629,7 +631,7 @@
       "name": "BUJE PORTA SPROCKET ECO DELUXE/ AKT110 NORTH PANTHR",
       "reference": "PTR790",
       "price": 3500,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -639,7 +641,7 @@
       "name": "BUJE PORTA SPROCKET PULSAR135/180 DISCOVER125-135 NORTH PANTHR",
       "reference": "PTR791",
       "price": 7750,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 5,
       "available": true
@@ -719,7 +721,7 @@
       "name": "CADENA 420H-120",
       "reference": "2252",
       "price": 17900,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 1,
       "available": true
@@ -729,7 +731,7 @@
       "name": "CADENA 420H-124",
       "reference": "",
       "price": 22200,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 6,
       "available": true
@@ -739,7 +741,7 @@
       "name": "CADENA 428H-132 DORADA NORTH PANTHER",
       "reference": "Rep160",
       "price": 23200,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -749,7 +751,7 @@
       "name": "CADENA 428H-132 NORTH PANTHR",
       "reference": "Rep161",
       "price": 18300,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 4,
       "available": true
@@ -759,7 +761,7 @@
       "name": "CADENA 520H-120 NORTH PANTHR",
       "reference": "Rep162",
       "price": 35500,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -769,7 +771,7 @@
       "name": "CADENA RUA 428H-132",
       "reference": "3494",
       "price": 25000,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -1059,7 +1061,7 @@
       "name": "CORTA CADENA",
       "reference": "4033",
       "price": 31300,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 6,
       "available": true
@@ -1789,7 +1791,7 @@
       "name": "KIT ARRASTRE ACERADO AKT125 SL-NKD 38T+15T 428H-124L NORTH PANTHR",
       "reference": "",
       "price": 42900,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1799,7 +1801,7 @@
       "name": "KIT ARRASTRE ACERADO BOXER CT 44T+14T 428H-124L NORTH PANTHER",
       "reference": "PTR327",
       "price": 49300,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 6,
       "available": true
@@ -1809,7 +1811,7 @@
       "name": "KIT ARRASTRE ACERADO CB 110 42T+14T 428H-120L NORTH PANTHR",
       "reference": "PTR314",
       "price": 46100,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1819,7 +1821,7 @@
       "name": "KIT ARRASTRE ACERADO ECO DELUXE 42T+14T 428H-120L NORTH PANTHER",
       "reference": "PTR313",
       "price": 45100,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 6,
       "available": true
@@ -1829,7 +1831,7 @@
       "name": "KIT ARRASTRE ACERADO FZ 16 40T+14T 428H-132L NORTH PANTHER",
       "reference": "PTR312",
       "price": 56500,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 5,
       "available": true
@@ -1839,7 +1841,7 @@
       "name": "KIT ARRASTRE ACERADO VIVA/BEST 35T+14T 428H-120L NORTH PANTHER",
       "reference": "PTR316",
       "price": 44600,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 3,
       "available": true
@@ -1849,7 +1851,7 @@
       "name": "KIT ARRASTRE CHOHO AKT SL/NKD/VICTORY COMBAT 38T/14T + 248H-120",
       "reference": "1184",
       "price": 72100,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1859,7 +1861,7 @@
       "name": "KIT ARRASTRE CHOHO AKT110/125 FLEX/VICTORY ONE",
       "reference": "",
       "price": 96100,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1869,7 +1871,7 @@
       "name": "KIT ARRASTRE CHOHO BAJAJ PULAR N160 46T/15T+428HS-134",
       "reference": "1439",
       "price": 114000,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1879,7 +1881,7 @@
       "name": "KIT ARRASTRE CHOHO HONDA CB150 INVICTA/CB125 F FI 42T/15T + 428HS-128BS",
       "reference": "8051",
       "price": 100100,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1889,7 +1891,7 @@
       "name": "KIT ARRASTRE CHOHO HONDA ECODELUX 44T/14T + 420H-110",
       "reference": "",
       "price": 80400,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1899,7 +1901,7 @@
       "name": "KIT ARRASTRE CHOHO SUZUKI BEST-VIVAX-VIVA R- 35T/14T + 428H-120",
       "reference": "",
       "price": 81300,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1909,7 +1911,7 @@
       "name": "KIT ARRASTRE CHOHO YAMAHA CRYPTON 115 41T/15T + 420H-110",
       "reference": "",
       "price": 82750,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1919,7 +1921,7 @@
       "name": "KIT ARRASTRE CHOHO YAMAHA XTZ 125",
       "reference": "",
       "price": 115200,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1929,7 +1931,7 @@
       "name": "KIT ARRASTRE DR HONDA ECODELUX/NXG - CADENA DORADA",
       "reference": "",
       "price": 56600,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 0,
       "available": false
@@ -1939,7 +1941,7 @@
       "name": "KIT ARRASTRE MOTOTEC AKT110/FLEX 36T/14T+428H-110",
       "reference": "2881",
       "price": 30000,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 5,
       "available": true
@@ -1999,7 +2001,7 @@
       "name": "KIT TORNILLOS SPROCKET BAJAJ BOXER CT",
       "reference": "",
       "price": 2500,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "",
       "stock": 16,
       "available": true
@@ -3679,7 +3681,7 @@
       "name": "SET PIÑON ACERADO AKT 110 36/14 NORTH PANTHR",
       "reference": "PTR052",
       "price": 20900,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PINON ACERADO AKT 110 36-14 NORTH.webp",
       "stock": 0,
       "available": false
@@ -3689,7 +3691,7 @@
       "name": "SET PIÑON ACERADO AKT NKD 38/15 NORTH PANTHR",
       "reference": "PTR051",
       "price": 21200,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PINON ACERADO AKT NKD 38-15 NORTH PANTHR.webp",
       "stock": 9,
       "available": true
@@ -3699,7 +3701,7 @@
       "name": "SET PIÑON ACERADO BEST 125 35/14 NORTH PANTHER",
       "reference": "PTR810",
       "price": 15000,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO BEST 125 35-14 NORTH.webp",
       "stock": 8,
       "available": true
@@ -3709,7 +3711,7 @@
       "name": "SET PIÑON ACERADO BOXER CT 42/14 NORTH PANTHER",
       "reference": "PTR053",
       "price": 22300,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO BOXER CT 42-14 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
@@ -3719,7 +3721,7 @@
       "name": "SET PIÑON ACERADO CB 110 42/14 NORTH PANTHER",
       "reference": "PTR057",
       "price": 18300,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO CB 110 42-14 NORTH.webp",
       "stock": 6,
       "available": true
@@ -3729,7 +3731,7 @@
       "name": "SET PIÑON ACERADO CRYPTON 115 41/15",
       "reference": "PTR071",
       "price": 22900,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO CRYPTON 115 41-15 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
@@ -3739,7 +3741,7 @@
       "name": "SET PIÑON ACERADO ECO DELUX 42/14 NORTH PANTHER",
       "reference": "PTR058",
       "price": 20000,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO ECO DELUX 42-14.webp",
       "stock": 9,
       "available": true
@@ -3749,7 +3751,7 @@
       "name": "SET PIÑON ACERADO FZ 16 40/14 NORTH PANTHER",
       "reference": "PTR056",
       "price": 17200,
-      "category": "Cadenas y transmisión",
+      "category": "Kit y set de arrastres",
       "image": "./imagenes/repuestos/SET PIÑON ACERADO FZ 16 40-14 NORTH PANTHER.webp",
       "stock": 4,
       "available": true
@@ -3909,7 +3911,7 @@
       "name": "TENSOR CADENA AKT NKD/AKT125SPORT/AKTSL",
       "reference": "PTR073",
       "price": 1900,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 23,
       "available": true
@@ -3919,7 +3921,7 @@
       "name": "TENSOR CADENA BOXER CT 100",
       "reference": "Rep536",
       "price": 2300,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 29,
       "available": true
@@ -3929,7 +3931,7 @@
       "name": "TENSOR CADENA CB 110",
       "reference": "PTR076",
       "price": 7200,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 2,
       "available": true
@@ -3939,7 +3941,7 @@
       "name": "TENSOR CADENA DR AKT110-AKT FLEX PAR",
       "reference": "",
       "price": 2800,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 29,
       "available": true
@@ -3949,7 +3951,7 @@
       "name": "TENSOR CADENA DR SUZUKI BEST/VIVAX PAR",
       "reference": "",
       "price": 8000,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 2,
       "available": true
@@ -3959,7 +3961,7 @@
       "name": "TENSOR CADENA ECO DELUXE",
       "reference": "PTR963-G",
       "price": 2800,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 27,
       "available": true
@@ -3969,7 +3971,7 @@
       "name": "TENSOR CADENA SUZUKI AX100-AX",
       "reference": "",
       "price": 4500,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 0,
       "available": false
@@ -3979,7 +3981,7 @@
       "name": "TENSOR CADENA YAMAHA CRYPTON 115/115FI PAR",
       "reference": "",
       "price": 3000,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 6,
       "available": true
@@ -3989,7 +3991,7 @@
       "name": "TENSOR CADENA YAMAHA RX115 IZQ/DER",
       "reference": "",
       "price": 7000,
-      "category": "Cadenas y transmisión",
+      "category": "Tensores cadena",
       "image": "",
       "stock": 2,
       "available": true
@@ -4119,7 +4121,7 @@
       "name": "UNION CADENA 420H",
       "reference": "2234",
       "price": 572,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 68,
       "available": true
@@ -4129,7 +4131,7 @@
       "name": "UNION CADENA 428H",
       "reference": "2235",
       "price": 572,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 54,
       "available": true
@@ -4139,7 +4141,7 @@
       "name": "UNION CADENA 428H ORING",
       "reference": "7390",
       "price": 1600,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 20,
       "available": true
@@ -4149,7 +4151,7 @@
       "name": "UNION CADENA 520H",
       "reference": "2514",
       "price": 800,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 56,
       "available": true
@@ -4159,7 +4161,7 @@
       "name": "UNION CADENA 520H ORING DORADO",
       "reference": "7245",
       "price": 3000,
-      "category": "Cadenas y transmisión",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
