@@ -1212,7 +1212,7 @@
       "reference": "7219",
       "price": 10900,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO AKT 10MM.png",
       "stock": 0,
       "available": false
     },
@@ -1242,7 +1242,7 @@
       "reference": "2764",
       "price": 11300,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO CRYPTON 1115.png",
       "stock": 0,
       "available": false
     },
