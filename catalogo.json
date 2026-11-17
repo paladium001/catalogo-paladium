@@ -1222,7 +1222,7 @@
       "reference": "3535",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO BOXER ROSCA 10MM.png",
       "stock": 10,
       "available": true
     },
@@ -1232,7 +1232,7 @@
       "reference": "",
       "price": 9200,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO CB 110-AKT NKD.png",
       "stock": 4,
       "available": true
     },
@@ -1252,7 +1252,7 @@
       "reference": "",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO PULSAR NS YAMATECH.png",
       "stock": 9,
       "available": true
     },
@@ -1262,7 +1262,7 @@
       "reference": "2080",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO SUZUKI BEST 8MM PAR.png",
       "stock": 10,
       "available": true
     },
@@ -1272,7 +1272,7 @@
       "reference": "Rep929",
       "price": 12800,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO AGILITY 125.png",
       "stock": 3,
       "available": true
     },
@@ -1282,7 +1282,7 @@
       "reference": "PTR964-G",
       "price": 11800,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/ESPEJO ECO DELUXE.png",
       "stock": 10,
       "available": true
     },
