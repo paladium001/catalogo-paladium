@@ -2820,7 +2820,7 @@
       "reference": "Rep439",
       "price": 8900,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 250-17.webp",
       "stock": 109,
       "available": true
     },
@@ -2830,7 +2830,7 @@
       "reference": "Rep778",
       "price": 9700,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 250-18.webp",
       "stock": 25,
       "available": true
     },
@@ -2840,7 +2840,7 @@
       "reference": "Rep435",
       "price": 9700,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 275-300-14.webp",
       "stock": 0,
       "available": false
     },
@@ -2850,7 +2850,7 @@
       "reference": "Rep440",
       "price": 8900,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 275-300-17.webp",
       "stock": 191,
       "available": true
     },
@@ -2860,7 +2860,7 @@
       "reference": "Rep441",
       "price": 8900,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 275-300-18.webp",
       "stock": 12,
       "available": true
     },
@@ -2870,7 +2870,7 @@
       "reference": "REP437",
       "price": 10300,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 300-19.webp",
       "stock": 21,
       "available": true
     },
@@ -2880,7 +2880,7 @@
       "reference": "Rep438",
       "price": 10500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 300-21.webp",
       "stock": 58,
       "available": true
     },
@@ -2890,7 +2890,7 @@
       "reference": "Rep306",
       "price": 11500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 350-10.webp",
       "stock": 0,
       "available": false
     },
@@ -2900,7 +2900,7 @@
       "reference": "Rep303",
       "price": 10700,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 350-16.webp",
       "stock": 0,
       "available": false
     },
@@ -2910,7 +2910,7 @@
       "reference": "REP288",
       "price": 11800,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 400-8.webp",
       "stock": 16,
       "available": true
     },
@@ -2920,7 +2920,7 @@
       "reference": "Rep436",
       "price": 11500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 410-17.webp",
       "stock": 0,
       "available": false
     },
@@ -2930,7 +2930,7 @@
       "reference": "REP434",
       "price": 11500,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 410-18.webp",
       "stock": 125,
       "available": true
     },
@@ -2940,7 +2940,7 @@
       "reference": "REP500",
       "price": 12400,
       "category": "Neumáticos",
-      "image": "",
+      "image": "./imagenes/neumáticos/NEUMATICO PANTHER 452-12.webp",
       "stock": 19,
       "available": true
     },
