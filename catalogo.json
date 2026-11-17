@@ -3912,7 +3912,7 @@
       "reference": "PTR073",
       "price": 1900,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/KIT TENSOR CADENA AKT NKD.png",
       "stock": 23,
       "available": true
     },
@@ -3922,7 +3922,7 @@
       "reference": "Rep536",
       "price": 2300,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA BOXER CT 100.png",
       "stock": 29,
       "available": true
     },
@@ -3932,7 +3932,7 @@
       "reference": "PTR076",
       "price": 7200,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA CB 110.png",
       "stock": 2,
       "available": true
     },
@@ -3952,7 +3952,7 @@
       "reference": "",
       "price": 8000,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA DR SUZUKI BEST-VIVAX PAR.png",
       "stock": 2,
       "available": true
     },
@@ -3962,7 +3962,7 @@
       "reference": "PTR963-G",
       "price": 2800,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA ECO DELUXE.png",
       "stock": 27,
       "available": true
     },
@@ -3982,7 +3982,7 @@
       "reference": "",
       "price": 3000,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA YAMAHA CRYPTON 115-115FI PAR.png",
       "stock": 6,
       "available": true
     },
@@ -3992,7 +3992,7 @@
       "reference": "",
       "price": 7000,
       "category": "Tensores cadena",
-      "image": "",
+      "image": "./imagenes/repuestos/TENSOR CADENA YAMAHA RE115 IZQ-DER.png",
       "stock": 2,
       "available": true
     },
