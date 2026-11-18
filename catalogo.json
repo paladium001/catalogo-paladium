@@ -2592,7 +2592,7 @@
       "reference": "",
       "price": 80000,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/MOTOR TOOL.png",
       "stock": 2,
       "available": true
     },
@@ -3882,7 +3882,7 @@
       "reference": "CA892",
       "price": 1300,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TARRAJA CORTA.png",
       "stock": 23,
       "available": true
     },
@@ -3892,7 +3892,7 @@
       "reference": "",
       "price": 2600,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TARRAJA CRUCETA.png",
       "stock": 21,
       "available": true
     },
@@ -3902,7 +3902,7 @@
       "reference": "CA893",
       "price": 2000,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TARRAJA LARGA.png",
       "stock": 9,
       "available": true
     },
