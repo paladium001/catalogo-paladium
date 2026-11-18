@@ -1332,7 +1332,7 @@
       "reference": "Rep280",
       "price": 1200,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/aceites y filtros/FILTRO DE GASOLINA KCC.webp",
+      "image": "",
       "stock": 15,
       "available": true
     },
@@ -2012,7 +2012,7 @@
       "reference": "",
       "price": 4200,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/aceites y filtros/LIQUIDO PARA FRENOS DOT 4 120CC.webp",
+      "image": "",
       "stock": 8,
       "available": true
     },
