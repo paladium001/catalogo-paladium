@@ -1461,7 +1461,7 @@
       "name": "GUAYA ACELERADOR 1,5 METROS H",
       "reference": "",
       "price": 700,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 196,
       "available": true
@@ -1471,7 +1471,7 @@
       "name": "GUAYA ACELERADOR 3 METROS",
       "reference": "",
       "price": 1200,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 107,
       "available": true
@@ -1481,7 +1481,7 @@
       "name": "GUAYA ACELERADOR AKT 110 NV 2012-2017",
       "reference": "",
       "price": 5300,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 10,
       "available": true
@@ -1491,7 +1491,7 @@
       "name": "GUAYA ACELERADOR AKT 125 SL/NKD",
       "reference": "",
       "price": 3400,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 0,
       "available": false
@@ -1501,7 +1501,7 @@
       "name": "GUAYA ACELERADOR BAJAJ BOXER 100 TEC/BOXER 100 BM",
       "reference": "",
       "price": 8000,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 7,
       "available": true
@@ -1511,7 +1511,7 @@
       "name": "GUAYA ACELERADOR DISCOVER 135 ORIGINAL",
       "reference": "CA470",
       "price": 4900,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 8,
       "available": true
@@ -1521,7 +1521,7 @@
       "name": "GUAYA ACELERADOR DISCOVERY 125 ST",
       "reference": "",
       "price": 4200,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 12,
       "available": true
@@ -1531,7 +1531,7 @@
       "name": "GUAYA ACELERADOR HONDA CB 125 F",
       "reference": "GYA304",
       "price": 10900,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 9,
       "available": true
@@ -1541,7 +1541,7 @@
       "name": "GUAYA ACELERADOR HONDA CB110",
       "reference": "",
       "price": 10800,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 12,
       "available": true
@@ -1551,7 +1551,7 @@
       "name": "GUAYA ACELERADOR HONDA ECO 100 DELUX",
       "reference": "",
       "price": 6400,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 15,
       "available": true
@@ -1561,7 +1561,7 @@
       "name": "GUAYA ACELERADOR KYMCO AGILITY 125 RS",
       "reference": "",
       "price": 10500,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 1,
       "available": true
@@ -1571,7 +1571,7 @@
       "name": "GUAYA ACELERADOR SUZUKI AX 100",
       "reference": "",
       "price": 8000,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 9,
       "available": true
@@ -1581,7 +1581,7 @@
       "name": "GUAYA ACELERADOR SUZUKI VIVAX 115",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 7,
       "available": true
@@ -1591,7 +1591,7 @@
       "name": "GUAYA ACELERADOR TORITO 2015-2021",
       "reference": "CA1071",
       "price": 15000,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 0,
       "available": false
@@ -1601,7 +1601,7 @@
       "name": "GUAYA ACELERADOR WAVE 110",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 7,
       "available": true
@@ -1611,7 +1611,7 @@
       "name": "GUAYA ACELERADOR YAMAHA CRYPTON 115 FI 2017",
       "reference": "",
       "price": 8500,
-      "category": "Repuestos",
+      "category": "Guaya acelerador",
       "image": "",
       "stock": 2,
       "available": true
@@ -1621,7 +1621,7 @@
       "name": "GUAYA CLUTCH 3 METROS",
       "reference": "",
       "price": 1050,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 58,
       "available": true
@@ -1631,7 +1631,7 @@
       "name": "GUAYA CLUTCH AKT 125/NKD 111.5 CM LARGA",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 7,
       "available": true
@@ -1641,7 +1641,7 @@
       "name": "GUAYA CLUTCH AKT NKD (TIPO ORIGINAL) NORTH PANTHER",
       "reference": "PTR009",
       "price": 4100,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 7,
       "available": true
@@ -1651,7 +1651,7 @@
       "name": "GUAYA CLUTCH BAJAJ BOXER 100 CT",
       "reference": "",
       "price": 7500,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 12,
       "available": true
@@ -1661,7 +1661,7 @@
       "name": "GUAYA CLUTCH CABEZA PLASTICA",
       "reference": "2271",
       "price": 900,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 198,
       "available": true
@@ -1671,7 +1671,7 @@
       "name": "GUAYA CLUTCH CB 110",
       "reference": "",
       "price": 6900,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 8,
       "available": true
@@ -1681,7 +1681,7 @@
       "name": "GUAYA CLUTCH HONDA ECO 100 DELUX",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 2,
       "available": true
@@ -1691,7 +1691,7 @@
       "name": "GUAYA CLUTCH PULSAR 135",
       "reference": "CA631",
       "price": 4900,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 5,
       "available": true
@@ -1701,7 +1701,7 @@
       "name": "GUAYA CLUTCH PULSAR 200 NS",
       "reference": "CA468",
       "price": 5000,
-      "category": "Repuestos",
+      "category": "Guaya clutch",
       "image": "",
       "stock": 1,
       "available": true
@@ -2461,7 +2461,7 @@
       "name": "MANIGUETA CLUECHT CB110",
       "reference": "MC301",
       "price": 6400,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 12,
       "available": true
@@ -2471,7 +2471,7 @@
       "name": "MANIGUETA CLUT CH BOXER/PLATINO/DISCOVERY100",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 7,
       "available": true
@@ -2481,7 +2481,7 @@
       "name": "MANIGUETA CLUTCH AKT TTR 125/150/180",
       "reference": "MC104",
       "price": 6400,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 14,
       "available": true
@@ -2491,7 +2491,7 @@
       "name": "MANIGUETA CLUTCH AKT125 SPORT/NKD/SL",
       "reference": "",
       "price": 4900,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 8,
       "available": true
@@ -2501,7 +2501,7 @@
       "name": "MANIGUETA CLUTCH ECO/SPLENDOR/CD100",
       "reference": "",
       "price": 4900,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 10,
       "available": true
@@ -2511,7 +2511,7 @@
       "name": "MANIGUETA FRENO AKTSL/NKD/SPORT",
       "reference": "",
       "price": 5000,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 15,
       "available": true
@@ -2521,7 +2521,7 @@
       "name": "MANIGUETA FRENO BOXER CT/PLATINO/",
       "reference": "",
       "price": 6300,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 15,
       "available": true
@@ -2531,7 +2531,7 @@
       "name": "MANIGUETA FRENO CB110/CBF125/CBF150",
       "reference": "",
       "price": 4600,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 19,
       "available": true
@@ -2541,7 +2541,7 @@
       "name": "MANIGUETA FRENO ECO DELUXE/SPLENDOR/",
       "reference": "",
       "price": 4800,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 8,
       "available": true
@@ -2551,7 +2551,7 @@
       "name": "MANIGUETA FRENO PULSAR 135/PULSAR 200 FD",
       "reference": "5327",
       "price": 5100,
-      "category": "Repuestos",
+      "category": "Manigueta",
       "image": "",
       "stock": 7,
       "available": true
