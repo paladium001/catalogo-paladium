@@ -591,7 +591,7 @@
       "name": "BUJE CATALINA ECO DELUXE",
       "reference": "",
       "price": 4000,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 15,
       "available": true
@@ -651,7 +651,7 @@
       "name": "BUJE TIJERA AKT-125 SPORT",
       "reference": "",
       "price": 4000,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 7,
       "available": true
@@ -781,7 +781,7 @@
       "name": "CADENILLA BOXER CT 100 NORTH PANTHR",
       "reference": "PTR162",
       "price": 8600,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 20,
       "available": true
@@ -791,7 +791,7 @@
       "name": "CADENILLA CB110 25H-88L",
       "reference": "",
       "price": 13500,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 2,
       "available": true
@@ -801,7 +801,7 @@
       "name": "CADENILLA ECO DELUXE 25H-88L",
       "reference": "",
       "price": 8200,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 4,
       "available": true
@@ -901,7 +901,7 @@
       "name": "CAPUCHON BUJIA UNIVERSAL",
       "reference": "7422",
       "price": 1800,
-      "category": "Baterías y electricidad",
+      "category": "Repuestos",
       "image": "",
       "stock": 19,
       "available": true
@@ -1121,7 +1121,7 @@
       "name": "EJE AKT NKD TRASERO NORTH PANTHR",
       "reference": "PTR616",
       "price": 5600,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 8,
       "available": true
@@ -1131,7 +1131,7 @@
       "name": "EJE BOXER CT TRASERO NORTH PANTHR",
       "reference": "PTR615",
       "price": 5600,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 4,
       "available": true
@@ -1141,7 +1141,7 @@
       "name": "EJE CB 110/125/150 TRASERO NORTH PANTHR",
       "reference": "PTR618",
       "price": 5600,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 5,
       "available": true
@@ -1151,7 +1151,7 @@
       "name": "EJE CB110 DELANTERO NORTH PANTHR",
       "reference": "PTR614",
       "price": 5300,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -1161,7 +1161,7 @@
       "name": "EJE TRASERO AX100",
       "reference": "",
       "price": 6900,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -1171,7 +1171,7 @@
       "name": "EJE TRASERO ECO DLX",
       "reference": "",
       "price": 5800,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 0,
       "available": false
@@ -1181,7 +1181,7 @@
       "name": "EJE TRASERO RX100/115",
       "reference": "",
       "price": 5200,
-      "category": "Repuestos",
+      "category": "Bujes y cadenas",
       "image": "",
       "stock": 1,
       "available": true
