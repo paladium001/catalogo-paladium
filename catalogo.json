@@ -2983,7 +2983,7 @@
       "reference": "CA969",
       "price": 2800,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 110.png",
       "stock": 184,
       "available": true
     },
@@ -2993,7 +2993,7 @@
       "reference": "CA970",
       "price": 4200,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 112.png",
       "stock": 157,
       "available": true
     },
@@ -3003,7 +3003,7 @@
       "reference": "CA895",
       "price": 4800,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 114.png",
       "stock": 101,
       "available": true
     },
@@ -3063,7 +3063,7 @@
       "reference": "CA1215",
       "price": 4300,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE COLD PATCH (L 24).png",
       "stock": 8,
       "available": true
     },
@@ -3073,7 +3073,7 @@
       "reference": "",
       "price": 6000,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE COLD PATCH (M 48).png",
       "stock": 1,
       "available": true
     },
@@ -3123,7 +3123,7 @@
       "reference": "",
       "price": 1100,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE ECONOMICO - # 6.png",
       "stock": 111,
       "available": true
     },
@@ -3133,7 +3133,7 @@
       "reference": "HE241",
       "price": 1600,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE ECONOMICO - # 8.jpeg",
       "stock": 17,
       "available": true
     },
