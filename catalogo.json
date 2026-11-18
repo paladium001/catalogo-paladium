@@ -3083,7 +3083,7 @@
       "reference": "",
       "price": 300,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE 0 - 2 - 3.jpeg",
       "stock": 48,
       "available": true
     },
@@ -3103,7 +3103,7 @@
       "reference": "",
       "price": 500,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE 0 - 2 - 3.jpeg",
       "stock": 927,
       "available": true
     },
@@ -3113,7 +3113,7 @@
       "reference": "",
       "price": 600,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE 0 - 2 - 3.jpeg",
       "stock": 122,
       "available": true
     },
