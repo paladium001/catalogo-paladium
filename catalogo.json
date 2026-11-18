@@ -52,7 +52,7 @@
       "reference": "",
       "price": 5800,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/ACEITE BARRAS.webp",
+      "image": "",
       "stock": 17,
       "available": true
     },
@@ -62,7 +62,7 @@
       "reference": "601325",
       "price": 33500,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/ACEITE MOBIL 4T - 20W-50-O+++- UND.webp",
+      "image": "",
       "stock": 12,
       "available": true
     },
@@ -1292,7 +1292,7 @@
       "reference": "PTR021",
       "price": 2800,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE BOXER CT-BM 150-PULSAR.webp",
+      "image": "",
       "stock": 11,
       "available": true
     },
@@ -1302,7 +1302,7 @@
       "reference": "",
       "price": 3600,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE CRYPTON 115-YBR250-YZF-R-15-XTXZ 125-250.webp",
+      "image": "",
       "stock": 13,
       "available": true
     },
@@ -1312,7 +1312,7 @@
       "reference": "PTR023",
       "price": 3200,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE GN 125-VIVA-GS125-APACHE-GIXXER150-SF NORTH PANTHR.webp",
+      "image": "",
       "stock": 19,
       "available": true
     },
@@ -1322,7 +1322,7 @@
       "reference": "PTR022",
       "price": 4300,
       "category": "Aceites y lubricantes",
-      "image": "./imagenes/aceites y filtros/FILTRO DE ACEITE PULSAR NS 200 NORTH.webp",
+      "image": "",
       "stock": 15,
       "available": true
     },
