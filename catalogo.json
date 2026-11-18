@@ -13,7 +13,8 @@
     "Neumáticos",
     "Kit y set de arrastres",
     "Bujes y cadenas",
-    "Tensores cadena"
+    "Tensores cadena",
+    "Herramientas y equipos"
   ],
   "products": [
     {
@@ -3421,7 +3422,7 @@
       "name": "PLACHA REDONDA VULCANIZADORA TTE-P PEQUEÑA",
       "reference": "HE130",
       "price": 165000,
-      "category": "Repuestos",
+      "category": "Herramientas y equipos",
       "image": "",
       "stock": 0,
       "available": false
