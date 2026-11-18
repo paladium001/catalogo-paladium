@@ -1423,7 +1423,7 @@
       "reference": "",
       "price": 71500,
       "category": "Repuestos y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/GATO CENTRAL BOXER CT.png",
       "stock": 0,
       "available": false
     },
@@ -1433,7 +1433,7 @@
       "reference": "",
       "price": 174400,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/GATO ZORRA 2TON ESTUCHE.png",
       "stock": 0,
       "available": false
     },
@@ -1443,7 +1443,7 @@
       "reference": "CA522",
       "price": 757400,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/GATO ZORRA 3 TON PERFIL BAJO DB.png",
       "stock": 0,
       "available": false
     },
@@ -1453,7 +1453,7 @@
       "reference": "",
       "price": 700,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 196,
       "available": true
     },
@@ -1463,7 +1463,7 @@
       "reference": "",
       "price": 1200,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 107,
       "available": true
     },
@@ -1473,7 +1473,7 @@
       "reference": "",
       "price": 5300,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 10,
       "available": true
     },
@@ -1483,7 +1483,7 @@
       "reference": "",
       "price": 3400,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 0,
       "available": false
     },
@@ -1493,7 +1493,7 @@
       "reference": "",
       "price": 8000,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 7,
       "available": true
     },
@@ -1503,7 +1503,7 @@
       "reference": "CA470",
       "price": 4900,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 8,
       "available": true
     },
@@ -1513,7 +1513,7 @@
       "reference": "",
       "price": 4200,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 12,
       "available": true
     },
@@ -1523,7 +1523,7 @@
       "reference": "GYA304",
       "price": 10900,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 9,
       "available": true
     },
@@ -1533,7 +1533,7 @@
       "reference": "",
       "price": 10800,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 12,
       "available": true
     },
@@ -1543,7 +1543,7 @@
       "reference": "",
       "price": 6400,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 15,
       "available": true
     },
@@ -1553,7 +1553,7 @@
       "reference": "",
       "price": 10500,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 1,
       "available": true
     },
@@ -1563,7 +1563,7 @@
       "reference": "",
       "price": 8000,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 9,
       "available": true
     },
@@ -1573,7 +1573,7 @@
       "reference": "",
       "price": 5900,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 7,
       "available": true
     },
@@ -1583,7 +1583,7 @@
       "reference": "CA1071",
       "price": 15000,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 0,
       "available": false
     },
@@ -1593,7 +1593,7 @@
       "reference": "",
       "price": 5900,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 7,
       "available": true
     },
@@ -1603,7 +1603,7 @@
       "reference": "",
       "price": 8500,
       "category": "Guaya acelerador",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
       "stock": 2,
       "available": true
     },
@@ -1613,7 +1613,7 @@
       "reference": "",
       "price": 1050,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 58,
       "available": true
     },
@@ -1623,7 +1623,7 @@
       "reference": "",
       "price": 6800,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 7,
       "available": true
     },
@@ -1633,7 +1633,7 @@
       "reference": "PTR009",
       "price": 4100,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 7,
       "available": true
     },
@@ -1643,7 +1643,7 @@
       "reference": "",
       "price": 7500,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 12,
       "available": true
     },
@@ -1653,7 +1653,7 @@
       "reference": "2271",
       "price": 900,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 198,
       "available": true
     },
@@ -1663,7 +1663,7 @@
       "reference": "",
       "price": 6900,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 8,
       "available": true
     },
@@ -1673,7 +1673,7 @@
       "reference": "",
       "price": 6800,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 2,
       "available": true
     },
@@ -1683,7 +1683,7 @@
       "reference": "CA631",
       "price": 4900,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 5,
       "available": true
     },
@@ -1693,7 +1693,7 @@
       "reference": "CA468",
       "price": 5000,
       "category": "Guaya clutch",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
       "stock": 1,
       "available": true
     },
@@ -1703,7 +1703,7 @@
       "reference": "",
       "price": 7700,
       "category": "Guaya freno",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-freno/GUAYA FRENO.png",
       "stock": 11,
       "available": true
     },
@@ -1713,7 +1713,7 @@
       "reference": "",
       "price": 8500,
       "category": "Guaya freno",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-freno/GUAYA FRENO.png",
       "stock": 8,
       "available": true
     },
@@ -1723,7 +1723,7 @@
       "reference": "",
       "price": 7900,
       "category": "Guaya freno",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-freno/GUAYA FRENO.png",
       "stock": 11,
       "available": true
     },
@@ -1733,7 +1733,7 @@
       "reference": "GYF301",
       "price": 6800,
       "category": "Guaya freno",
-      "image": "",
+      "image": "./imagenes/repuestos/guaya-freno/GUAYA FRENO.png",
       "stock": 7,
       "available": true
     },
@@ -2973,7 +2973,7 @@
       "reference": "CA538",
       "price": 50000,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/PALANCA DESMONTADORA TL - 03-20.png",
       "stock": 0,
       "available": false
     },
@@ -3423,7 +3423,7 @@
       "reference": "HE130",
       "price": 165000,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/PLACHA REDONDA VULCANIZADORA TTE-P PEQUEÑA.png",
       "stock": 0,
       "available": false
     },
@@ -4073,7 +4073,7 @@
       "reference": "CA523",
       "price": 135800,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/TORRE SPORTE 3T (PAR).png",
       "stock": 1,
       "available": true
     },
@@ -4373,7 +4373,7 @@
       "reference": "HE54",
       "price": 393000,
       "category": "Herramientas y equipos",
-      "image": "",
+      "image": "./imagenes/repuestos/herramientas-y-equipos/VULCANIZADORA SK200.png",
       "stock": 0,
       "available": false
     }
