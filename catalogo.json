@@ -922,7 +922,7 @@
       "reference": "",
       "price": 5400,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA AKT EVO  GN 125GS125.png",
       "stock": 14,
       "available": true
     },
@@ -932,7 +932,7 @@
       "reference": "",
       "price": 5000,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA AXFR  BEST VIVAX EN ESTRELLA.png",
       "stock": 6,
       "available": true
     },
@@ -942,7 +942,7 @@
       "reference": "8346",
       "price": 4000,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA BIZCB110WAVE100.png",
       "stock": 0,
       "available": false
     },
@@ -952,7 +952,7 @@
       "reference": "",
       "price": 3600,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA BOXER CT 100PLATINODISCOVERY 100.png",
       "stock": 13,
       "available": true
     },
@@ -962,7 +962,7 @@
       "reference": "4654",
       "price": 4800,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA CBF125DREAM NEOCB 125F.png",
       "stock": 22,
       "available": true
     },
@@ -982,7 +982,7 @@
       "reference": "8345",
       "price": 3300,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA ECO DELUXEC90C70AKT 110.png",
       "stock": 9,
       "available": true
     },
@@ -992,7 +992,7 @@
       "reference": "8599",
       "price": 4000,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA FZ16YBRLIBERO 125.png",
       "stock": 18,
       "available": true
     },
@@ -1002,7 +1002,7 @@
       "reference": "8347",
       "price": 4300,
       "category": "Cauchos campana",
-      "image": "",
+      "image": "./imagenes/repuestos/cauchos-campana/CAUCHO CAMPANA RXCRYPTONAKTSLNKD.png",
       "stock": 17,
       "available": true
     },
