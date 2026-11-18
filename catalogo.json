@@ -81,7 +81,7 @@
       "name": "ACOPLES RAPIDOS IMPORTADO",
       "reference": "CA685",
       "price": 10800,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 10,
       "available": true
@@ -811,7 +811,7 @@
       "name": "CALIBRADOR 150 LB HEXAGONAL USA",
       "reference": "",
       "price": 42900,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -821,7 +821,7 @@
       "name": "CALIBRADOR 150 LB USA E",
       "reference": "",
       "price": 42900,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -831,7 +831,7 @@
       "name": "CALIBRADOR PEQUEÑO 120 PSI (CENTAURO)",
       "reference": "CA20",
       "price": 17000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -841,7 +841,7 @@
       "name": "CALIBRADOR RECTO LARGO 150 PSI (CENTAURO)",
       "reference": "",
       "price": 27900,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -1101,7 +1101,7 @@
       "name": "DIRECCIONAL BYWARD HONDA CB 100 CRISTAL",
       "reference": "DNL104",
       "price": 9700,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1111,7 +1111,7 @@
       "name": "DIRECCIONAL BYWARD HONDA ECODEÑUX NARANJA",
       "reference": "DNL105",
       "price": 9700,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 8,
       "available": true
@@ -1201,7 +1201,7 @@
       "name": "ENGRASADORA MANUAL 500CC",
       "reference": "CA1224",
       "price": 80000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1761,7 +1761,7 @@
       "name": "IMPERMEABLE XL",
       "reference": "",
       "price": 5500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1771,7 +1771,7 @@
       "name": "INFLALLANTAS LARGO (35 CM) NACIONAL",
       "reference": "CA7",
       "price": 24300,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 10,
       "available": true
@@ -1781,7 +1781,7 @@
       "name": "INFLALLANTAS LARGO HEMBRA (35 CM) QUALITY",
       "reference": "",
       "price": 35800,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -2591,7 +2591,7 @@
       "name": "MOTOR TOOL",
       "reference": "",
       "price": 80000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -2981,7 +2981,7 @@
       "name": "PALANCA DESMONTADORA TL - 03-20",
       "reference": "CA538",
       "price": 50000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -3461,7 +3461,7 @@
       "name": "PULPOS ANCHOS NEGROS 2 METROS",
       "reference": "",
       "price": 2600,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -3471,7 +3471,7 @@
       "name": "RACORES PARA ACOPLE RAPIDO",
       "reference": "",
       "price": 4300,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 7,
       "available": true
@@ -3881,7 +3881,7 @@
       "name": "TARRAJA CORTA",
       "reference": "CA892",
       "price": 1300,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 23,
       "available": true
@@ -3891,7 +3891,7 @@
       "name": "TARRAJA CRUCETA",
       "reference": "",
       "price": 2600,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 21,
       "available": true
@@ -3901,7 +3901,7 @@
       "name": "TARRAJA LARGA",
       "reference": "CA893",
       "price": 2000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 9,
       "available": true
@@ -4001,7 +4001,7 @@
       "name": "TIZA",
       "reference": "",
       "price": 2900,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 9,
       "available": true
@@ -4011,7 +4011,7 @@
       "name": "TORNILLO DE LUJO AZUL",
       "reference": "2052",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4021,7 +4021,7 @@
       "name": "TORNILLO DE LUJO DORADO",
       "reference": "2056",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4031,7 +4031,7 @@
       "name": "TORNILLO DE LUJO MORADO",
       "reference": "2055",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -4041,7 +4041,7 @@
       "name": "TORNILLO DE LUJO NATURAL",
       "reference": "2053",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 5,
       "available": true
@@ -4051,7 +4051,7 @@
       "name": "TORNILLO DE LUJO NEGRO",
       "reference": "2050",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -4061,7 +4061,7 @@
       "name": "TORNILLO DE LUJO ROJO",
       "reference": "2051",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4071,7 +4071,7 @@
       "name": "TORNILLO DE LUJO VERDE",
       "reference": "",
       "price": 16500,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 5,
       "available": true
@@ -4081,7 +4081,7 @@
       "name": "TORRE SPORTE 3T (PAR)",
       "reference": "CA523",
       "price": 135800,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 1,
       "available": true
@@ -4381,7 +4381,7 @@
       "name": "VULCANIZADORA SK200",
       "reference": "HE54",
       "price": 393000,
-      "category": "Accesorios",
+      "category": "Lujo y accesorios",
       "image": "",
       "stock": 0,
       "available": false
