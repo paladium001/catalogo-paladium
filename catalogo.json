@@ -851,7 +851,7 @@
       "name": "CAMPANA BOXER CT 100 DELANTERA KCC",
       "reference": "Rep164",
       "price": 60300,
-      "category": "Repuestos",
+      "category": "Campanas",
       "image": "",
       "stock": 12,
       "available": true
@@ -861,7 +861,7 @@
       "name": "CAMPANA BOXER CT 100 TRASERA NORTH PANTHR",
       "reference": "PTR170",
       "price": 55800,
-      "category": "Repuestos",
+      "category": "Campanas",
       "image": "",
       "stock": 2,
       "available": true
@@ -871,7 +871,7 @@
       "name": "CAMPANA CRIPTON 115 TRASERA KCC",
       "reference": "Rep332",
       "price": 89200,
-      "category": "Repuestos",
+      "category": "Campanas",
       "image": "",
       "stock": 1,
       "available": true
@@ -881,7 +881,7 @@
       "name": "CAMPANA ECO DELUXE TRASERA NORTH PANTHR",
       "reference": "PTR969-G",
       "price": 61300,
-      "category": "Repuestos",
+      "category": "Campanas",
       "image": "",
       "stock": 1,
       "available": true
@@ -911,7 +911,7 @@
       "name": "CAUCHO CAMPANA - PULSAR II/DISCOVER 125 ST/135/PLATINO",
       "reference": "7687",
       "price": 5200,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 20,
       "available": true
@@ -921,7 +921,7 @@
       "name": "CAUCHO CAMPANA AKT EVO / GN 125/GS125",
       "reference": "",
       "price": 5400,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 14,
       "available": true
@@ -931,7 +931,7 @@
       "name": "CAUCHO CAMPANA AX/FR / BEST/ VIVAX EN ESTRELLA",
       "reference": "",
       "price": 5000,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 6,
       "available": true
@@ -941,7 +941,7 @@
       "name": "CAUCHO CAMPANA BIZ/CB110/WAVE100",
       "reference": "8346",
       "price": 4000,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 0,
       "available": false
@@ -951,7 +951,7 @@
       "name": "CAUCHO CAMPANA BOXER CT 100/PLATINO/DISCOVERY 100",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 13,
       "available": true
@@ -961,7 +961,7 @@
       "name": "CAUCHO CAMPANA CBF125/DREAM NEO/CB 125F",
       "reference": "4654",
       "price": 4800,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 22,
       "available": true
@@ -971,7 +971,7 @@
       "name": "CAUCHO CAMPANA DR CBF150/ INVICTA",
       "reference": "8386",
       "price": 5600,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 8,
       "available": true
@@ -981,7 +981,7 @@
       "name": "CAUCHO CAMPANA ECO DELUXE/C90/C70/AKT 110",
       "reference": "8345",
       "price": 3300,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 9,
       "available": true
@@ -991,7 +991,7 @@
       "name": "CAUCHO CAMPANA FZ16/YBR/LIBERO 125",
       "reference": "8599",
       "price": 4000,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 18,
       "available": true
@@ -1001,7 +1001,7 @@
       "name": "CAUCHO CAMPANA RX/CRYPTON/AKTSL/NKD",
       "reference": "8347",
       "price": 4300,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 17,
       "available": true
@@ -1011,7 +1011,7 @@
       "name": "CAUCHO CAMPANA TVS 100 SPORT",
       "reference": "4655",
       "price": 4600,
-      "category": "Repuestos",
+      "category": "Cauchos campana",
       "image": "",
       "stock": 3,
       "available": true
@@ -1021,7 +1021,7 @@
       "name": "CAUCHO LONA 1kg",
       "reference": "",
       "price": 79900,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1071,7 +1071,7 @@
       "name": "CUCHILLA CORTE CUADRADO C.3",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 2,
       "available": true
@@ -2431,7 +2431,7 @@
       "name": "MANGO AGUJA CROMADA CARRO",
       "reference": "CA52",
       "price": 11600,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 10,
       "available": true
@@ -2441,7 +2441,7 @@
       "name": "MANGO AGUJA CROMADA MOTO",
       "reference": "CA53",
       "price": 11600,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 8,
       "available": true
@@ -2971,7 +2971,7 @@
       "name": "ORING ROJO V3",
       "reference": "CA208",
       "price": 350,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 107,
       "available": true
@@ -2991,7 +2991,7 @@
       "name": "PARCHE # 110",
       "reference": "CA969",
       "price": 2800,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 184,
       "available": true
@@ -3001,7 +3001,7 @@
       "name": "PARCHE # 112",
       "reference": "CA970",
       "price": 4200,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 157,
       "available": true
@@ -3011,7 +3011,7 @@
       "name": "PARCHE # 114",
       "reference": "CA895",
       "price": 4800,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 101,
       "available": true
@@ -3021,7 +3021,7 @@
       "name": "PARCHE # 125",
       "reference": "",
       "price": 14000,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 7,
       "available": true
@@ -3031,7 +3031,7 @@
       "name": "PARCHE # 135",
       "reference": "CA971",
       "price": 15600,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 26,
       "available": true
@@ -3041,7 +3041,7 @@
       "name": "PARCHE # 140",
       "reference": "",
       "price": 17900,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 14,
       "available": true
@@ -3051,7 +3051,7 @@
       "name": "PARCHE # 142",
       "reference": "",
       "price": 25000,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 11,
       "available": true
@@ -3061,7 +3061,7 @@
       "name": "PARCHE # 145",
       "reference": "HE275",
       "price": 27200,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 15,
       "available": true
@@ -3071,7 +3071,7 @@
       "name": "PARCHE COLD PATCH (L 24)",
       "reference": "CA1215",
       "price": 4300,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 8,
       "available": true
@@ -3081,7 +3081,7 @@
       "name": "PARCHE COLD PATCH (M 48)",
       "reference": "",
       "price": 6000,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 1,
       "available": true
@@ -3091,7 +3091,7 @@
       "name": "PARCHE ECONOMICO - # 0",
       "reference": "",
       "price": 300,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 48,
       "available": true
@@ -3101,7 +3101,7 @@
       "name": "PARCHE ECONOMICO - # 1",
       "reference": "HE242",
       "price": 400,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 1248,
       "available": true
@@ -3111,7 +3111,7 @@
       "name": "PARCHE ECONOMICO - # 2",
       "reference": "",
       "price": 500,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 927,
       "available": true
@@ -3121,7 +3121,7 @@
       "name": "PARCHE ECONOMICO - # 3",
       "reference": "",
       "price": 600,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 122,
       "available": true
@@ -3131,7 +3131,7 @@
       "name": "PARCHE ECONOMICO - # 6",
       "reference": "",
       "price": 1100,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 111,
       "available": true
@@ -3141,7 +3141,7 @@
       "name": "PARCHE ECONOMICO - # 8",
       "reference": "HE241",
       "price": 1600,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 17,
       "available": true
@@ -3151,7 +3151,7 @@
       "name": "PARCHE RUBBER - # 1",
       "reference": "",
       "price": 403,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3161,7 +3161,7 @@
       "name": "PARCHE RUBBER - # 110",
       "reference": "",
       "price": 4124,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 20,
       "available": true
@@ -3171,7 +3171,7 @@
       "name": "PARCHE RUBBER - # 112",
       "reference": "",
       "price": 5900,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3181,7 +3181,7 @@
       "name": "PARCHE RUBBER - # 114",
       "reference": "",
       "price": 6750,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3191,7 +3191,7 @@
       "name": "PARCHE RUBBER - # 125",
       "reference": "",
       "price": 11000,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3201,7 +3201,7 @@
       "name": "PARCHE RUBBER - # 135",
       "reference": "",
       "price": 16000,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3211,7 +3211,7 @@
       "name": "PARCHE RUBBER - # 142",
       "reference": "",
       "price": 21500,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3221,7 +3221,7 @@
       "name": "PARCHE RUBBER - # 145",
       "reference": "",
       "price": 28400,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3231,7 +3231,7 @@
       "name": "PARCHE RUBBER - # 2",
       "reference": "",
       "price": 793,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3241,7 +3241,7 @@
       "name": "PARCHE RUBBER - # 3",
       "reference": "",
       "price": 900,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3251,7 +3251,7 @@
       "name": "PARCHE RUBBER - # 6",
       "reference": "",
       "price": 800,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3261,7 +3261,7 @@
       "name": "PARCHE RUBBER - # 8",
       "reference": "",
       "price": 1400,
-      "category": "Insumos",
+      "category": "Parches",
       "image": "",
       "stock": 0,
       "available": false
@@ -3391,7 +3391,7 @@
       "name": "PERNO 4\"5",
       "reference": "CA514",
       "price": 10300,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 20,
       "available": true
@@ -3401,7 +3401,7 @@
       "name": "PIEDRA TIPO BOM BOM",
       "reference": "",
       "price": 12200,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 7,
       "available": true
@@ -3421,7 +3421,7 @@
       "name": "PITORRO CABEZA DE INDIO",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3641,7 +3641,7 @@
       "name": "REPUESTO AGUJA",
       "reference": "",
       "price": 3800,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 18,
       "available": true
@@ -3661,7 +3661,7 @@
       "name": "RODILLO 5MM T-15-5",
       "reference": "CA273",
       "price": 11200,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 10,
       "available": true
@@ -3821,7 +3821,7 @@
       "name": "TACOS RUBBER MOTO",
       "reference": "",
       "price": 2100,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 121,
       "available": true
@@ -3831,7 +3831,7 @@
       "name": "TACOS RUBBER VULK CARRO",
       "reference": "",
       "price": 1671,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 12,
       "available": true
@@ -3841,7 +3841,7 @@
       "name": "TACOS SELLOMATIC THUMBS",
       "reference": "PAR2501",
       "price": 1900,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 24,
       "available": true
@@ -4111,7 +4111,7 @@
       "name": "TUERCA RIN DE DISCO JKL",
       "reference": "CA903",
       "price": 4300,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 40,
       "available": true
