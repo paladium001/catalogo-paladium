@@ -4003,7 +4003,7 @@
       "reference": "2052",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 4,
       "available": true
     },
@@ -4013,7 +4013,7 @@
       "reference": "2056",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 4,
       "available": true
     },
@@ -4023,7 +4023,7 @@
       "reference": "2055",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 3,
       "available": true
     },
@@ -4033,7 +4033,7 @@
       "reference": "2053",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 5,
       "available": true
     },
@@ -4043,7 +4043,7 @@
       "reference": "2050",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 2,
       "available": true
     },
@@ -4053,7 +4053,7 @@
       "reference": "2051",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 4,
       "available": true
     },
@@ -4063,7 +4063,7 @@
       "reference": "",
       "price": 16500,
       "category": "Lujo y accesorios",
-      "image": "",
+      "image": "./imagenes/repuestos/lujo-y-accesorios/TORNILLO DE LUJO.png",
       "stock": 5,
       "available": true
     },
