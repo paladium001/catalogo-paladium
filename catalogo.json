@@ -82,7 +82,7 @@
       "reference": "CA685",
       "price": 10800,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/ACOPLES RAPIDOS IMPORTADO.png",
       "stock": 10,
       "available": true
     },
@@ -442,7 +442,7 @@
       "reference": "PTR296",
       "price": 979,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO  PATA 12V 35-35W NORTH PANTHR.png",
       "stock": 60,
       "available": true
     },
@@ -452,7 +452,7 @@
       "reference": "Rep256",
       "price": 12800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO 1 PATA LED 3 CARAS CERAMICA.png",
       "stock": 16,
       "available": true
     },
@@ -472,7 +472,7 @@
       "reference": "9070",
       "price": 1700,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO BAYONETA T10 LED PLANO BLANCO.png",
       "stock": 10,
       "available": true
     },
@@ -482,7 +482,7 @@
       "reference": "4115",
       "price": 2800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO BAYONETA T10 LED TORRE SILICONA AZUL FIJO.png",
       "stock": 10,
       "available": true
     },
@@ -492,7 +492,7 @@
       "reference": "2474",
       "price": 2500,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO BAYONETA T10 LED TORRE SILICONA ROJO FIJO.png",
       "stock": 10,
       "available": true
     },
@@ -502,7 +502,7 @@
       "reference": "9155",
       "price": 2600,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO BAYONETA T10 LED TORRE - STROBER SILICONA BLANCO.png",
       "stock": 1,
       "available": true
     },
@@ -512,7 +512,7 @@
       "reference": "Rep972",
       "price": 10800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO CERAMICA PLUS (3 CARAS) MOTOLED.png",
       "stock": 14,
       "available": true
     },
@@ -522,7 +522,7 @@
       "reference": "",
       "price": 4900,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO DIRECCIONAL LED STROBER.png",
       "stock": 3,
       "available": true
     },
@@ -532,7 +532,7 @@
       "reference": "PTR295",
       "price": 686,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO DIRECCIONAL 12V NORTH PANTHER.png",
       "stock": 160,
       "available": true
     },
@@ -542,7 +542,7 @@
       "reference": "PTR002",
       "price": 2000,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO H4 TRISETA 12V NORH PANTHER.png",
       "stock": 42,
       "available": true
     },
@@ -552,7 +552,7 @@
       "reference": "8244",
       "price": 2700,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO LED T10 CHORRO AZUL NOVA.png",
       "stock": 20,
       "available": true
     },
@@ -562,7 +562,7 @@
       "reference": "PTR003",
       "price": 929,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO STOP 12V NORTH PANTHER.png",
       "stock": 88,
       "available": true
     },
@@ -572,7 +572,7 @@
       "reference": "",
       "price": 3000,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO TRICETA HALOGENO.png",
       "stock": 12,
       "available": true
     },
@@ -582,7 +582,7 @@
       "reference": "Rep955",
       "price": 13200,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/BOMBILLO TRICETA LED (3 CARAS) CERAMICA.png",
       "stock": 7,
       "available": true
     },
@@ -812,7 +812,7 @@
       "reference": "",
       "price": 42900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CALIBRADOR 150 LB HEXAGONAL USA.png",
       "stock": 2,
       "available": true
     },
@@ -842,7 +842,7 @@
       "reference": "",
       "price": 27900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CALIBRADOR RECTO LARGO 150 PSI (CENTAURO).png",
       "stock": 4,
       "available": true
     },
@@ -852,7 +852,7 @@
       "reference": "Rep164",
       "price": 60300,
       "category": "Campanas",
-      "image": "",
+      "image": "./imagenes/repuestos/campanas/CAMPANA BOXER CT 100 DELANTERA KCC.png",
       "stock": 12,
       "available": true
     },
@@ -862,7 +862,7 @@
       "reference": "PTR170",
       "price": 55800,
       "category": "Campanas",
-      "image": "",
+      "image": "./imagenes/repuestos/campanas/CAMPANA BOXER CT 100 TRASERA NORTH PANTHR.png",
       "stock": 2,
       "available": true
     },
@@ -872,7 +872,7 @@
       "reference": "Rep332",
       "price": 89200,
       "category": "Campanas",
-      "image": "",
+      "image": "./imagenes/repuestos/campanas/CAMPANA CRIPTON 115 TRASERA KCC.png",
       "stock": 1,
       "available": true
     },
@@ -882,7 +882,7 @@
       "reference": "PTR969-G",
       "price": 61300,
       "category": "Campanas",
-      "image": "",
+      "image": "./imagenes/repuestos/campanas/CAMPANA ECO DELUXE TRASERA NORTH PANTHR.png",
       "stock": 1,
       "available": true
     },
@@ -1022,7 +1022,7 @@
       "reference": "",
       "price": 79900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CAUCHO LONA 1KG.png",
       "stock": 7,
       "available": true
     },
@@ -1042,7 +1042,7 @@
       "reference": "",
       "price": 13000,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CAUCHO VULCANIZANTE ECONOMICO.png",
       "stock": 110,
       "available": true
     },
@@ -1052,7 +1052,7 @@
       "reference": "",
       "price": 57900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CAUCHO VULCANIZANTE VIPAL.png",
       "stock": 17,
       "available": true
     },
@@ -1062,7 +1062,7 @@
       "reference": "4033",
       "price": 31300,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CORTA CADENA.png",
       "stock": 6,
       "available": true
     },
@@ -1072,7 +1072,7 @@
       "reference": "",
       "price": 3600,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/CUCHILLA CORTE CUADRADO C.3.png",
       "stock": 2,
       "available": true
     },
@@ -1112,7 +1112,7 @@
       "reference": "DNL105",
       "price": 9700,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/DIRECCIONAL BYWARD HONDA ECODEÑUX NARANJA.png",
       "stock": 8,
       "available": true
     },
@@ -1342,7 +1342,7 @@
       "reference": "PTR183",
       "price": 3000,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FLASHER 12V UNIVERSAL NORH PANTHER.png",
       "stock": 54,
       "available": true
     },
@@ -1352,7 +1352,7 @@
       "reference": "",
       "price": 180,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE MINI 10A.png",
       "stock": 10,
       "available": true
     },
@@ -1362,7 +1362,7 @@
       "reference": "",
       "price": 180,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE MINI 15A.png",
       "stock": 95,
       "available": true
     },
@@ -1372,7 +1372,7 @@
       "reference": "Rep902",
       "price": 7900,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE X100 (VIDRIO).png",
       "stock": 95,
       "available": true
     },
@@ -1382,7 +1382,7 @@
       "reference": "",
       "price": 14300,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE X100 10AMP(CUADRADO).png",
       "stock": 8,
       "available": true
     },
@@ -1392,7 +1392,7 @@
       "reference": "",
       "price": 13800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE X100 15AMP (CUADRARO).png",
       "stock": 2,
       "available": true
     },
@@ -1412,7 +1412,7 @@
       "reference": "",
       "price": 13800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/FUSIBLE X100 25AMP (CUADRARO).png",
       "stock": 80,
       "available": true
     },
@@ -1752,7 +1752,7 @@
       "reference": "",
       "price": 186,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/GUSANILLO CARRO.png",
       "stock": 500,
       "available": true
     },
@@ -1772,7 +1772,7 @@
       "reference": "CA7",
       "price": 24300,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/INFLALLANTAS LARGO (35 CM) NACIONAL.png",
       "stock": 10,
       "available": true
     },
@@ -1782,7 +1782,7 @@
       "reference": "",
       "price": 35800,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/INFLALLANTAS LARGO HEMBRA (35 CM) QUALITY.png",
       "stock": 3,
       "available": true
     },
@@ -1952,7 +1952,7 @@
       "reference": "PTR933-G",
       "price": 4600,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/KIT RETENES DE MOTOR CB110.png",
       "stock": 10,
       "available": true
     },
@@ -1962,7 +1962,7 @@
       "reference": "PTR902-G",
       "price": 4600,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/KIT RETENES DE MOTOR ECODELUX.png",
       "stock": 7,
       "available": true
     },
@@ -1972,7 +1972,7 @@
       "reference": "",
       "price": 2500,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/KIT TORNILLOS SPORCKET AKT NKD NORTH PANTHR.png",
       "stock": 1,
       "available": true
     },
@@ -1982,7 +1982,7 @@
       "reference": "2513",
       "price": 1900,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/KIT TORNILLO SPORCKET EVOL HONDA CB110-ECODELUX.png",
       "stock": 9,
       "available": true
     },
@@ -1992,7 +1992,7 @@
       "reference": "3057",
       "price": 2700,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/KIT TORNILLO SPORCKET SUZUKI AX100-BST-VIVAX.png",
       "stock": 9,
       "available": true
     },
@@ -2432,7 +2432,7 @@
       "reference": "CA52",
       "price": 11600,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/MANGO AGUJA CROMADA CARRO.png",
       "stock": 10,
       "available": true
     },
@@ -2442,7 +2442,7 @@
       "reference": "CA53",
       "price": 11600,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/MANGO AGUJA CROMADA MOTO.png",
       "stock": 8,
       "available": true
     },
@@ -2452,7 +2452,7 @@
       "reference": "2224",
       "price": 1550,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/MANGUERA GASOLINA X(1M).jpg",
       "stock": 75,
       "available": true
     },
@@ -2572,7 +2572,7 @@
       "reference": "7384",
       "price": 686,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/MICO ACELERADOR.png",
       "stock": 70,
       "available": true
     },
@@ -2582,7 +2582,7 @@
       "reference": "2556",
       "price": 686,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/MICO CLUTCH.jpg",
       "stock": 313,
       "available": true
     },
@@ -2972,7 +2972,7 @@
       "reference": "CA208",
       "price": 350,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/ORING ROJO V3.png",
       "stock": 107,
       "available": true
     },
@@ -3272,7 +3272,7 @@
       "reference": "P049",
       "price": 9500,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO EVOL CRYPTON 115.png",
       "stock": 11,
       "available": true
     },
@@ -3292,7 +3292,7 @@
       "reference": "P025",
       "price": 5800,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO EVOL SPLENDOR.png",
       "stock": 9,
       "available": true
     },
@@ -3382,7 +3382,7 @@
       "reference": "",
       "price": 1200,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PEGANTE TUBO.png",
       "stock": 1,
       "available": true
     },
@@ -3392,7 +3392,7 @@
       "reference": "CA514",
       "price": 10300,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PERNO 4¨5.png",
       "stock": 20,
       "available": true
     },
@@ -3402,7 +3402,7 @@
       "reference": "",
       "price": 12200,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PIEDRA TIPO BOM BOM.jpg",
       "stock": 7,
       "available": true
     },
@@ -3412,7 +3412,7 @@
       "reference": "",
       "price": 5900,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/PITO 12V.png",
       "stock": 8,
       "available": true
     },
@@ -3422,7 +3422,7 @@
       "reference": "",
       "price": 6800,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PITORRO CABEZA DE INDIO.png",
       "stock": 8,
       "available": true
     },
@@ -3442,7 +3442,7 @@
       "reference": "CA1113",
       "price": 1200,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/PORTA FUSIBLE DELGADO.png",
       "stock": 8,
       "available": true
     },
@@ -3452,7 +3452,7 @@
       "reference": "CA1114",
       "price": 1800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/PORTA FUSIBLE GRUESO.png",
       "stock": 10,
       "available": true
     },
@@ -3592,7 +3592,7 @@
       "reference": "",
       "price": 18600,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/REPOSAPIE DELANTERO ECO100 DELUX ES.png",
       "stock": 1,
       "available": true
     },
@@ -3602,7 +3602,7 @@
       "reference": "3182",
       "price": 9900,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/REPOSAPIE TRASERO BEST-VIVAX.png",
       "stock": 5,
       "available": true
     },
@@ -3622,7 +3622,7 @@
       "reference": "2258",
       "price": 9200,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/REPOSAPIE TRASERO CB110.png",
       "stock": 3,
       "available": true
     },
@@ -3632,7 +3632,7 @@
       "reference": "2102",
       "price": 8600,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/REPOSAPIE TRASERO ECODELUXE.png",
       "stock": 2,
       "available": true
     },
@@ -3652,7 +3652,7 @@
       "reference": "RT101",
       "price": 3900,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/RETEN TELESCOPICO SPLENDOR NXG.png",
       "stock": 5,
       "available": true
     },
@@ -3662,7 +3662,7 @@
       "reference": "CA273",
       "price": 11200,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/RODILLO 5MM T-15-5.png",
       "stock": 10,
       "available": true
     },
@@ -3772,7 +3772,7 @@
       "reference": "",
       "price": 2000,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/SOCKET TRICETA H4 LOZA.png",
       "stock": 8,
       "available": true
     },
@@ -3782,7 +3782,7 @@
       "reference": "7830",
       "price": 30500,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/SWITCH ENCENDIDO ECO DELUX.png",
       "stock": 1,
       "available": true
     },
@@ -3822,7 +3822,7 @@
       "reference": "",
       "price": 2100,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TACOS RUBBER MOTO.png",
       "stock": 121,
       "available": true
     },
@@ -3832,7 +3832,7 @@
       "reference": "",
       "price": 1671,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TACOS RUBBER VULK CARRO.png",
       "stock": 12,
       "available": true
     },
@@ -3842,7 +3842,7 @@
       "reference": "PAR2501",
       "price": 1900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TACOS SELLOMATIC THUMBS.webp",
       "stock": 24,
       "available": true
     },
@@ -4002,7 +4002,7 @@
       "reference": "",
       "price": 2900,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TIZA.png",
       "stock": 9,
       "available": true
     },
@@ -4092,7 +4092,7 @@
       "reference": "",
       "price": 3600,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/TROMPO STOP DELANTERO ECO DELUXE.png",
       "stock": 18,
       "available": true
     },
@@ -4112,7 +4112,7 @@
       "reference": "CA903",
       "price": 4300,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/TUERCA RIN DE DISCO JKL.png",
       "stock": 40,
       "available": true
     },
@@ -4122,7 +4122,7 @@
       "reference": "2234",
       "price": 572,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/UNION CADENA 420H.png",
       "stock": 68,
       "available": true
     },
@@ -4132,7 +4132,7 @@
       "reference": "2235",
       "price": 572,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/UNION CADENA 428H.png",
       "stock": 54,
       "available": true
     },
@@ -4142,7 +4142,7 @@
       "reference": "7390",
       "price": 1600,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/UNION CADENA 428H ORING.png",
       "stock": 20,
       "available": true
     },
@@ -4152,7 +4152,7 @@
       "reference": "2514",
       "price": 800,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/UNION CADENA 520H.png",
       "stock": 56,
       "available": true
     },
@@ -4332,7 +4332,7 @@
       "reference": "1573",
       "price": 3600,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/VARILLA FRENO CB110.png",
       "stock": 5,
       "available": true
     },
@@ -4342,7 +4342,7 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/VARILLA FRENO ECO DELUXE.png",
       "stock": 13,
       "available": true
     },
@@ -4352,7 +4352,7 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/VARILLA FRENO FZ 16.png",
       "stock": 8,
       "available": true
     },
@@ -4362,7 +4362,7 @@
       "reference": "",
       "price": 2200,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/VARILLA FRENO LIBERO 125.png",
       "stock": 3,
       "available": true
     },
@@ -4372,7 +4372,7 @@
       "reference": "",
       "price": 2400,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/VARILLA FRENO PULSAR 135.png",
       "stock": 8,
       "available": true
     },
