@@ -1331,7 +1331,7 @@
       "name": "FILTRO DE GASOLINA",
       "reference": "Rep280",
       "price": 1200,
-      "category": "Repuestos",
+      "category": "Aceites y lubricantes",
       "image": "./imagenes/aceites y filtros/FILTRO DE GASOLINA KCC.png",
       "stock": 15,
       "available": true
@@ -1341,7 +1341,7 @@
       "name": "FLASHER 12 V UNIVERSAL NORTH PANTHR",
       "reference": "PTR183",
       "price": 3000,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 54,
       "available": true
@@ -1351,7 +1351,7 @@
       "name": "FUSIBLE MINI 10A",
       "reference": "",
       "price": 180,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 10,
       "available": true
@@ -1361,7 +1361,7 @@
       "name": "FUSIBLE MINI 15A",
       "reference": "",
       "price": 180,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 95,
       "available": true
@@ -1371,7 +1371,7 @@
       "name": "FUSIBLES X100 (VIDRIO)",
       "reference": "Rep902",
       "price": 7900,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 95,
       "available": true
@@ -1381,7 +1381,7 @@
       "name": "FUSIBLES X100 10AMP (CUADRADO)",
       "reference": "",
       "price": 14300,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 8,
       "available": true
@@ -1391,7 +1391,7 @@
       "name": "FUSIBLES X100 15AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 2,
       "available": true
@@ -1401,7 +1401,7 @@
       "name": "FUSIBLES X100 20AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 0,
       "available": false
@@ -1411,7 +1411,7 @@
       "name": "FUSIBLES X100 25AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 80,
       "available": true
@@ -1751,7 +1751,7 @@
       "name": "GUSANILLO CARRO",
       "reference": "",
       "price": 186,
-      "category": "Repuestos",
+      "category": "Insumos",
       "image": "",
       "stock": 500,
       "available": true
@@ -2011,7 +2011,7 @@
       "name": "LIQUIDO PARA FRENOS DOT 4 / 120CC",
       "reference": "",
       "price": 4200,
-      "category": "Repuestos",
+      "category": "Aceites y lubricantes",
       "image": "./imagenes/aceites y filtros/LIQUIDO PARA FRENOS DOT 4 120CC.png",
       "stock": 8,
       "available": true
@@ -3441,7 +3441,7 @@
       "name": "PORTA FUSIBLE DELGADO",
       "reference": "CA1113",
       "price": 1200,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 8,
       "available": true
@@ -3451,7 +3451,7 @@
       "name": "PORTA FUSIBLE GRUESO",
       "reference": "CA1114",
       "price": 1800,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 10,
       "available": true
@@ -3481,7 +3481,7 @@
       "name": "RADIO 9X164 NORTH PANTHER",
       "reference": "PTR088",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIO 9X164 NORTH PANTHER.png",
       "stock": 14,
       "available": true
@@ -3491,7 +3491,7 @@
       "name": "RADIO 9X168 CROMADO YAHOSUKA",
       "reference": "410534",
       "price": 13200,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "",
       "stock": 0,
       "available": false
@@ -3501,7 +3501,7 @@
       "name": "RADIO 9X172 CROMADO YAHOSUKA",
       "reference": "410535",
       "price": 13600,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "",
       "stock": 0,
       "available": false
@@ -3511,7 +3511,7 @@
       "name": "RADIO 9X172 NORTH PANTHER",
       "reference": "PTR090",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIO 9X172 NORTH PANTHER.png",
       "stock": 15,
       "available": true
@@ -3521,7 +3521,7 @@
       "name": "RADIO 9X180 CROMADO YAHOSUKA",
       "reference": "410536",
       "price": 13300,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "",
       "stock": 0,
       "available": false
@@ -3531,7 +3531,7 @@
       "name": "RADIOS 8X164 KCC",
       "reference": "REP320",
       "price": 12900,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 8X164 KCC.png",
       "stock": 12,
       "available": true
@@ -3541,7 +3541,7 @@
       "name": "RADIOS 8X172 KCC",
       "reference": "REP324",
       "price": 12900,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 8X172 KCC.png",
       "stock": 14,
       "available": true
@@ -3551,7 +3551,7 @@
       "name": "RADIOS 9X157 NORTH PANTHR",
       "reference": "PTR086",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 9X157 NORTH PANTHR.png",
       "stock": 10,
       "available": true
@@ -3561,7 +3561,7 @@
       "name": "RADIOS 9X160 NORTH PANTHR",
       "reference": "PTR087",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 9X160 NORTH PANTHR.png",
       "stock": 10,
       "available": true
@@ -3571,7 +3571,7 @@
       "name": "RADIOS 9X168 NORTH PANTHER",
       "reference": "PTR089",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 9X168 NORTH PANTHER.png",
       "stock": 10,
       "available": true
@@ -3581,7 +3581,7 @@
       "name": "RADIOS 9X180 NORTH PANTHER",
       "reference": "PTR091",
       "price": 10000,
-      "category": "Repuestos",
+      "category": "Radios",
       "image": "./imagenes/repuestos/radios/RADIOS 9X180 NORTH PAANTHER.png",
       "stock": 10,
       "available": true
@@ -3761,7 +3761,7 @@
       "name": "SOCKET STOP 3 CABLES",
       "reference": "",
       "price": 1200,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 0,
       "available": false
@@ -3771,7 +3771,7 @@
       "name": "SOCKET TRICETA H4 LOZA",
       "reference": "",
       "price": 2000,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 8,
       "available": true
@@ -4091,7 +4091,7 @@
       "name": "TROMPO STOP DELANTERO ECO DELUXE",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 18,
       "available": true
@@ -4101,7 +4101,7 @@
       "name": "TROMPO STOP TRASERO PACHA",
       "reference": "PTR1123-G",
       "price": 2300,
-      "category": "Repuestos",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 10,
       "available": true
