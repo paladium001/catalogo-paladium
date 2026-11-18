@@ -1453,7 +1453,7 @@
       "reference": "",
       "price": 700,
       "category": "Guaya acelerador",
-      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR 1,5 METROS H.png",
       "stock": 196,
       "available": true
     },
@@ -1463,7 +1463,7 @@
       "reference": "",
       "price": 1200,
       "category": "Guaya acelerador",
-      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR VARIAS.png",
+      "image": "./imagenes/repuestos/guaya-acelerador/GUAYA ACELERADOR 3 METROS.png",
       "stock": 107,
       "available": true
     },
@@ -1613,7 +1613,7 @@
       "reference": "",
       "price": 1050,
       "category": "Guaya clutch",
-      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH 3 METROS.png",
       "stock": 58,
       "available": true
     },
@@ -1653,7 +1653,7 @@
       "reference": "2271",
       "price": 900,
       "category": "Guaya clutch",
-      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH VARIAS.png",
+      "image": "./imagenes/repuestos/guaya-clutch/GUAYA CLUTCH CABEZA PLASTICA.png",
       "stock": 198,
       "available": true
     },
