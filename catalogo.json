@@ -1783,7 +1783,7 @@
       "reference": "",
       "price": 42900,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 0,
       "available": false
     },
@@ -1793,7 +1793,7 @@
       "reference": "PTR327",
       "price": 49300,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 6,
       "available": true
     },
@@ -1803,7 +1803,7 @@
       "reference": "PTR314",
       "price": 46100,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 0,
       "available": false
     },
@@ -1813,7 +1813,7 @@
       "reference": "PTR313",
       "price": 45100,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 6,
       "available": true
     },
@@ -1823,7 +1823,7 @@
       "reference": "PTR312",
       "price": 56500,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 5,
       "available": true
     },
@@ -1833,7 +1833,7 @@
       "reference": "PTR316",
       "price": 44600,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE ACERADO.png",
       "stock": 3,
       "available": true
     },
@@ -1843,7 +1843,7 @@
       "reference": "1184",
       "price": 72100,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1853,7 +1853,7 @@
       "reference": "",
       "price": 96100,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1863,7 +1863,7 @@
       "reference": "1439",
       "price": 114000,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1873,7 +1873,7 @@
       "reference": "8051",
       "price": 100100,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1883,7 +1883,7 @@
       "reference": "",
       "price": 80400,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1893,7 +1893,7 @@
       "reference": "",
       "price": 81300,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1903,7 +1903,7 @@
       "reference": "",
       "price": 82750,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1913,7 +1913,7 @@
       "reference": "",
       "price": 115200,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE CHOHO.png",
       "stock": 0,
       "available": false
     },
@@ -1933,7 +1933,7 @@
       "reference": "2881",
       "price": 30000,
       "category": "Kit y set de arrastres",
-      "image": "",
+      "image": "./imagenes/repuestos/kit-y-set-de-arrastres/KIT ARRASTRE MOTOTEC AKT110FLEX 36T14T+428H-110.png",
       "stock": 5,
       "available": true
     },
