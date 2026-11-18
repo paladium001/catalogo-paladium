@@ -3282,7 +3282,7 @@
       "reference": "P019",
       "price": 5100,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO EVOL PULSAR 135-180-FZ16-FZ2.0-FZ150.png",
       "stock": 6,
       "available": true
     },
@@ -3302,7 +3302,7 @@
       "reference": "5238",
       "price": 5800,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO GX CBF125-150-CB110-CB150INVICTA-HIGNITOR125-THRILLER13S-HUNK160.png",
       "stock": 9,
       "available": true
     },
@@ -3322,7 +3322,7 @@
       "reference": "PTR104",
       "price": 7000,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO AGILITY 125-TS125-XTZ125 NORTH PANTHER.png",
       "stock": 12,
       "available": true
     },
@@ -3332,7 +3332,7 @@
       "reference": "PTR105",
       "price": 4400,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO AKT110-NKD125-MRX150 NORTH PANTHR.png",
       "stock": 5,
       "available": true
     },
@@ -3342,7 +3342,7 @@
       "reference": "PTR108",
       "price": 4300,
       "category": "Frenos",
-      "image": "",
+      "image": "./imagenes/repuestos/frenos/PASTILLA DE FRENO VIVA-BEST-CBZ NORTH PANTHER.png",
       "stock": 17,
       "available": true
     },
