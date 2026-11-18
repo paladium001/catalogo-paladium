@@ -81,7 +81,7 @@
       "name": "ACOPLES RAPIDOS IMPORTADO",
       "reference": "CA685",
       "price": 10800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 10,
       "available": true
@@ -591,7 +591,7 @@
       "name": "BUJE CATALINA ECO DELUXE",
       "reference": "",
       "price": 4000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 15,
       "available": true
@@ -651,7 +651,7 @@
       "name": "BUJE TIJERA AKT-125 SPORT",
       "reference": "",
       "price": 4000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -781,7 +781,7 @@
       "name": "CADENILLA BOXER CT 100 NORTH PANTHR",
       "reference": "PTR162",
       "price": 8600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 20,
       "available": true
@@ -791,7 +791,7 @@
       "name": "CADENILLA CB110 25H-88L",
       "reference": "",
       "price": 13500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -801,7 +801,7 @@
       "name": "CADENILLA ECO DELUXE 25H-88L",
       "reference": "",
       "price": 8200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 4,
       "available": true
@@ -811,7 +811,7 @@
       "name": "CALIBRADOR 150 LB HEXAGONAL USA",
       "reference": "",
       "price": 42900,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -821,7 +821,7 @@
       "name": "CALIBRADOR 150 LB USA E",
       "reference": "",
       "price": 42900,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -831,7 +831,7 @@
       "name": "CALIBRADOR PEQUEÑO 120 PSI (CENTAURO)",
       "reference": "CA20",
       "price": 17000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -841,7 +841,7 @@
       "name": "CALIBRADOR RECTO LARGO 150 PSI (CENTAURO)",
       "reference": "",
       "price": 27900,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -851,7 +851,7 @@
       "name": "CAMPANA BOXER CT 100 DELANTERA KCC",
       "reference": "Rep164",
       "price": 60300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -861,7 +861,7 @@
       "name": "CAMPANA BOXER CT 100 TRASERA NORTH PANTHR",
       "reference": "PTR170",
       "price": 55800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -871,7 +871,7 @@
       "name": "CAMPANA CRIPTON 115 TRASERA KCC",
       "reference": "Rep332",
       "price": 89200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -881,7 +881,7 @@
       "name": "CAMPANA ECO DELUXE TRASERA NORTH PANTHR",
       "reference": "PTR969-G",
       "price": 61300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -911,7 +911,7 @@
       "name": "CAUCHO CAMPANA - PULSAR II/DISCOVER 125 ST/135/PLATINO",
       "reference": "7687",
       "price": 5200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 20,
       "available": true
@@ -921,7 +921,7 @@
       "name": "CAUCHO CAMPANA AKT EVO / GN 125/GS125",
       "reference": "",
       "price": 5400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 14,
       "available": true
@@ -931,7 +931,7 @@
       "name": "CAUCHO CAMPANA AX/FR / BEST/ VIVAX EN ESTRELLA",
       "reference": "",
       "price": 5000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 6,
       "available": true
@@ -941,7 +941,7 @@
       "name": "CAUCHO CAMPANA BIZ/CB110/WAVE100",
       "reference": "8346",
       "price": 4000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -951,7 +951,7 @@
       "name": "CAUCHO CAMPANA BOXER CT 100/PLATINO/DISCOVERY 100",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 13,
       "available": true
@@ -961,7 +961,7 @@
       "name": "CAUCHO CAMPANA CBF125/DREAM NEO/CB 125F",
       "reference": "4654",
       "price": 4800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 22,
       "available": true
@@ -971,7 +971,7 @@
       "name": "CAUCHO CAMPANA DR CBF150/ INVICTA",
       "reference": "8386",
       "price": 5600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -981,7 +981,7 @@
       "name": "CAUCHO CAMPANA ECO DELUXE/C90/C70/AKT 110",
       "reference": "8345",
       "price": 3300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 9,
       "available": true
@@ -991,7 +991,7 @@
       "name": "CAUCHO CAMPANA FZ16/YBR/LIBERO 125",
       "reference": "8599",
       "price": 4000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 18,
       "available": true
@@ -1001,7 +1001,7 @@
       "name": "CAUCHO CAMPANA RX/CRYPTON/AKTSL/NKD",
       "reference": "8347",
       "price": 4300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 17,
       "available": true
@@ -1011,7 +1011,7 @@
       "name": "CAUCHO CAMPANA TVS 100 SPORT",
       "reference": "4655",
       "price": 4600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 3,
       "available": true
@@ -1021,7 +1021,7 @@
       "name": "CAUCHO LONA 1kg",
       "reference": "",
       "price": 79900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1031,7 +1031,7 @@
       "name": "CAUCHO TR-500",
       "reference": "",
       "price": 360,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1071,7 +1071,7 @@
       "name": "CUCHILLA CORTE CUADRADO C.3",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -1081,7 +1081,7 @@
       "name": "CUNA DIR AKT125/TTR150/XM180",
       "reference": "",
       "price": 17400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1091,7 +1091,7 @@
       "name": "CUNA DIR BALINES AKT SL/NKD/TT125/XL125/ECO100/STORM125",
       "reference": "8652",
       "price": 8300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -1101,7 +1101,7 @@
       "name": "DIRECCIONAL BYWARD HONDA CB 100 CRISTAL",
       "reference": "DNL104",
       "price": 9700,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1111,7 +1111,7 @@
       "name": "DIRECCIONAL BYWARD HONDA ECODEÑUX NARANJA",
       "reference": "DNL105",
       "price": 9700,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 8,
       "available": true
@@ -1121,7 +1121,7 @@
       "name": "EJE AKT NKD TRASERO NORTH PANTHR",
       "reference": "PTR616",
       "price": 5600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -1131,7 +1131,7 @@
       "name": "EJE BOXER CT TRASERO NORTH PANTHR",
       "reference": "PTR615",
       "price": 5600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 4,
       "available": true
@@ -1141,7 +1141,7 @@
       "name": "EJE CB 110/125/150 TRASERO NORTH PANTHR",
       "reference": "PTR618",
       "price": 5600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 5,
       "available": true
@@ -1151,7 +1151,7 @@
       "name": "EJE CB110 DELANTERO NORTH PANTHR",
       "reference": "PTR614",
       "price": 5300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1161,7 +1161,7 @@
       "name": "EJE TRASERO AX100",
       "reference": "",
       "price": 6900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1171,7 +1171,7 @@
       "name": "EJE TRASERO ECO DLX",
       "reference": "",
       "price": 5800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1181,7 +1181,7 @@
       "name": "EJE TRASERO RX100/115",
       "reference": "",
       "price": 5200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -1191,7 +1191,7 @@
       "name": "EMPAQUE PITORRO",
       "reference": "",
       "price": 720,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1201,7 +1201,7 @@
       "name": "ENGRASADORA MANUAL 500CC",
       "reference": "CA1224",
       "price": 80000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1211,7 +1211,7 @@
       "name": "ESPEJO AKT 10MM",
       "reference": "7219",
       "price": 10900,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO AKT 10MM.png",
       "stock": 0,
       "available": false
@@ -1221,7 +1221,7 @@
       "name": "ESPEJO BOXER ROSCA 10MM",
       "reference": "3535",
       "price": 13000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO BOXER ROSCA 10MM.png",
       "stock": 10,
       "available": true
@@ -1231,7 +1231,7 @@
       "name": "ESPEJO CB 110/AKT NKD",
       "reference": "",
       "price": 9200,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO CB 110-AKT NKD.png",
       "stock": 4,
       "available": true
@@ -1241,7 +1241,7 @@
       "name": "ESPEJO CRYPTON 115",
       "reference": "2764",
       "price": 11300,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO CRYPTON 1115.png",
       "stock": 0,
       "available": false
@@ -1251,7 +1251,7 @@
       "name": "ESPEJO PULSAR NS YAMATECH",
       "reference": "",
       "price": 10800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO PULSAR NS YAMATECH.png",
       "stock": 9,
       "available": true
@@ -1261,7 +1261,7 @@
       "name": "ESPEJO SUZUKI BEST 8MM PAR",
       "reference": "2080",
       "price": 13000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO SUZUKI BEST 8MM PAR.png",
       "stock": 10,
       "available": true
@@ -1271,7 +1271,7 @@
       "name": "ESPEJOS AGILITY 125",
       "reference": "Rep929",
       "price": 12800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO AGILITY 125.png",
       "stock": 3,
       "available": true
@@ -1281,7 +1281,7 @@
       "name": "ESPEJOS ECO DELUXE",
       "reference": "PTR964-G",
       "price": 11800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "./imagenes/repuestos/espejos/ESPEJO ECO DELUXE.png",
       "stock": 10,
       "available": true
@@ -1331,7 +1331,7 @@
       "name": "FILTRO DE GASOLINA",
       "reference": "Rep280",
       "price": 1200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/aceites y filtros/FILTRO DE GASOLINA KCC.png",
       "stock": 15,
       "available": true
@@ -1341,7 +1341,7 @@
       "name": "FLASHER 12 V UNIVERSAL NORTH PANTHR",
       "reference": "PTR183",
       "price": 3000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 54,
       "available": true
@@ -1351,7 +1351,7 @@
       "name": "FUSIBLE MINI 10A",
       "reference": "",
       "price": 180,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -1361,7 +1361,7 @@
       "name": "FUSIBLE MINI 15A",
       "reference": "",
       "price": 180,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 95,
       "available": true
@@ -1371,7 +1371,7 @@
       "name": "FUSIBLES X100 (VIDRIO)",
       "reference": "Rep902",
       "price": 7900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 95,
       "available": true
@@ -1381,7 +1381,7 @@
       "name": "FUSIBLES X100 10AMP (CUADRADO)",
       "reference": "",
       "price": 14300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -1391,7 +1391,7 @@
       "name": "FUSIBLES X100 15AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -1401,7 +1401,7 @@
       "name": "FUSIBLES X100 20AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1411,7 +1411,7 @@
       "name": "FUSIBLES X100 25AMP (CUADRADO)",
       "reference": "",
       "price": 13800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 80,
       "available": true
@@ -1421,7 +1421,7 @@
       "name": "GASOLINA CORRIENTE 10% OXIGENADA",
       "reference": "",
       "price": 15650,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 82,
       "available": false
@@ -1461,7 +1461,7 @@
       "name": "GUAYA ACELERADOR 1,5 METROS H",
       "reference": "",
       "price": 700,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 196,
       "available": true
@@ -1471,7 +1471,7 @@
       "name": "GUAYA ACELERADOR 3 METROS",
       "reference": "",
       "price": 1200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 107,
       "available": true
@@ -1481,7 +1481,7 @@
       "name": "GUAYA ACELERADOR AKT 110 NV 2012-2017",
       "reference": "",
       "price": 5300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -1491,7 +1491,7 @@
       "name": "GUAYA ACELERADOR AKT 125 SL/NKD",
       "reference": "",
       "price": 3400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1501,7 +1501,7 @@
       "name": "GUAYA ACELERADOR BAJAJ BOXER 100 TEC/BOXER 100 BM",
       "reference": "",
       "price": 8000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1511,7 +1511,7 @@
       "name": "GUAYA ACELERADOR DISCOVER 135 ORIGINAL",
       "reference": "CA470",
       "price": 4900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -1521,7 +1521,7 @@
       "name": "GUAYA ACELERADOR DISCOVERY 125 ST",
       "reference": "",
       "price": 4200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -1531,7 +1531,7 @@
       "name": "GUAYA ACELERADOR HONDA CB 125 F",
       "reference": "GYA304",
       "price": 10900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 9,
       "available": true
@@ -1541,7 +1541,7 @@
       "name": "GUAYA ACELERADOR HONDA CB110",
       "reference": "",
       "price": 10800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -1551,7 +1551,7 @@
       "name": "GUAYA ACELERADOR HONDA ECO 100 DELUX",
       "reference": "",
       "price": 6400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 15,
       "available": true
@@ -1561,7 +1561,7 @@
       "name": "GUAYA ACELERADOR KYMCO AGILITY 125 RS",
       "reference": "",
       "price": 10500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -1571,7 +1571,7 @@
       "name": "GUAYA ACELERADOR SUZUKI AX 100",
       "reference": "",
       "price": 8000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 9,
       "available": true
@@ -1581,7 +1581,7 @@
       "name": "GUAYA ACELERADOR SUZUKI VIVAX 115",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1591,7 +1591,7 @@
       "name": "GUAYA ACELERADOR TORITO 2015-2021",
       "reference": "CA1071",
       "price": 15000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -1601,7 +1601,7 @@
       "name": "GUAYA ACELERADOR WAVE 110",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1611,7 +1611,7 @@
       "name": "GUAYA ACELERADOR YAMAHA CRYPTON 115 FI 2017",
       "reference": "",
       "price": 8500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -1621,7 +1621,7 @@
       "name": "GUAYA CLUTCH 3 METROS",
       "reference": "",
       "price": 1050,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 58,
       "available": true
@@ -1631,7 +1631,7 @@
       "name": "GUAYA CLUTCH AKT 125/NKD 111.5 CM LARGA",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1641,7 +1641,7 @@
       "name": "GUAYA CLUTCH AKT NKD (TIPO ORIGINAL) NORTH PANTHER",
       "reference": "PTR009",
       "price": 4100,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1651,7 +1651,7 @@
       "name": "GUAYA CLUTCH BAJAJ BOXER 100 CT",
       "reference": "",
       "price": 7500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -1661,7 +1661,7 @@
       "name": "GUAYA CLUTCH CABEZA PLASTICA",
       "reference": "2271",
       "price": 900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 198,
       "available": true
@@ -1671,7 +1671,7 @@
       "name": "GUAYA CLUTCH CB 110",
       "reference": "",
       "price": 6900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -1681,7 +1681,7 @@
       "name": "GUAYA CLUTCH HONDA ECO 100 DELUX",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -1691,7 +1691,7 @@
       "name": "GUAYA CLUTCH PULSAR 135",
       "reference": "CA631",
       "price": 4900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 5,
       "available": true
@@ -1701,7 +1701,7 @@
       "name": "GUAYA CLUTCH PULSAR 200 NS",
       "reference": "CA468",
       "price": 5000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -1711,7 +1711,7 @@
       "name": "GUAYA FRENO BAJAJ DEL BOXER 100 TEC/ BOXER CT",
       "reference": "",
       "price": 7700,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 11,
       "available": true
@@ -1721,7 +1721,7 @@
       "name": "GUAYA FRENO DELANTERO AKT 125/NKD",
       "reference": "",
       "price": 8500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -1731,7 +1731,7 @@
       "name": "GUAYA FRENO HONDA DEL CB110",
       "reference": "",
       "price": 7900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 11,
       "available": true
@@ -1741,7 +1741,7 @@
       "name": "GUAYA FRENO HONDA DEL ECODELUX/CD 100",
       "reference": "GYF301",
       "price": 6800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1751,7 +1751,7 @@
       "name": "GUSANILLO CARRO",
       "reference": "",
       "price": 186,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 500,
       "available": true
@@ -1761,7 +1761,7 @@
       "name": "IMPERMEABLE XL",
       "reference": "",
       "price": 5500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -1771,7 +1771,7 @@
       "name": "INFLALLANTAS LARGO (35 CM) NACIONAL",
       "reference": "CA7",
       "price": 24300,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 10,
       "available": true
@@ -1781,7 +1781,7 @@
       "name": "INFLALLANTAS LARGO HEMBRA (35 CM) QUALITY",
       "reference": "",
       "price": 35800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -1951,7 +1951,7 @@
       "name": "KIT RETENES DE MOTOR CB110",
       "reference": "PTR933-G",
       "price": 4600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -1961,7 +1961,7 @@
       "name": "KIT RETENES DE MOTOR ECODELUX",
       "reference": "PTR902-G",
       "price": 4600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -1971,7 +1971,7 @@
       "name": "KIT TORNILLO SPORCKET AKT NKD NORTH PANTHR",
       "reference": "",
       "price": 2500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -1981,7 +1981,7 @@
       "name": "KIT TORNILLO SPORCKET EVOL HONDA CB110/ECODELUX",
       "reference": "2513",
       "price": 1900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 9,
       "available": true
@@ -1991,7 +1991,7 @@
       "name": "KIT TORNILLO SPORCKET SUZUKI AX100/BST/VIVAX",
       "reference": "3057",
       "price": 2700,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 9,
       "available": true
@@ -2011,7 +2011,7 @@
       "name": "LIQUIDO PARA FRENOS DOT 4 / 120CC",
       "reference": "",
       "price": 4200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/aceites y filtros/LIQUIDO PARA FRENOS DOT 4 120CC.png",
       "stock": 8,
       "available": true
@@ -2431,7 +2431,7 @@
       "name": "MANGO AGUJA CROMADA CARRO",
       "reference": "CA52",
       "price": 11600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -2441,7 +2441,7 @@
       "name": "MANGO AGUJA CROMADA MOTO",
       "reference": "CA53",
       "price": 11600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -2451,7 +2451,7 @@
       "name": "MANGUERA GASOLINA X (1M)",
       "reference": "2224",
       "price": 1550,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 75,
       "available": true
@@ -2461,7 +2461,7 @@
       "name": "MANIGUETA CLUECHT CB110",
       "reference": "MC301",
       "price": 6400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -2471,7 +2471,7 @@
       "name": "MANIGUETA CLUT CH BOXER/PLATINO/DISCOVERY100",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -2481,7 +2481,7 @@
       "name": "MANIGUETA CLUTCH AKT TTR 125/150/180",
       "reference": "MC104",
       "price": 6400,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 14,
       "available": true
@@ -2491,7 +2491,7 @@
       "name": "MANIGUETA CLUTCH AKT125 SPORT/NKD/SL",
       "reference": "",
       "price": 4900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -2501,7 +2501,7 @@
       "name": "MANIGUETA CLUTCH ECO/SPLENDOR/CD100",
       "reference": "",
       "price": 4900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -2511,7 +2511,7 @@
       "name": "MANIGUETA FRENO AKTSL/NKD/SPORT",
       "reference": "",
       "price": 5000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 15,
       "available": true
@@ -2521,7 +2521,7 @@
       "name": "MANIGUETA FRENO BOXER CT/PLATINO/",
       "reference": "",
       "price": 6300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 15,
       "available": true
@@ -2531,7 +2531,7 @@
       "name": "MANIGUETA FRENO CB110/CBF125/CBF150",
       "reference": "",
       "price": 4600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 19,
       "available": true
@@ -2541,7 +2541,7 @@
       "name": "MANIGUETA FRENO ECO DELUXE/SPLENDOR/",
       "reference": "",
       "price": 4800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -2551,7 +2551,7 @@
       "name": "MANIGUETA FRENO PULSAR 135/PULSAR 200 FD",
       "reference": "5327",
       "price": 5100,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -2561,7 +2561,7 @@
       "name": "MANUBRIO BOXER CT",
       "reference": "DIR2742",
       "price": 22900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -2571,7 +2571,7 @@
       "name": "MICO ACELERADOR",
       "reference": "7384",
       "price": 686,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 70,
       "available": true
@@ -2581,7 +2581,7 @@
       "name": "MICO CLUTCH",
       "reference": "2556",
       "price": 686,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 313,
       "available": true
@@ -2591,7 +2591,7 @@
       "name": "MOTOR TOOL",
       "reference": "",
       "price": 80000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -2971,7 +2971,7 @@
       "name": "ORING ROJO V3",
       "reference": "CA208",
       "price": 350,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 107,
       "available": true
@@ -2981,7 +2981,7 @@
       "name": "PALANCA DESMONTADORA TL - 03-20",
       "reference": "CA538",
       "price": 50000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
@@ -3391,7 +3391,7 @@
       "name": "PERNO 4\"5",
       "reference": "CA514",
       "price": 10300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 20,
       "available": true
@@ -3401,7 +3401,7 @@
       "name": "PIEDRA TIPO BOM BOM",
       "reference": "",
       "price": 12200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 7,
       "available": true
@@ -3411,7 +3411,7 @@
       "name": "PITO 12V",
       "reference": "",
       "price": 5900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3421,7 +3421,7 @@
       "name": "PITORRO CABEZA DE INDIO",
       "reference": "",
       "price": 6800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3431,7 +3431,7 @@
       "name": "PLACHA REDONDA VULCANIZADORA TTE-P PEQUEÑA",
       "reference": "HE130",
       "price": 165000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3441,7 +3441,7 @@
       "name": "PORTA FUSIBLE DELGADO",
       "reference": "CA1113",
       "price": 1200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3451,7 +3451,7 @@
       "name": "PORTA FUSIBLE GRUESO",
       "reference": "CA1114",
       "price": 1800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -3461,7 +3461,7 @@
       "name": "PULPOS ANCHOS NEGROS 2 METROS",
       "reference": "",
       "price": 2600,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -3471,7 +3471,7 @@
       "name": "RACORES PARA ACOPLE RAPIDO",
       "reference": "",
       "price": 4300,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 7,
       "available": true
@@ -3481,7 +3481,7 @@
       "name": "RADIO 9X164 NORTH PANTHER",
       "reference": "PTR088",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIO 9X164 NORTH PANTHER.png",
       "stock": 14,
       "available": true
@@ -3491,7 +3491,7 @@
       "name": "RADIO 9X168 CROMADO YAHOSUKA",
       "reference": "410534",
       "price": 13200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3501,7 +3501,7 @@
       "name": "RADIO 9X172 CROMADO YAHOSUKA",
       "reference": "410535",
       "price": 13600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3511,7 +3511,7 @@
       "name": "RADIO 9X172 NORTH PANTHER",
       "reference": "PTR090",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIO 9X172 NORTH PANTHER.png",
       "stock": 15,
       "available": true
@@ -3521,7 +3521,7 @@
       "name": "RADIO 9X180 CROMADO YAHOSUKA",
       "reference": "410536",
       "price": 13300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3531,7 +3531,7 @@
       "name": "RADIOS 8X164 KCC",
       "reference": "REP320",
       "price": 12900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 8X164 KCC.png",
       "stock": 12,
       "available": true
@@ -3541,7 +3541,7 @@
       "name": "RADIOS 8X172 KCC",
       "reference": "REP324",
       "price": 12900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 8X172 KCC.png",
       "stock": 14,
       "available": true
@@ -3551,7 +3551,7 @@
       "name": "RADIOS 9X157 NORTH PANTHR",
       "reference": "PTR086",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 9X157 NORTH PANTHR.png",
       "stock": 10,
       "available": true
@@ -3561,7 +3561,7 @@
       "name": "RADIOS 9X160 NORTH PANTHR",
       "reference": "PTR087",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 9X160 NORTH PANTHR.png",
       "stock": 10,
       "available": true
@@ -3571,7 +3571,7 @@
       "name": "RADIOS 9X168 NORTH PANTHER",
       "reference": "PTR089",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 9X168 NORTH PANTHER.png",
       "stock": 10,
       "available": true
@@ -3581,7 +3581,7 @@
       "name": "RADIOS 9X180 NORTH PANTHER",
       "reference": "PTR091",
       "price": 10000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/radios/RADIOS 9X180 NORTH PAANTHER.png",
       "stock": 10,
       "available": true
@@ -3591,7 +3591,7 @@
       "name": "REPOSAPIE DELANTERO ECO 100 DELUX ES",
       "reference": "",
       "price": 18600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 1,
       "available": true
@@ -3601,7 +3601,7 @@
       "name": "REPOSAPIE TRASERO BEST/VIVAX",
       "reference": "3182",
       "price": 9900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 5,
       "available": true
@@ -3611,7 +3611,7 @@
       "name": "REPOSAPIE TRASERO BOXER CT/CRYPTON 110/CBF125-150",
       "reference": "21116",
       "price": 10800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 3,
       "available": true
@@ -3621,7 +3621,7 @@
       "name": "REPOSAPIE TRASERO CB110",
       "reference": "2258",
       "price": 9200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 3,
       "available": true
@@ -3631,7 +3631,7 @@
       "name": "REPOSAPIE TRASERO ECODELUXE",
       "reference": "2102",
       "price": 8600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 2,
       "available": true
@@ -3641,7 +3641,7 @@
       "name": "REPUESTO AGUJA",
       "reference": "",
       "price": 3800,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 18,
       "available": true
@@ -3651,7 +3651,7 @@
       "name": "RETEN TELESCOPICO SPLEDOR NXG",
       "reference": "RT101",
       "price": 3900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 5,
       "available": true
@@ -3661,7 +3661,7 @@
       "name": "RODILLO 5MM T-15-5",
       "reference": "CA273",
       "price": 11200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -3761,7 +3761,7 @@
       "name": "SOCKET STOP 3 CABLES",
       "reference": "",
       "price": 1200,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3771,7 +3771,7 @@
       "name": "SOCKET TRICETA H4 LOZA",
       "reference": "",
       "price": 2000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3821,7 +3821,7 @@
       "name": "TACOS RUBBER MOTO",
       "reference": "",
       "price": 2100,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 121,
       "available": true
@@ -3831,7 +3831,7 @@
       "name": "TACOS RUBBER VULK CARRO",
       "reference": "",
       "price": 1671,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 12,
       "available": true
@@ -3841,7 +3841,7 @@
       "name": "TACOS SELLOMATIC THUMBS",
       "reference": "PAR2501",
       "price": 1900,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 24,
       "available": true
@@ -3881,7 +3881,7 @@
       "name": "TARRAJA CORTA",
       "reference": "CA892",
       "price": 1300,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 23,
       "available": true
@@ -3891,7 +3891,7 @@
       "name": "TARRAJA CRUCETA",
       "reference": "",
       "price": 2600,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 21,
       "available": true
@@ -3901,7 +3901,7 @@
       "name": "TARRAJA LARGA",
       "reference": "CA893",
       "price": 2000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 9,
       "available": true
@@ -4001,7 +4001,7 @@
       "name": "TIZA",
       "reference": "",
       "price": 2900,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 9,
       "available": true
@@ -4011,7 +4011,7 @@
       "name": "TORNILLO DE LUJO AZUL",
       "reference": "2052",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4021,7 +4021,7 @@
       "name": "TORNILLO DE LUJO DORADO",
       "reference": "2056",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4031,7 +4031,7 @@
       "name": "TORNILLO DE LUJO MORADO",
       "reference": "2055",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 3,
       "available": true
@@ -4041,7 +4041,7 @@
       "name": "TORNILLO DE LUJO NATURAL",
       "reference": "2053",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 5,
       "available": true
@@ -4051,7 +4051,7 @@
       "name": "TORNILLO DE LUJO NEGRO",
       "reference": "2050",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 2,
       "available": true
@@ -4061,7 +4061,7 @@
       "name": "TORNILLO DE LUJO ROJO",
       "reference": "2051",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 4,
       "available": true
@@ -4071,7 +4071,7 @@
       "name": "TORNILLO DE LUJO VERDE",
       "reference": "",
       "price": 16500,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 5,
       "available": true
@@ -4081,7 +4081,7 @@
       "name": "TORRE SPORTE 3T (PAR)",
       "reference": "CA523",
       "price": 135800,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 1,
       "available": true
@@ -4091,7 +4091,7 @@
       "name": "TROMPO STOP DELANTERO ECO DELUXE",
       "reference": "",
       "price": 3600,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 18,
       "available": true
@@ -4101,7 +4101,7 @@
       "name": "TROMPO STOP TRASERO PACHA",
       "reference": "PTR1123-G",
       "price": 2300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 10,
       "available": true
@@ -4111,7 +4111,7 @@
       "name": "TUERCA RIN DE DISCO JKL",
       "reference": "CA903",
       "price": 4300,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "",
       "stock": 40,
       "available": true
@@ -4381,7 +4381,7 @@
       "name": "VULCANIZADORA SK200",
       "reference": "HE54",
       "price": 393000,
-      "category": "Repuestos y accesorios",
+      "category": "Accesorios",
       "image": "",
       "stock": 0,
       "available": false
