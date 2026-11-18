@@ -3663,7 +3663,7 @@
       "reference": "",
       "price": 20000,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/SACA VALVULAS.png",
       "stock": 0,
       "available": false
     },
@@ -3843,7 +3843,7 @@
       "reference": "",
       "price": 86,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/TAPA VALVULA CROMADA.png",
       "stock": 0,
       "available": false
     },
@@ -3853,7 +3853,7 @@
       "reference": "TN02",
       "price": 100,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/TAPA VALVULA NEGRA.png",
       "stock": 200,
       "available": true
     },
@@ -3863,7 +3863,7 @@
       "reference": "TP01",
       "price": 150,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/TAPA VALVULA VERDE.png",
       "stock": 76,
       "available": true
     },
@@ -4163,7 +4163,7 @@
       "reference": "",
       "price": 2500,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA CROMADA CURVA.png",
       "stock": 78,
       "available": true
     },
@@ -4173,7 +4173,7 @@
       "reference": "CA232",
       "price": 2500,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA CROMADA RECTA V-5 (L).png",
       "stock": 142,
       "available": true
     },
@@ -4183,7 +4183,7 @@
       "reference": "",
       "price": 5000,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA ORING (V3-206 S).png",
       "stock": 55,
       "available": true
     },
@@ -4193,7 +4193,7 @@
       "reference": "CA1055",
       "price": 5300,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA ORING VA-204 (CORTA).png",
       "stock": 30,
       "available": true
     },
@@ -4203,7 +4203,7 @@
       "reference": "PVR50",
       "price": 4000,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA PVR-50 (MOTO ELECTRICA) MN.png",
       "stock": 20,
       "available": true
     },
@@ -4213,7 +4213,7 @@
       "reference": "",
       "price": 1800,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA PVR-70 (MOTO ELECTRICA) MV.png",
       "stock": 16,
       "available": true
     },
@@ -4223,7 +4223,7 @@
       "reference": "",
       "price": 9300,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA SENSOR.png",
       "stock": 10,
       "available": true
     },
@@ -4233,7 +4233,7 @@
       "reference": "",
       "price": 600,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR 413.png",
       "stock": 507,
       "available": true
     },
@@ -4243,7 +4243,7 @@
       "reference": "",
       "price": 9300,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR 618-A.png",
       "stock": 4,
       "available": true
     },
@@ -4253,7 +4253,7 @@
       "reference": "",
       "price": 10000,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR-218A.png",
       "stock": 4,
       "available": true
     },
@@ -4263,7 +4263,7 @@
       "reference": "TR411",
       "price": 2900,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR-411  PATINETA.png",
       "stock": 20,
       "available": true
     },
@@ -4273,7 +4273,7 @@
       "reference": "",
       "price": 750,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR-414.png",
       "stock": 102,
       "available": true
     },
@@ -4283,7 +4283,7 @@
       "reference": "",
       "price": 1000,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR415.png",
       "stock": 22,
       "available": true
     },
@@ -4293,7 +4293,7 @@
       "reference": "",
       "price": 5600,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR-573.png",
       "stock": 63,
       "available": true
     },
@@ -4303,7 +4303,7 @@
       "reference": "CA812",
       "price": 7900,
       "category": "Válvulas",
-      "image": "",
+      "image": "./imagenes/repuestos/valvulas/VALVULA TR70MS-7 CROMADA.png",
       "stock": 47,
       "available": true
     },
