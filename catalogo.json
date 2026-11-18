@@ -3792,7 +3792,7 @@
       "reference": "483210",
       "price": 25800,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/SWITCH ENCENDIDO HONDA CB 110.png",
       "stock": 1,
       "available": true
     },
@@ -3802,7 +3802,7 @@
       "reference": "4835",
       "price": 12400,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/SWITCH ENCENDIDO SUZUKI AX 100.png",
       "stock": 1,
       "available": true
     },
@@ -3812,7 +3812,7 @@
       "reference": "485412",
       "price": 26500,
       "category": "Baterías y electricidad",
-      "image": "",
+      "image": "./imagenes/repuestos/baterias-y-electricidad/SWITCH ENCENDIDO YAMAHA CRYPTON 115.png",
       "stock": 2,
       "available": true
     },
