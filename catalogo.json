@@ -902,7 +902,7 @@
       "reference": "7422",
       "price": 1800,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/CAPUCHON BUJIA UNIVERSAL.png",
       "stock": 19,
       "available": true
     },
@@ -1092,7 +1092,7 @@
       "reference": "8652",
       "price": 8300,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/CUNA DIR BALINES AKT SJ-NKD-TT125-XL125-ECO100-STORM125.png",
       "stock": 1,
       "available": true
     },
@@ -3612,7 +3612,7 @@
       "reference": "21116",
       "price": 10800,
       "category": "Repuestos",
-      "image": "",
+      "image": "./imagenes/repuestos/repuestos/REPOSAPIE TRASERO BOXER CT-CRYPTON110-CBF125-150.png",
       "stock": 3,
       "available": true
     },
