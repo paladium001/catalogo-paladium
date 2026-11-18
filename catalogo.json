@@ -592,7 +592,7 @@
       "reference": "",
       "price": 4000,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE CATALINA ECO DELUXE.png",
       "stock": 15,
       "available": true
     },
@@ -602,7 +602,7 @@
       "reference": "PTR787",
       "price": 3900,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE PORTA SPROCKET AKT NKD NORTH PANTHR.png",
       "stock": 9,
       "available": true
     },
@@ -612,7 +612,7 @@
       "reference": "PTR847-O",
       "price": 6500,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE PORTA SPROCKET BOXER CT NORTH PLANTHR.png",
       "stock": 7,
       "available": true
     },
@@ -622,7 +622,7 @@
       "reference": "PTR958-G",
       "price": 2400,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE PORTA SPROCKET CB110 NORTH PANTHR.png",
       "stock": 5,
       "available": true
     },
@@ -642,7 +642,7 @@
       "reference": "PTR791",
       "price": 7750,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE PORTA SPROCKET PULSAR135-180.png",
       "stock": 5,
       "available": true
     },
@@ -652,7 +652,7 @@
       "reference": "",
       "price": 4000,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/BUJE TIJERA AKT-125 SPORT.png",
       "stock": 7,
       "available": true
     },
@@ -722,7 +722,7 @@
       "reference": "2252",
       "price": 17900,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENA 420H-120.png",
       "stock": 1,
       "available": true
     },
@@ -732,7 +732,7 @@
       "reference": "",
       "price": 22200,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENA 420H-124.png",
       "stock": 6,
       "available": true
     },
@@ -752,7 +752,7 @@
       "reference": "Rep161",
       "price": 18300,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENA 428H-132 NORTH PANTHR.png",
       "stock": 4,
       "available": true
     },
@@ -782,7 +782,7 @@
       "reference": "PTR162",
       "price": 8600,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENILLA BOXER CT 100 NORTH PANTHR.png",
       "stock": 20,
       "available": true
     },
@@ -792,7 +792,7 @@
       "reference": "",
       "price": 13500,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENILLA CB110 25H-88L.png",
       "stock": 2,
       "available": true
     },
@@ -802,7 +802,7 @@
       "reference": "",
       "price": 8200,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/CADENILLA ECO DELUXE 25H-88L.png",
       "stock": 4,
       "available": true
     },
@@ -1122,7 +1122,7 @@
       "reference": "PTR616",
       "price": 5600,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/EJE AKT NKD TRASERO NORTH PANTHR.png",
       "stock": 8,
       "available": true
     },
@@ -1132,7 +1132,7 @@
       "reference": "PTR615",
       "price": 5600,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/EJE BOXER CT TRASERO NORTH PANTHR.png",
       "stock": 4,
       "available": true
     },
@@ -1142,7 +1142,7 @@
       "reference": "PTR618",
       "price": 5600,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/EJE CB110-125-150 TRASDERO NORTH PANTHR.png",
       "stock": 5,
       "available": true
     },
@@ -1182,7 +1182,7 @@
       "reference": "",
       "price": 5200,
       "category": "Bujes y cadenas",
-      "image": "",
+      "image": "./imagenes/repuestos/bujes-y-cadenas/EJE TRASERO RX100-115.png",
       "stock": 1,
       "available": true
     },
