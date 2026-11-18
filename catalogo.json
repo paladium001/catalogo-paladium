@@ -81,7 +81,7 @@
       "name": "ACOPLES RAPIDOS IMPORTADO",
       "reference": "CA685",
       "price": 10800,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 10,
       "available": true
@@ -811,7 +811,7 @@
       "name": "CALIBRADOR 150 LB HEXAGONAL USA",
       "reference": "",
       "price": 42900,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 2,
       "available": true
@@ -821,7 +821,7 @@
       "name": "CALIBRADOR 150 LB USA E",
       "reference": "",
       "price": 42900,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -831,7 +831,7 @@
       "name": "CALIBRADOR PEQUEÑO 120 PSI (CENTAURO)",
       "reference": "CA20",
       "price": 17000,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -841,7 +841,7 @@
       "name": "CALIBRADOR RECTO LARGO 150 PSI (CENTAURO)",
       "reference": "",
       "price": 27900,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 4,
       "available": true
@@ -1101,7 +1101,7 @@
       "name": "DIRECCIONAL BYWARD HONDA CB 100 CRISTAL",
       "reference": "DNL104",
       "price": 9700,
-      "category": "Lujo y accesorios",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 0,
       "available": false
@@ -1111,7 +1111,7 @@
       "name": "DIRECCIONAL BYWARD HONDA ECODEÑUX NARANJA",
       "reference": "DNL105",
       "price": 9700,
-      "category": "Lujo y accesorios",
+      "category": "Baterías y electricidad",
       "image": "",
       "stock": 8,
       "available": true
@@ -1771,7 +1771,7 @@
       "name": "INFLALLANTAS LARGO (35 CM) NACIONAL",
       "reference": "CA7",
       "price": 24300,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 10,
       "available": true
@@ -1781,7 +1781,7 @@
       "name": "INFLALLANTAS LARGO HEMBRA (35 CM) QUALITY",
       "reference": "",
       "price": 35800,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 3,
       "available": true
@@ -2591,7 +2591,7 @@
       "name": "MOTOR TOOL",
       "reference": "",
       "price": 80000,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 2,
       "available": true
@@ -3881,7 +3881,7 @@
       "name": "TARRAJA CORTA",
       "reference": "CA892",
       "price": 1300,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 23,
       "available": true
@@ -3891,7 +3891,7 @@
       "name": "TARRAJA CRUCETA",
       "reference": "",
       "price": 2600,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 21,
       "available": true
@@ -3901,7 +3901,7 @@
       "name": "TARRAJA LARGA",
       "reference": "CA893",
       "price": 2000,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 9,
       "available": true
@@ -4001,7 +4001,7 @@
       "name": "TIZA",
       "reference": "",
       "price": 2900,
-      "category": "Lujo y accesorios",
+      "category": "Insumos",
       "image": "",
       "stock": 9,
       "available": true
@@ -4081,7 +4081,7 @@
       "name": "TORRE SPORTE 3T (PAR)",
       "reference": "CA523",
       "price": 135800,
-      "category": "Lujo y accesorios",
+      "category": "Herramientas",
       "image": "",
       "stock": 1,
       "available": true
