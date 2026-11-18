@@ -102,7 +102,7 @@
       "reference": "2160",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 22,
       "available": true
     },
@@ -112,7 +112,7 @@
       "reference": "2057",
       "price": 2600,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 29,
       "available": true
     },
@@ -122,7 +122,7 @@
       "reference": "8984",
       "price": 1900,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 18,
       "available": true
     },
@@ -132,7 +132,7 @@
       "reference": "2061",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 48,
       "available": true
     },
@@ -142,7 +142,7 @@
       "reference": "2062",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 33,
       "available": true
     },
@@ -152,7 +152,7 @@
       "reference": "2064",
       "price": 2700,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 26,
       "available": true
     },
@@ -162,7 +162,7 @@
       "reference": "2594",
       "price": 3800,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA EVOL.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 17,
       "available": true
     },
@@ -182,7 +182,7 @@
       "reference": "REP017",
       "price": 2400,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 33,
       "available": true
     },
@@ -192,7 +192,7 @@
       "reference": "Rep019",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 110,
       "available": true
     },
@@ -202,7 +202,7 @@
       "reference": "Rep020",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 23,
       "available": true
     },
@@ -212,7 +212,7 @@
       "reference": "Rep021",
       "price": 2000,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 27,
       "available": true
     },
@@ -222,7 +222,7 @@
       "reference": "Rep022",
       "price": 2300,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 21,
       "available": true
     },
@@ -232,7 +232,7 @@
       "reference": "Rep029",
       "price": 5300,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 9,
       "available": true
     },
@@ -242,7 +242,7 @@
       "reference": "REP023",
       "price": 2100,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
     },
@@ -252,7 +252,7 @@
       "reference": "Rep024",
       "price": 2200,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
     },
@@ -262,7 +262,7 @@
       "reference": "Rep025",
       "price": 3000,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 20,
       "available": true
     },
@@ -272,7 +272,7 @@
       "reference": "Rep705",
       "price": 5600,
       "category": "Balineras y rodamientos",
-      "image": "./imagenes/repuestos/BALINERA THUNDER.png",
+      "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 6,
       "available": true
     },
@@ -282,7 +282,7 @@
       "reference": "7005",
       "price": 10900,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA C70-BEST-AX4-VIVA R EVOLUTION.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA C70-BEST-AX4-VIVA R EVOLUTION.png",
       "stock": 16,
       "available": true
     },
@@ -292,7 +292,7 @@
       "reference": "8027",
       "price": 13600,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA DT125 - BWS100-TBR125-XTZ125 MV.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA DT125 - BWS100-TBR125-XTZ125 MV.png",
       "stock": 10,
       "available": true
     },
@@ -302,7 +302,7 @@
       "reference": "REP1011",
       "price": 9600,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA ECO DELANTERA - AGILITY CBF150-SPLENDOR.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA ECO DELANTERA - AGILITY CBF150-SPLENDOR.png",
       "stock": 45,
       "available": true
     },
@@ -312,7 +312,7 @@
       "reference": "REP033",
       "price": 10900,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA FRENO AX-100-115-BOXER CT-DISCOVER100.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA FRENO AX-100-115-BOXER CT-DISCOVER100.png",
       "stock": 23,
       "available": true
     },
@@ -322,7 +322,7 @@
       "reference": "Rep032",
       "price": 10900,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA FRENO - C90-AKT110-ECODELUXE TRASERA.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA FRENO - C90-AKT110-ECODELUXE TRASERA.png",
       "stock": 13,
       "available": true
     },
@@ -332,7 +332,7 @@
       "reference": "Rep031",
       "price": 10800,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA FRENO FZ16-LIBERO100-YBR125-XTZ125-CRYPTON115.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA FRENO FZ16-LIBERO100-YBR125-XTZ125-CRYPTON115.png",
       "stock": 22,
       "available": true
     },
@@ -342,7 +342,7 @@
       "reference": "1978",
       "price": 23700,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA OSAKA AKT125 - NKD.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA OSAKA AKT125 - NKD.png",
       "stock": 2,
       "available": true
     },
@@ -352,7 +352,7 @@
       "reference": "Rep035",
       "price": 11300,
       "category": "Frenos",
-      "image": "./imagenes/repuestos/BANDA PULSAR 135-180-DISCOVERY125-180.png",
+      "image": "./imagenes/repuestos/bandas-de-freno/BANDA PULSAR 135-180-DISCOVERY125-180.png",
       "stock": 6,
       "available": true
     },
@@ -362,7 +362,7 @@
       "reference": "Rep056",
       "price": 35400,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N2.5-BS BOXER.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER 12N2.5-BS BOXER.png",
       "stock": 2,
       "available": true
     },
@@ -372,7 +372,7 @@
       "reference": "Rep057",
       "price": 50400,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N5-BS AKT 110-CRIPTON-PULSAR 135.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER 12N5-BS AKT 110-CRIPTON-PULSAR 135.png",
       "stock": 0,
       "available": false
     },
@@ -382,7 +382,7 @@
       "reference": "Rep053",
       "price": 62900,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER 12N6,5L-B AKT 125 NKD-SL-SPORT-TT.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER 12N6,5L-B AKT 125 NKD-SL-SPORT-TT.png",
       "stock": 0,
       "available": false
     },
@@ -392,7 +392,7 @@
       "reference": "Rep058",
       "price": 64400,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YT7B-4BS BWS 4T.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER YT7B-4BS BWS 4T.png",
       "stock": 3,
       "available": true
     },
@@ -402,7 +402,7 @@
       "reference": "Rep060",
       "price": 46100,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX4-BS ECO KMX.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER YTX4-BS ECO KMX.png",
       "stock": 0,
       "available": false
     },
@@ -412,7 +412,7 @@
       "reference": "Rep061",
       "price": 63300,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX7A-BS AGILITY.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER YTX7A-BS AGILITY.png",
       "stock": 0,
       "available": false
     },
@@ -422,7 +422,7 @@
       "reference": "Rep062",
       "price": 69500,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BATERIA GEL PANTHER YTX9A-BS PULSAR 200NS DR 650.png",
+      "image": "./imagenes/repuestos/baterias/BATERIA GEL PANTHER YTX9A-BS PULSAR 200NS DR 650.png",
       "stock": 1,
       "available": true
     },
@@ -662,7 +662,7 @@
       "reference": "2336",
       "price": 8900,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA NGK GUADAÑA BMR6A.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA NGK GUADAÑA BMR6A.png",
       "stock": 10,
       "available": true
     },
@@ -672,7 +672,7 @@
       "reference": "Rep112",
       "price": 3600,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA THUNDER.png",
       "stock": 80,
       "available": true
     },
@@ -682,7 +682,7 @@
       "reference": "Rep115",
       "price": 2800,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA THUNDER.png",
       "stock": 36,
       "available": true
     },
@@ -692,7 +692,7 @@
       "reference": "Rep111",
       "price": 2500,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA THUNDER.png",
       "stock": 88,
       "available": true
     },
@@ -702,7 +702,7 @@
       "reference": "Rep973",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA THUNDER.png",
       "stock": 30,
       "available": true
     },
@@ -712,7 +712,7 @@
       "reference": "REP113",
       "price": 5700,
       "category": "Baterías y electricidad",
-      "image": "./imagenes/repuestos/BUJIA THUNDER.png",
+      "image": "./imagenes/repuestos/bujias/BUJIA THUNDER.png",
       "stock": 0,
       "available": false
     },
@@ -1212,7 +1212,7 @@
       "reference": "7219",
       "price": 10900,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO AKT 10MM.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO AKT 10MM.png",
       "stock": 0,
       "available": false
     },
@@ -1222,7 +1222,7 @@
       "reference": "3535",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO BOXER ROSCA 10MM.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO BOXER ROSCA 10MM.png",
       "stock": 10,
       "available": true
     },
@@ -1232,7 +1232,7 @@
       "reference": "",
       "price": 9200,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO CB 110-AKT NKD.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO CB 110-AKT NKD.png",
       "stock": 4,
       "available": true
     },
@@ -1242,7 +1242,7 @@
       "reference": "2764",
       "price": 11300,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO CRYPTON 1115.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO CRYPTON 1115.png",
       "stock": 0,
       "available": false
     },
@@ -1252,7 +1252,7 @@
       "reference": "",
       "price": 10800,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO PULSAR NS YAMATECH.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO PULSAR NS YAMATECH.png",
       "stock": 9,
       "available": true
     },
@@ -1262,7 +1262,7 @@
       "reference": "2080",
       "price": 13000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO SUZUKI BEST 8MM PAR.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO SUZUKI BEST 8MM PAR.png",
       "stock": 10,
       "available": true
     },
@@ -1272,7 +1272,7 @@
       "reference": "Rep929",
       "price": 12800,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO AGILITY 125.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO AGILITY 125.png",
       "stock": 3,
       "available": true
     },
@@ -1282,7 +1282,7 @@
       "reference": "PTR964-G",
       "price": 11800,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/ESPEJO ECO DELUXE.png",
+      "image": "./imagenes/repuestos/espejos/ESPEJO ECO DELUXE.png",
       "stock": 10,
       "available": true
     },
@@ -3482,7 +3482,7 @@
       "reference": "PTR088",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIO 9X164 NORTH PANTHER.png",
+      "image": "./imagenes/repuestos/radios/RADIO 9X164 NORTH PANTHER.png",
       "stock": 14,
       "available": true
     },
@@ -3512,7 +3512,7 @@
       "reference": "PTR090",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIO 9X172 NORTH PANTHER.png",
+      "image": "./imagenes/repuestos/radios/RADIO 9X172 NORTH PANTHER.png",
       "stock": 15,
       "available": true
     },
@@ -3532,7 +3532,7 @@
       "reference": "REP320",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 8X164 KCC.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 8X164 KCC.png",
       "stock": 12,
       "available": true
     },
@@ -3542,7 +3542,7 @@
       "reference": "REP324",
       "price": 12900,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 8X172 KCC.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 8X172 KCC.png",
       "stock": 14,
       "available": true
     },
@@ -3552,7 +3552,7 @@
       "reference": "PTR086",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 9X157 NORTH PANTHR.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 9X157 NORTH PANTHR.png",
       "stock": 10,
       "available": true
     },
@@ -3562,7 +3562,7 @@
       "reference": "PTR087",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 9X160 NORTH PANTHR.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 9X160 NORTH PANTHR.png",
       "stock": 10,
       "available": true
     },
@@ -3572,7 +3572,7 @@
       "reference": "PTR089",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 9X168 NORTH PANTHER.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 9X168 NORTH PANTHER.png",
       "stock": 10,
       "available": true
     },
@@ -3582,7 +3582,7 @@
       "reference": "PTR091",
       "price": 10000,
       "category": "Repuestos y accesorios",
-      "image": "./imagenes/repuestos/RADIOS 9X180 NORTH PAANTHER.png",
+      "image": "./imagenes/repuestos/radios/RADIOS 9X180 NORTH PAANTHER.png",
       "stock": 10,
       "available": true
     },
@@ -3682,7 +3682,7 @@
       "reference": "PTR052",
       "price": 20900,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PINON ACERADO AKT 110 36-14 NORTH.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PINON ACERADO AKT 110 36-14 NORTH.webp",
       "stock": 0,
       "available": false
     },
@@ -3692,7 +3692,7 @@
       "reference": "PTR051",
       "price": 21200,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PINON ACERADO AKT NKD 38-15 NORTH PANTHR.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PINON ACERADO AKT NKD 38-15 NORTH PANTHR.webp",
       "stock": 9,
       "available": true
     },
@@ -3702,7 +3702,7 @@
       "reference": "PTR810",
       "price": 15000,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO BEST 125 35-14 NORTH.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO BEST 125 35-14 NORTH.webp",
       "stock": 8,
       "available": true
     },
@@ -3712,7 +3712,7 @@
       "reference": "PTR053",
       "price": 22300,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO BOXER CT 42-14 NORTH PANTHER.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO BOXER CT 42-14 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
     },
@@ -3722,7 +3722,7 @@
       "reference": "PTR057",
       "price": 18300,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO CB 110 42-14 NORTH.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO CB 110 42-14 NORTH.webp",
       "stock": 6,
       "available": true
     },
@@ -3732,7 +3732,7 @@
       "reference": "PTR071",
       "price": 22900,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO CRYPTON 115 41-15 NORTH PANTHER.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO CRYPTON 115 41-15 NORTH PANTHER.webp",
       "stock": 7,
       "available": true
     },
@@ -3742,7 +3742,7 @@
       "reference": "PTR058",
       "price": 20000,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO ECO DELUX 42-14.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO ECO DELUX 42-14.webp",
       "stock": 9,
       "available": true
     },
@@ -3752,7 +3752,7 @@
       "reference": "PTR056",
       "price": 17200,
       "category": "Kit y set de arrastres",
-      "image": "./imagenes/repuestos/SET PIÑON ACERADO FZ 16 40-14 NORTH PANTHER.webp",
+      "image": "./imagenes/repuestos/sets-de-arrastre/SET PIÑON ACERADO FZ 16 40-14 NORTH PANTHER.webp",
       "stock": 4,
       "available": true
     },
@@ -3912,7 +3912,7 @@
       "reference": "PTR073",
       "price": 1900,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/KIT TENSOR CADENA AKT NKD.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/KIT TENSOR CADENA AKT NKD.png",
       "stock": 23,
       "available": true
     },
@@ -3922,7 +3922,7 @@
       "reference": "Rep536",
       "price": 2300,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA BOXER CT 100.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA BOXER CT 100.png",
       "stock": 29,
       "available": true
     },
@@ -3932,7 +3932,7 @@
       "reference": "PTR076",
       "price": 7200,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA CB 110.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA CB 110.png",
       "stock": 2,
       "available": true
     },
@@ -3942,7 +3942,7 @@
       "reference": "",
       "price": 2800,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA DR AKT110-AKTFLEX PAR.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA DR AKT110-AKTFLEX PAR.png",
       "stock": 29,
       "available": true
     },
@@ -3952,7 +3952,7 @@
       "reference": "",
       "price": 8000,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA DR SUZUKI BEST-VIVAX PAR.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA DR SUZUKI BEST-VIVAX PAR.png",
       "stock": 2,
       "available": true
     },
@@ -3962,7 +3962,7 @@
       "reference": "PTR963-G",
       "price": 2800,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA ECO DELUXE.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA ECO DELUXE.png",
       "stock": 27,
       "available": true
     },
@@ -3982,7 +3982,7 @@
       "reference": "",
       "price": 3000,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA YAMAHA CRYPTON 115-115FI PAR.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA YAMAHA CRYPTON 115-115FI PAR.png",
       "stock": 6,
       "available": true
     },
@@ -3992,7 +3992,7 @@
       "reference": "",
       "price": 7000,
       "category": "Tensores cadena",
-      "image": "./imagenes/repuestos/TENSOR CADENA YAMAHA RE115 IZQ-DER.png",
+      "image": "./imagenes/repuestos/tensores-de-cadena/TENSOR CADENA YAMAHA RE115 IZQ-DER.png",
       "stock": 2,
       "available": true
     },
