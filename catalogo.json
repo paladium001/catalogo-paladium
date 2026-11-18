@@ -101,7 +101,7 @@
       "name": "BALINERA EVOL 6301",
       "reference": "2160",
       "price": 2000,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 22,
       "available": true
@@ -111,7 +111,7 @@
       "name": "BALINERA EVOL 6004",
       "reference": "2057",
       "price": 2600,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 29,
       "available": true
@@ -121,7 +121,7 @@
       "name": "BALINERA EVOL 6202",
       "reference": "8984",
       "price": 1900,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 18,
       "available": true
@@ -131,7 +131,7 @@
       "name": "BALINERA EVOL 6203",
       "reference": "2061",
       "price": 2300,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 48,
       "available": true
@@ -141,7 +141,7 @@
       "name": "BALINERA EVOL 6300",
       "reference": "2062",
       "price": 2100,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 33,
       "available": true
@@ -151,7 +151,7 @@
       "name": "BALINERA EVOL 6302",
       "reference": "2064",
       "price": 2700,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 26,
       "available": true
@@ -161,7 +161,7 @@
       "name": "BALINERA EVOL 6303",
       "reference": "2594",
       "price": 3800,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA EVOL.png",
       "stock": 17,
       "available": true
@@ -171,7 +171,7 @@
       "name": "BALINERA RUA 6301",
       "reference": "4007",
       "price": 4300,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "",
       "stock": 14,
       "available": true
@@ -181,7 +181,7 @@
       "name": "BALINERA THUNDER 6004",
       "reference": "REP017",
       "price": 2400,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 33,
       "available": true
@@ -191,7 +191,7 @@
       "name": "BALINERA THUNDER 6200",
       "reference": "Rep019",
       "price": 2200,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 110,
       "available": true
@@ -201,7 +201,7 @@
       "name": "BALINERA THUNDER 6201",
       "reference": "Rep020",
       "price": 2000,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 23,
       "available": true
@@ -211,7 +211,7 @@
       "name": "BALINERA THUNDER 6202",
       "reference": "Rep021",
       "price": 2000,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 27,
       "available": true
@@ -221,7 +221,7 @@
       "name": "BALINERA THUNDER 6203",
       "reference": "Rep022",
       "price": 2300,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 21,
       "available": true
@@ -231,7 +231,7 @@
       "name": "BALINERA THUNDER 6204",
       "reference": "Rep029",
       "price": 5300,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 9,
       "available": true
@@ -241,7 +241,7 @@
       "name": "BALINERA THUNDER 6300",
       "reference": "REP023",
       "price": 2100,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
@@ -251,7 +251,7 @@
       "name": "BALINERA THUNDER 6301",
       "reference": "Rep024",
       "price": 2200,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 17,
       "available": true
@@ -261,7 +261,7 @@
       "name": "BALINERA THUNDER 6302",
       "reference": "Rep025",
       "price": 3000,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 20,
       "available": true
@@ -271,7 +271,7 @@
       "name": "BALINERA THUNDER 6303",
       "reference": "Rep705",
       "price": 5600,
-      "category": "Balineras y rodamientos",
+      "category": "Rodamientos",
       "image": "./imagenes/repuestos/balineras/BALINERA THUNDER.png",
       "stock": 6,
       "available": true
@@ -1041,7 +1041,7 @@
       "name": "CAUCHO VULCANIZANTE ECONOMICO",
       "reference": "",
       "price": 13000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 110,
       "available": true
@@ -1051,7 +1051,7 @@
       "name": "CAUCHO VULCANIZANTE VIPAL",
       "reference": "",
       "price": 57900,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 17,
       "available": true
@@ -2991,7 +2991,7 @@
       "name": "PARCHE # 110",
       "reference": "CA969",
       "price": 2800,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 184,
       "available": true
@@ -3001,7 +3001,7 @@
       "name": "PARCHE # 112",
       "reference": "CA970",
       "price": 4200,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 157,
       "available": true
@@ -3011,7 +3011,7 @@
       "name": "PARCHE # 114",
       "reference": "CA895",
       "price": 4800,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 101,
       "available": true
@@ -3021,7 +3021,7 @@
       "name": "PARCHE # 125",
       "reference": "",
       "price": 14000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 7,
       "available": true
@@ -3031,7 +3031,7 @@
       "name": "PARCHE # 135",
       "reference": "CA971",
       "price": 15600,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 26,
       "available": true
@@ -3041,7 +3041,7 @@
       "name": "PARCHE # 140",
       "reference": "",
       "price": 17900,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 14,
       "available": true
@@ -3051,7 +3051,7 @@
       "name": "PARCHE # 142",
       "reference": "",
       "price": 25000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 11,
       "available": true
@@ -3061,7 +3061,7 @@
       "name": "PARCHE # 145",
       "reference": "HE275",
       "price": 27200,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 15,
       "available": true
@@ -3071,7 +3071,7 @@
       "name": "PARCHE COLD PATCH (L 24)",
       "reference": "CA1215",
       "price": 4300,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3081,7 +3081,7 @@
       "name": "PARCHE COLD PATCH (M 48)",
       "reference": "",
       "price": 6000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 1,
       "available": true
@@ -3091,7 +3091,7 @@
       "name": "PARCHE ECONOMICO - # 0",
       "reference": "",
       "price": 300,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 48,
       "available": true
@@ -3101,7 +3101,7 @@
       "name": "PARCHE ECONOMICO - # 1",
       "reference": "HE242",
       "price": 400,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 1248,
       "available": true
@@ -3111,7 +3111,7 @@
       "name": "PARCHE ECONOMICO - # 2",
       "reference": "",
       "price": 500,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 927,
       "available": true
@@ -3121,7 +3121,7 @@
       "name": "PARCHE ECONOMICO - # 3",
       "reference": "",
       "price": 600,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 122,
       "available": true
@@ -3131,7 +3131,7 @@
       "name": "PARCHE ECONOMICO - # 6",
       "reference": "",
       "price": 1100,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 111,
       "available": true
@@ -3141,7 +3141,7 @@
       "name": "PARCHE ECONOMICO - # 8",
       "reference": "HE241",
       "price": 1600,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 17,
       "available": true
@@ -3151,7 +3151,7 @@
       "name": "PARCHE RUBBER - # 1",
       "reference": "",
       "price": 403,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3161,7 +3161,7 @@
       "name": "PARCHE RUBBER - # 110",
       "reference": "",
       "price": 4124,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 20,
       "available": true
@@ -3171,7 +3171,7 @@
       "name": "PARCHE RUBBER - # 112",
       "reference": "",
       "price": 5900,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3181,7 +3181,7 @@
       "name": "PARCHE RUBBER - # 114",
       "reference": "",
       "price": 6750,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3191,7 +3191,7 @@
       "name": "PARCHE RUBBER - # 125",
       "reference": "",
       "price": 11000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3201,7 +3201,7 @@
       "name": "PARCHE RUBBER - # 135",
       "reference": "",
       "price": 16000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3211,7 +3211,7 @@
       "name": "PARCHE RUBBER - # 142",
       "reference": "",
       "price": 21500,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3221,7 +3221,7 @@
       "name": "PARCHE RUBBER - # 145",
       "reference": "",
       "price": 28400,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3231,7 +3231,7 @@
       "name": "PARCHE RUBBER - # 2",
       "reference": "",
       "price": 793,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3241,7 +3241,7 @@
       "name": "PARCHE RUBBER - # 3",
       "reference": "",
       "price": 900,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3251,7 +3251,7 @@
       "name": "PARCHE RUBBER - # 6",
       "reference": "",
       "price": 800,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3261,7 +3261,7 @@
       "name": "PARCHE RUBBER - # 8",
       "reference": "",
       "price": 1400,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3351,7 +3351,7 @@
       "name": "PEGANTE COLA VULK (N)",
       "reference": "",
       "price": 54300,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 0,
       "available": false
@@ -3361,7 +3361,7 @@
       "name": "PEGANTE RUBER VULK (1L)",
       "reference": "",
       "price": 45000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 8,
       "available": true
@@ -3371,7 +3371,7 @@
       "name": "PEGANTE RUBER VULK (200ML)",
       "reference": "",
       "price": 12000,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 18,
       "available": true
@@ -3381,7 +3381,7 @@
       "name": "PEGANTE TUBO",
       "reference": "",
       "price": 1200,
-      "category": "Insumos para vulcanizadoras",
+      "category": "Insumos",
       "image": "",
       "stock": 1,
       "available": true
@@ -3671,7 +3671,7 @@
       "name": "SACA VALVULAS",
       "reference": "",
       "price": 20000,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 0,
       "available": false
@@ -3851,7 +3851,7 @@
       "name": "TAPA VALVULA CROMADA",
       "reference": "",
       "price": 86,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 0,
       "available": false
@@ -3861,7 +3861,7 @@
       "name": "TAPA VALVULA NEGRA",
       "reference": "TN02",
       "price": 100,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 200,
       "available": true
@@ -3871,7 +3871,7 @@
       "name": "TAPA VALVULA VERDE",
       "reference": "TP01",
       "price": 150,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 76,
       "available": true
@@ -4171,7 +4171,7 @@
       "name": "VALVULA CROMADA CURVA",
       "reference": "",
       "price": 2500,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 78,
       "available": true
@@ -4181,7 +4181,7 @@
       "name": "VALVULA CROMADA RECTA V-5 (L)",
       "reference": "CA232",
       "price": 2500,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 142,
       "available": true
@@ -4191,7 +4191,7 @@
       "name": "VALVULA ORING (V3-206 S)",
       "reference": "",
       "price": 5000,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 55,
       "available": true
@@ -4201,7 +4201,7 @@
       "name": "VALVULA ORING VA-204 (CORTA)",
       "reference": "CA1055",
       "price": 5300,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 30,
       "available": true
@@ -4211,7 +4211,7 @@
       "name": "VALVULA PVR-50 (MOTO ELECTRICA) MN",
       "reference": "PVR50",
       "price": 4000,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 20,
       "available": true
@@ -4221,7 +4221,7 @@
       "name": "VALVULA PVR-70 (MOTO ELECTRICA) MV",
       "reference": "",
       "price": 1800,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 16,
       "available": true
@@ -4231,7 +4231,7 @@
       "name": "VALVULA SENSOR",
       "reference": "",
       "price": 9300,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 10,
       "available": true
@@ -4241,7 +4241,7 @@
       "name": "VALVULA TR 413",
       "reference": "",
       "price": 600,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 507,
       "available": true
@@ -4251,7 +4251,7 @@
       "name": "VALVULA TR 618-A",
       "reference": "",
       "price": 9300,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 4,
       "available": true
@@ -4261,7 +4261,7 @@
       "name": "VALVULA TR-218A",
       "reference": "",
       "price": 10000,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 4,
       "available": true
@@ -4271,7 +4271,7 @@
       "name": "VALVULA TR-411 / PATINETA",
       "reference": "TR411",
       "price": 2900,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 20,
       "available": true
@@ -4281,7 +4281,7 @@
       "name": "VALVULA TR-414",
       "reference": "",
       "price": 750,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 102,
       "available": true
@@ -4291,7 +4291,7 @@
       "name": "VALVULA TR415",
       "reference": "",
       "price": 1000,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 22,
       "available": true
@@ -4301,7 +4301,7 @@
       "name": "VALVULA TR-573",
       "reference": "",
       "price": 5600,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 63,
       "available": true
@@ -4311,7 +4311,7 @@
       "name": "VALVULA TR70MS-7 CROMADA",
       "reference": "CA812",
       "price": 7900,
-      "category": "Válvulas y accesorios",
+      "category": "Válvulas",
       "image": "",
       "stock": 47,
       "available": true
