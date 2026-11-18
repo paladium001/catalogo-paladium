@@ -22,7 +22,7 @@
       "reference": "",
       "price": 346600,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/ACEITE 20W50 5000.png",
       "stock": 0,
       "available": false
     },
@@ -32,7 +32,7 @@
       "reference": "",
       "price": 373300,
       "category": "Aceites y lubricantes",
-      "image": "",
+      "image": "./imagenes/aceites y filtros/ACEITE 20W50 -5100.png",
       "stock": 0,
       "available": false
     },
