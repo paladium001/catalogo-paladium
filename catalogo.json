@@ -3642,7 +3642,7 @@
       "reference": "",
       "price": 3800,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/REPUESTO AGUJA.png",
       "stock": 18,
       "available": true
     },
