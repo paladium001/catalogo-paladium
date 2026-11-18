@@ -1417,16 +1417,6 @@
       "available": true
     },
     {
-      "id": "141",
-      "name": "GASOLINA CORRIENTE 10% OXIGENADA",
-      "reference": "",
-      "price": 15650,
-      "category": "Repuestos",
-      "image": "",
-      "stock": 82,
-      "available": false
-    },
-    {
       "id": "142",
       "name": "GATO CENTRAL BOXER CT",
       "reference": "",
