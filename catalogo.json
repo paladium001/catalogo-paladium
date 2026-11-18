@@ -1211,7 +1211,7 @@
       "name": "ESPEJO AKT 10MM",
       "reference": "7219",
       "price": 10900,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO AKT 10MM.png",
       "stock": 0,
       "available": false
@@ -1221,7 +1221,7 @@
       "name": "ESPEJO BOXER ROSCA 10MM",
       "reference": "3535",
       "price": 13000,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO BOXER ROSCA 10MM.png",
       "stock": 10,
       "available": true
@@ -1231,7 +1231,7 @@
       "name": "ESPEJO CB 110/AKT NKD",
       "reference": "",
       "price": 9200,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO CB 110-AKT NKD.png",
       "stock": 4,
       "available": true
@@ -1241,7 +1241,7 @@
       "name": "ESPEJO CRYPTON 115",
       "reference": "2764",
       "price": 11300,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO CRYPTON 1115.png",
       "stock": 0,
       "available": false
@@ -1251,7 +1251,7 @@
       "name": "ESPEJO PULSAR NS YAMATECH",
       "reference": "",
       "price": 10800,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO PULSAR NS YAMATECH.png",
       "stock": 9,
       "available": true
@@ -1261,7 +1261,7 @@
       "name": "ESPEJO SUZUKI BEST 8MM PAR",
       "reference": "2080",
       "price": 13000,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO SUZUKI BEST 8MM PAR.png",
       "stock": 10,
       "available": true
@@ -1271,7 +1271,7 @@
       "name": "ESPEJOS AGILITY 125",
       "reference": "Rep929",
       "price": 12800,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO AGILITY 125.png",
       "stock": 3,
       "available": true
@@ -1281,7 +1281,7 @@
       "name": "ESPEJOS ECO DELUXE",
       "reference": "PTR964-G",
       "price": 11800,
-      "category": "Accesorios",
+      "category": "Espejos",
       "image": "./imagenes/repuestos/espejos/ESPEJO ECO DELUXE.png",
       "stock": 10,
       "available": true
