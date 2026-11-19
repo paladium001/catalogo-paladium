@@ -2313,7 +2313,7 @@
       "reference": "GEO089",
       "price": 83900,
       "category": "Llantas",
-      "image": "",
+      "image": "./imagenes/llantas/LLANTA PANTHER 400-8 TL TIPO ORIGINAL.png",
       "stock": 0,
       "available": false
     },
@@ -2983,7 +2983,7 @@
       "reference": "CA969",
       "price": 2800,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 110.png",
       "stock": 184,
       "available": true
     },
@@ -2993,7 +2993,7 @@
       "reference": "CA970",
       "price": 4200,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 112.png",
       "stock": 157,
       "available": true
     },
@@ -3003,7 +3003,7 @@
       "reference": "CA895",
       "price": 4800,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 114.png",
       "stock": 101,
       "available": true
     },
@@ -3013,7 +3013,7 @@
       "reference": "",
       "price": 14000,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 125.png",
       "stock": 7,
       "available": true
     },
@@ -3023,7 +3023,7 @@
       "reference": "CA971",
       "price": 15600,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 135.png",
       "stock": 26,
       "available": true
     },
@@ -3033,7 +3033,7 @@
       "reference": "",
       "price": 17900,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 140.png",
       "stock": 14,
       "available": true
     },
@@ -3043,7 +3043,7 @@
       "reference": "",
       "price": 25000,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 142.png",
       "stock": 11,
       "available": true
     },
@@ -3053,7 +3053,7 @@
       "reference": "HE275",
       "price": 27200,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE # 145.png",
       "stock": 15,
       "available": true
     },
@@ -3123,7 +3123,7 @@
       "reference": "",
       "price": 1100,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE ECONOMICO - # 6.png",
       "stock": 111,
       "available": true
     },
@@ -3133,7 +3133,7 @@
       "reference": "HE241",
       "price": 1600,
       "category": "Parches",
-      "image": "",
+      "image": "./imagenes/repuestos/parches/PARCHE ECONOMICO - # 8.png",
       "stock": 17,
       "available": true
     },
@@ -3353,7 +3353,7 @@
       "reference": "",
       "price": 45000,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PEGANTE RUBER VULK (1L).png",
       "stock": 8,
       "available": true
     },
@@ -3363,7 +3363,7 @@
       "reference": "",
       "price": 12000,
       "category": "Insumos",
-      "image": "",
+      "image": "./imagenes/repuestos/insumos/PEGANTE RUBER VULK (200ML).png",
       "stock": 18,
       "available": true
     },
