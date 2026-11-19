@@ -3,7 +3,7 @@
   "source": "CATALOGO PALADIUM.xlsx",
   "categories": [
     "Aceites y lubricantes",
-    "Repuestos y accesorios",
+    "Repuestos",
     "Balineras y rodamientos",
     "Frenos",
     "Baterías y electricidad",
@@ -892,7 +892,7 @@
       "name": "CAPUCHON BUJIA ROJO DR IP2",
       "reference": "",
       "price": 2000,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/repuestos/CAPUCHON BUJIA ROJO DR IP2.png",
       "stock": 0,
       "available": false
@@ -1422,7 +1422,7 @@
       "name": "GATO CENTRAL BOXER CT",
       "reference": "",
       "price": 71500,
-      "category": "Repuestos y accesorios",
+      "category": "Repuestos",
       "image": "./imagenes/repuestos/repuestos/GATO CENTRAL BOXER CT.png",
       "stock": 0,
       "available": false
